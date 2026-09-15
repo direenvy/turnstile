@@ -1,6 +1,7 @@
 /* Monthly trips since 2019, rail and bus as two lines. Whole months only, so
-   the newest partial month never reads as a collapse. Server component; the
-   SVG is drawn from the mart at build time. */
+   the newest partial month never reads as a collapse. Monochrome marks; the
+   dawn arc's steel blue sits under the rail line as atmosphere, not as a
+   category colour. Server component, drawn from the mart at build time. */
 
 import { monthly, compact, monthName } from "@/lib/data";
 
@@ -27,36 +28,44 @@ export default function SystemChart() {
   const years = months.map((m, i) => ({ m, i })).filter(({ m }) => m.endsWith("-01"));
   const ticks = Array.from({ length: top / step + 1 }, (_, k) => k * step);
   const last = months.length - 1;
+  const railArea = `${path(series.rail)} L${x(last).toFixed(1)} ${y(0)} L${x(0).toFixed(1)} ${y(0)} Z`;
 
   return (
     <figure>
       <svg viewBox={`0 0 ${W} ${H}`} className="w-full" role="img" aria-label={`Monthly trips by system, ${monthName(months[0])} to ${monthName(months[last])}`}>
+        <defs>
+          <linearGradient id="dawn-wash" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stopColor="#5a769f" stopOpacity={0.28} />
+            <stop offset="100%" stopColor="#c1d3e6" stopOpacity={0} />
+          </linearGradient>
+        </defs>
         {ticks.map((t) => (
           <g key={t}>
-            <line x1={PAD.left} x2={W - PAD.right} y1={y(t)} y2={y(t)} stroke="var(--border-hairline)" />
-            <text x={PAD.left - 8} y={y(t) + 4} textAnchor="end" fontSize={11} fill="var(--text-label)" className="tabular">
+            <line x1={PAD.left} x2={W - PAD.right} y1={y(t)} y2={y(t)} stroke="var(--hairline)" />
+            <text x={PAD.left - 8} y={y(t) + 4} textAnchor="end" fontSize={11} fill="var(--text-muted)" className="tabular">
               {t === 0 ? "0" : compact(t)}
             </text>
           </g>
         ))}
         {years.map(({ m, i }) => (
-          <text key={m} x={x(i)} y={H - 10} textAnchor="middle" fontSize={11} fill="var(--text-label)">
+          <text key={m} x={x(i)} y={H - 10} textAnchor="middle" fontSize={11} fill="var(--text-muted)">
             {m.slice(0, 4)}
           </text>
         ))}
-        <path d={path(series.rail)} fill="none" stroke="var(--data)" strokeWidth={2} strokeLinejoin="round" />
-        <path d={path(series.bus, busStart)} fill="none" stroke="var(--color-indigo-navy)" strokeWidth={2} strokeLinejoin="round" />
-        <circle cx={x(last)} cy={y(series.rail[last])} r={3.5} fill="var(--data)" />
-        <circle cx={x(last)} cy={y(series.bus[last])} r={3.5} fill="var(--color-indigo-navy)" />
+        <path d={railArea} fill="url(#dawn-wash)" />
+        <path d={path(series.rail)} fill="none" stroke="var(--color-onyx)" strokeWidth={1.75} strokeLinejoin="round" />
+        <path d={path(series.bus, busStart)} fill="none" stroke="var(--color-slate-veil)" strokeWidth={1.5} strokeDasharray="4 3" strokeLinejoin="round" />
+        <circle cx={x(last)} cy={y(series.rail[last])} r={3.5} fill="var(--color-onyx)" />
+        <circle cx={x(last)} cy={y(series.bus[last])} r={3.5} fill="var(--color-slate-veil)" />
       </svg>
-      <figcaption className="flex flex-wrap items-center gap-x-6 gap-y-1" style={{ marginTop: 12, fontSize: 13, color: "var(--text-body)" }}>
+      <figcaption className="body-sm flex flex-wrap items-center gap-x-6 gap-y-1" style={{ marginTop: 12, color: "var(--text-secondary)" }}>
         <span className="flex items-center gap-2">
-          <span aria-hidden="true" style={{ width: 16, height: 2, background: "var(--data)" }} /> Rail (Rapid Rail + KTMB)
+          <span aria-hidden="true" style={{ width: 18, height: 0, borderTop: "1.75px solid var(--color-onyx)" }} /> Rail (Rapid Rail + KTMB)
         </span>
         <span className="flex items-center gap-2">
-          <span aria-hidden="true" style={{ width: 16, height: 2, background: "var(--color-indigo-navy)" }} /> Bus (Rapid Bus, reported from 2022)
+          <span aria-hidden="true" style={{ width: 18, height: 0, borderTop: "1.5px dashed var(--color-slate-veil)" }} /> Bus (Rapid Bus, reported from 2022)
         </span>
-        <span style={{ color: "var(--text-label)" }}>Whole months only · trips, not passengers</span>
+        <span className="muted">Whole months only · trips, not passengers</span>
       </figcaption>
     </figure>
   );

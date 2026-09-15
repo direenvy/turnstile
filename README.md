@@ -12,7 +12,7 @@ eleven data-quality checks, and publishes a set of small marts that a static Nex
 reads at build time. A failed check fails the workflow and publishes nothing; a warning
 publishes and stays on the page until it clears.
 
-![Turnstile dashboard: status strip with last run, data freshness, July 2026 trips and the busiest mode; a flagged freshness warning; monthly trips by system since 2019](docs/hero.png)
+![Turnstile: the dawn-arc hero with the headline dissolving into the gradient — Malaysia's public-transport ridership, checked before it's published](docs/hero.png)
 
 ---
 
@@ -84,6 +84,22 @@ is a rollback; Vercel redeploys the dashboard on the data commit. At this volume
 would add a service to run and nothing to show for it. DuckDB does the aggregation straight
 off the parquet at run time.
 
+## Interface
+
+The dashboard follows the **New Genre** style reference ([DESIGN.md](DESIGN.md)): a white
+canvas, Onyx `#0c1018` text, one monumental dawn-arc gradient as the hero (charred umber
+through steel twilight to warm parchment), a condensed serif for display only and a
+low-weight geometric sans for everything else. Instrument Serif and DM Sans stand in for
+the licensed Serrif Condensed and Saans Variable. Cards are `#f5f5f5` at 16px with no
+shadow; controls are pills; the footer is the gradient's darkest stop as a solid.
+
+The system is achromatic at the interface level, which a data-quality page has to
+respect deliberately: **status is carried by shape and weight, not hue** — a failed check
+is an Onyx-filled pill, a warning an Onyx-outlined one, passed and noted are grey text.
+Chart marks are Onyx and Slate Veil; the dawn arc's steel blue sits under the rail line as
+a wash, never as a category colour. Direction on the mode cards is sign and weight. Every
+figure remains readable with the colour removed because there is no colour to remove.
+
 ## Architecture
 
 ```
@@ -100,7 +116,7 @@ data/
   runs/         latest.json + history.jsonl
 frontend/
   data/         the marts, written by the pipeline, imported at build time
-  app/, components/   static Next.js dashboard (Column design system)
+  app/, components/   static Next.js dashboard (New Genre style reference, DESIGN.md)
 tests/          19 tests on synthetic snapshots with known answers, plus ingest/transform/run end to end
 .github/workflows/
   pipeline.yml  daily 02:00 UTC: run, then commit data/ and frontend/data/ back (also on failure)

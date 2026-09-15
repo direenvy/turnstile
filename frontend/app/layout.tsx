@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
-import { Inter, JetBrains_Mono } from "next/font/google";
+import { DM_Sans, Instrument_Serif } from "next/font/google";
 import "./globals.css";
 
-// SuisseIntl and SuisseIntlMono are licensed faces; these are the documented
-// substitutes and carry the same weight range.
-const inter = Inter({ variable: "--font-inter", subsets: ["latin"], weight: ["300", "400", "500", "600"] });
-const jetbrainsMono = JetBrains_Mono({ variable: "--font-jetbrains-mono", subsets: ["latin"], weight: ["400"] });
+// Serrif Condensed and Saans Variable are licensed faces. Instrument Serif is
+// the condensed editorial serif on Google Fonts closest to the display voice;
+// DM Sans is a geometric variable sans whose wght axis reaches every weight
+// the system uses (300, 380, 400, 500, 570).
+const serif = Instrument_Serif({ variable: "--font-serif", subsets: ["latin"], weight: "400" });
+const sans = DM_Sans({ variable: "--font-sans", subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Turnstile — Malaysia's public-transport ridership, checked daily",
@@ -14,7 +16,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={`${inter.variable} ${jetbrainsMono.variable} h-full antialiased`}>
+    <html lang="en" className={`${serif.variable} ${sans.variable} h-full antialiased`}>
       <body className="flex min-h-full flex-col">{children}</body>
     </html>
   );

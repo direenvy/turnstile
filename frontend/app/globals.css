@@ -208,3 +208,13 @@ body {
     animation-duration: 0.01ms !important;
   }
 }
+
+/* Axis labels re-enter softly when the chart range changes. */
+@keyframes chart-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

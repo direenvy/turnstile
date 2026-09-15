@@ -1,0 +1,5222 @@
+[
+{
+"month": "2019-01",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5363000
+},
+{
+"month": "2019-01",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7900483
+},
+{
+"month": "2019-01",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 978364
+},
+{
+"month": "2019-01",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5206125
+},
+{
+"month": "2019-02",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4454115
+},
+{
+"month": "2019-02",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6523515
+},
+{
+"month": "2019-02",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 857334
+},
+{
+"month": "2019-02",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 4319140
+},
+{
+"month": "2019-03",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5617697
+},
+{
+"month": "2019-03",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 8127743
+},
+{
+"month": "2019-03",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1018990
+},
+{
+"month": "2019-03",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5393067
+},
+{
+"month": "2019-04",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5571821
+},
+{
+"month": "2019-04",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 8189219
+},
+{
+"month": "2019-04",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 999786
+},
+{
+"month": "2019-04",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5294479
+},
+{
+"month": "2019-05",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5458497
+},
+{
+"month": "2019-05",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7746135
+},
+{
+"month": "2019-05",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 935505
+},
+{
+"month": "2019-05",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5155333
+},
+{
+"month": "2019-06",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4906864
+},
+{
+"month": "2019-06",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7000564
+},
+{
+"month": "2019-06",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 918356
+},
+{
+"month": "2019-06",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 4793691
+},
+{
+"month": "2019-07",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5757222
+},
+{
+"month": "2019-07",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 8515230
+},
+{
+"month": "2019-07",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1034805
+},
+{
+"month": "2019-07",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5729242
+},
+{
+"month": "2019-08",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5577557
+},
+{
+"month": "2019-08",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 8237693
+},
+{
+"month": "2019-08",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1049288
+},
+{
+"month": "2019-08",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5556259
+},
+{
+"month": "2019-09",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5182224
+},
+{
+"month": "2019-09",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7371250
+},
+{
+"month": "2019-09",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 993359
+},
+{
+"month": "2019-09",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5084785
+},
+{
+"month": "2019-10",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5816211
+},
+{
+"month": "2019-10",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 8571260
+},
+{
+"month": "2019-10",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1170952
+},
+{
+"month": "2019-10",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5870709
+},
+{
+"month": "2019-11",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5735068
+},
+{
+"month": "2019-11",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 8281889
+},
+{
+"month": "2019-11",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1205397
+},
+{
+"month": "2019-11",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5715953
+},
+{
+"month": "2019-12",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5706946
+},
+{
+"month": "2019-12",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 8192993
+},
+{
+"month": "2019-12",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1373602
+},
+{
+"month": "2019-12",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5834022
+},
+{
+"month": "2020-01",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5389518
+},
+{
+"month": "2020-01",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7895017
+},
+{
+"month": "2020-01",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1216758
+},
+{
+"month": "2020-01",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5576657
+},
+{
+"month": "2020-02",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5161307
+},
+{
+"month": "2020-02",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7628423
+},
+{
+"month": "2020-02",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1085541
+},
+{
+"month": "2020-02",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5318955
+},
+{
+"month": "2020-03",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 3144777
+},
+{
+"month": "2020-03",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 4465478
+},
+{
+"month": "2020-03",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 626524
+},
+{
+"month": "2020-03",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 3078103
+},
+{
+"month": "2020-04",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 394171
+},
+{
+"month": "2020-04",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 477372
+},
+{
+"month": "2020-04",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 72630
+},
+{
+"month": "2020-04",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 309718
+},
+{
+"month": "2020-05",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 1205494
+},
+{
+"month": "2020-05",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 1332920
+},
+{
+"month": "2020-05",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 239120
+},
+{
+"month": "2020-05",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 1022762
+},
+{
+"month": "2020-06",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 2297520
+},
+{
+"month": "2020-06",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 2763468
+},
+{
+"month": "2020-06",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 462853
+},
+{
+"month": "2020-06",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 2074057
+},
+{
+"month": "2020-07",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 3195946
+},
+{
+"month": "2020-07",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 4037258
+},
+{
+"month": "2020-07",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 652916
+},
+{
+"month": "2020-07",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 3033868
+},
+{
+"month": "2020-08",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 3227890
+},
+{
+"month": "2020-08",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 4047143
+},
+{
+"month": "2020-08",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 659168
+},
+{
+"month": "2020-08",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 3097549
+},
+{
+"month": "2020-09",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 3549250
+},
+{
+"month": "2020-09",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 4574478
+},
+{
+"month": "2020-09",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 709460
+},
+{
+"month": "2020-09",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 3476687
+},
+{
+"month": "2020-10",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 2592837
+},
+{
+"month": "2020-10",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 2976066
+},
+{
+"month": "2020-10",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 501175
+},
+{
+"month": "2020-10",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 2250818
+},
+{
+"month": "2020-11",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 35212
+},
+{
+"month": "2020-11",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 25866
+},
+{
+"month": "2020-11",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 84204
+},
+{
+"month": "2020-11",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 2126946
+},
+{
+"month": "2020-11",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 2362797
+},
+{
+"month": "2020-11",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 432777
+},
+{
+"month": "2020-11",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 1794618
+},
+{
+"month": "2020-12",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 109849
+},
+{
+"month": "2020-12",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 31629
+},
+{
+"month": "2020-12",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 144788
+},
+{
+"month": "2020-12",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 2429909
+},
+{
+"month": "2020-12",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 2746762
+},
+{
+"month": "2020-12",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 484612
+},
+{
+"month": "2020-12",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 2134543
+},
+{
+"month": "2021-01",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 68828
+},
+{
+"month": "2021-01",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 12780
+},
+{
+"month": "2021-01",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 91497
+},
+{
+"month": "2021-01",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 1824666
+},
+{
+"month": "2021-01",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 1980365
+},
+{
+"month": "2021-01",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 352306
+},
+{
+"month": "2021-01",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 1510475
+},
+{
+"month": "2021-02",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 28999
+},
+{
+"month": "2021-02",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 7338
+},
+{
+"month": "2021-02",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 57794
+},
+{
+"month": "2021-02",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 1698744
+},
+{
+"month": "2021-02",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 1824987
+},
+{
+"month": "2021-02",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 312303
+},
+{
+"month": "2021-02",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 1423721
+},
+{
+"month": "2021-03",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 56682
+},
+{
+"month": "2021-03",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 29785
+},
+{
+"month": "2021-03",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 105887
+},
+{
+"month": "2021-03",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 2601245
+},
+{
+"month": "2021-03",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 3033861
+},
+{
+"month": "2021-03",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 502882
+},
+{
+"month": "2021-03",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 2435248
+},
+{
+"month": "2021-04",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 66256
+},
+{
+"month": "2021-04",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 25091
+},
+{
+"month": "2021-04",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 112575
+},
+{
+"month": "2021-04",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 2705960
+},
+{
+"month": "2021-04",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 3266042
+},
+{
+"month": "2021-04",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 523031
+},
+{
+"month": "2021-04",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 2609911
+},
+{
+"month": "2021-05",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 36410
+},
+{
+"month": "2021-05",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 13178
+},
+{
+"month": "2021-05",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 59589
+},
+{
+"month": "2021-05",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 1799251
+},
+{
+"month": "2021-05",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 1904752
+},
+{
+"month": "2021-05",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 320320
+},
+{
+"month": "2021-05",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 1524387
+},
+{
+"month": "2021-06",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 3556
+},
+{
+"month": "2021-06",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 2128
+},
+{
+"month": "2021-06",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 27542
+},
+{
+"month": "2021-06",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 731375
+},
+{
+"month": "2021-06",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 833847
+},
+{
+"month": "2021-06",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 125639
+},
+{
+"month": "2021-06",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 580487
+},
+{
+"month": "2021-07",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 5055
+},
+{
+"month": "2021-07",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 3322
+},
+{
+"month": "2021-07",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 40213
+},
+{
+"month": "2021-07",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 824844
+},
+{
+"month": "2021-07",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 897012
+},
+{
+"month": "2021-07",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 137369
+},
+{
+"month": "2021-07",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 614041
+},
+{
+"month": "2021-08",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 5544
+},
+{
+"month": "2021-08",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 3934
+},
+{
+"month": "2021-08",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 40126
+},
+{
+"month": "2021-08",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 1061950
+},
+{
+"month": "2021-08",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 1093605
+},
+{
+"month": "2021-08",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 179144
+},
+{
+"month": "2021-08",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 758049
+},
+{
+"month": "2021-09",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 8146
+},
+{
+"month": "2021-09",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 12274
+},
+{
+"month": "2021-09",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 50535
+},
+{
+"month": "2021-09",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 1557367
+},
+{
+"month": "2021-09",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 1634423
+},
+{
+"month": "2021-09",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 274935
+},
+{
+"month": "2021-09",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 1294304
+},
+{
+"month": "2021-10",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 58988
+},
+{
+"month": "2021-10",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 58390
+},
+{
+"month": "2021-10",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 96424
+},
+{
+"month": "2021-10",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 2034527
+},
+{
+"month": "2021-10",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 2355921
+},
+{
+"month": "2021-10",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 407268
+},
+{
+"month": "2021-10",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 1870652
+},
+{
+"month": "2021-11",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 123610
+},
+{
+"month": "2021-11",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 65644
+},
+{
+"month": "2021-11",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 158440
+},
+{
+"month": "2021-11",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 2392406
+},
+{
+"month": "2021-11",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 2962250
+},
+{
+"month": "2021-11",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 501210
+},
+{
+"month": "2021-11",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 2278009
+},
+{
+"month": "2021-12",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 172260
+},
+{
+"month": "2021-12",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 70588
+},
+{
+"month": "2021-12",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 205972
+},
+{
+"month": "2021-12",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 2706638
+},
+{
+"month": "2021-12",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 3336549
+},
+{
+"month": "2021-12",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 589922
+},
+{
+"month": "2021-12",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 2673726
+},
+{
+"month": "2022-01",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 3380633
+},
+{
+"month": "2022-01",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 62940
+},
+{
+"month": "2022-01",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 833600
+},
+{
+"month": "2022-01",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 166474
+},
+{
+"month": "2022-01",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 52615
+},
+{
+"month": "2022-01",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 182522
+},
+{
+"month": "2022-01",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 2828567
+},
+{
+"month": "2022-01",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 3470403
+},
+{
+"month": "2022-01",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 576678
+},
+{
+"month": "2022-01",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 2737126
+},
+{
+"month": "2022-02",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 2789683
+},
+{
+"month": "2022-02",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 49309
+},
+{
+"month": "2022-02",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 708432
+},
+{
+"month": "2022-02",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 174186
+},
+{
+"month": "2022-02",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 57405
+},
+{
+"month": "2022-02",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 145435
+},
+{
+"month": "2022-02",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 2171266
+},
+{
+"month": "2022-02",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 2642564
+},
+{
+"month": "2022-02",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 463079
+},
+{
+"month": "2022-02",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 2000682
+},
+{
+"month": "2022-03",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 3206086
+},
+{
+"month": "2022-03",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 53072
+},
+{
+"month": "2022-03",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 759594
+},
+{
+"month": "2022-03",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 193275
+},
+{
+"month": "2022-03",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 69685
+},
+{
+"month": "2022-03",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 164665
+},
+{
+"month": "2022-03",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 2693615
+},
+{
+"month": "2022-03",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 3328621
+},
+{
+"month": "2022-03",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 563548
+},
+{
+"month": "2022-03",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 2497966
+},
+{
+"month": "2022-04",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 3442729
+},
+{
+"month": "2022-04",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 64536
+},
+{
+"month": "2022-04",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 847552
+},
+{
+"month": "2022-04",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 212394
+},
+{
+"month": "2022-04",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 40753
+},
+{
+"month": "2022-04",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 186134
+},
+{
+"month": "2022-04",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 3228674
+},
+{
+"month": "2022-04",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 3819735
+},
+{
+"month": "2022-04",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 659124
+},
+{
+"month": "2022-04",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 2853546
+},
+{
+"month": "2022-05",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 3727727
+},
+{
+"month": "2022-05",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 73352
+},
+{
+"month": "2022-05",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 964905
+},
+{
+"month": "2022-05",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 303930
+},
+{
+"month": "2022-05",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 89824
+},
+{
+"month": "2022-05",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 251938
+},
+{
+"month": "2022-05",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 3339042
+},
+{
+"month": "2022-05",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 4335519
+},
+{
+"month": "2022-05",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 783838
+},
+{
+"month": "2022-05",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 3375471
+},
+{
+"month": "2022-06",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 4110011
+},
+{
+"month": "2022-06",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 75150
+},
+{
+"month": "2022-06",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 973389
+},
+{
+"month": "2022-06",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 306601
+},
+{
+"month": "2022-06",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 116726
+},
+{
+"month": "2022-06",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 266991
+},
+{
+"month": "2022-06",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4344595
+},
+{
+"month": "2022-06",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 5426364
+},
+{
+"month": "2022-06",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 991170
+},
+{
+"month": "2022-06",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 4441552
+},
+{
+"month": "2022-07",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 4299959
+},
+{
+"month": "2022-07",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 75807
+},
+{
+"month": "2022-07",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1024520
+},
+{
+"month": "2022-07",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 314801
+},
+{
+"month": "2022-07",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 121606
+},
+{
+"month": "2022-07",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 274593
+},
+{
+"month": "2022-07",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4266733
+},
+{
+"month": "2022-07",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 5360964
+},
+{
+"month": "2022-07",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1059131
+},
+{
+"month": "2022-07",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 4666497
+},
+{
+"month": "2022-07",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 688844
+},
+{
+"month": "2022-07",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 186746
+},
+{
+"month": "2022-08",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 4632950
+},
+{
+"month": "2022-08",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 78115
+},
+{
+"month": "2022-08",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1054655
+},
+{
+"month": "2022-08",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 296386
+},
+{
+"month": "2022-08",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 107909
+},
+{
+"month": "2022-08",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 266267
+},
+{
+"month": "2022-08",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4293066
+},
+{
+"month": "2022-08",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 5491587
+},
+{
+"month": "2022-08",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1027788
+},
+{
+"month": "2022-08",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 4513422
+},
+{
+"month": "2022-08",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 579156
+},
+{
+"month": "2022-08",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 218416
+},
+{
+"month": "2022-09",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 4223611
+},
+{
+"month": "2022-09",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 73403
+},
+{
+"month": "2022-09",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1031191
+},
+{
+"month": "2022-09",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 322210
+},
+{
+"month": "2022-09",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 142348
+},
+{
+"month": "2022-09",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 314011
+},
+{
+"month": "2022-09",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4286962
+},
+{
+"month": "2022-09",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 5456094
+},
+{
+"month": "2022-09",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1038355
+},
+{
+"month": "2022-09",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 4508174
+},
+{
+"month": "2022-09",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 605209
+},
+{
+"month": "2022-09",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 240418
+},
+{
+"month": "2022-10",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 4322220
+},
+{
+"month": "2022-10",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 73735
+},
+{
+"month": "2022-10",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1087560
+},
+{
+"month": "2022-10",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 342914
+},
+{
+"month": "2022-10",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 137410
+},
+{
+"month": "2022-10",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 334629
+},
+{
+"month": "2022-10",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4259135
+},
+{
+"month": "2022-10",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 5470987
+},
+{
+"month": "2022-10",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1104800
+},
+{
+"month": "2022-10",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 4542720
+},
+{
+"month": "2022-10",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 629934
+},
+{
+"month": "2022-10",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 250339
+},
+{
+"month": "2022-11",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 4346789
+},
+{
+"month": "2022-11",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 69408
+},
+{
+"month": "2022-11",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1054801
+},
+{
+"month": "2022-11",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 324250
+},
+{
+"month": "2022-11",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 106616
+},
+{
+"month": "2022-11",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 309087
+},
+{
+"month": "2022-11",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 3963991
+},
+{
+"month": "2022-11",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 4391529
+},
+{
+"month": "2022-11",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1079915
+},
+{
+"month": "2022-11",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 4336909
+},
+{
+"month": "2022-11",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 610845
+},
+{
+"month": "2022-11",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 243680
+},
+{
+"month": "2022-12",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 4266379
+},
+{
+"month": "2022-12",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 57844
+},
+{
+"month": "2022-12",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1123997
+},
+{
+"month": "2022-12",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 381110
+},
+{
+"month": "2022-12",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 144801
+},
+{
+"month": "2022-12",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 361211
+},
+{
+"month": "2022-12",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4475686
+},
+{
+"month": "2022-12",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 5821398
+},
+{
+"month": "2022-12",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1320643
+},
+{
+"month": "2022-12",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 4874144
+},
+{
+"month": "2022-12",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 664025
+},
+{
+"month": "2022-12",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 285765
+},
+{
+"month": "2023-01",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 4323631
+},
+{
+"month": "2023-01",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 66714
+},
+{
+"month": "2023-01",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1201332
+},
+{
+"month": "2023-01",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 335155
+},
+{
+"month": "2023-01",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 114038
+},
+{
+"month": "2023-01",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 316838
+},
+{
+"month": "2023-01",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4319239
+},
+{
+"month": "2023-01",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 5465184
+},
+{
+"month": "2023-01",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1207697
+},
+{
+"month": "2023-01",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 4557793
+},
+{
+"month": "2023-01",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 640429
+},
+{
+"month": "2023-01",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 249745
+},
+{
+"month": "2023-02",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 4430186
+},
+{
+"month": "2023-02",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 55881
+},
+{
+"month": "2023-02",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1065326
+},
+{
+"month": "2023-02",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 314452
+},
+{
+"month": "2023-02",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 116062
+},
+{
+"month": "2023-02",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 297460
+},
+{
+"month": "2023-02",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 3616881
+},
+{
+"month": "2023-02",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 5350230
+},
+{
+"month": "2023-02",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1311483
+},
+{
+"month": "2023-02",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 4392381
+},
+{
+"month": "2023-02",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 541466
+},
+{
+"month": "2023-02",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 219424
+},
+{
+"month": "2023-03",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5749579
+},
+{
+"month": "2023-03",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 66538
+},
+{
+"month": "2023-03",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1164410
+},
+{
+"month": "2023-03",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 348738
+},
+{
+"month": "2023-03",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 129938
+},
+{
+"month": "2023-03",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 343741
+},
+{
+"month": "2023-03",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4308679
+},
+{
+"month": "2023-03",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6489551
+},
+{
+"month": "2023-03",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1580507
+},
+{
+"month": "2023-03",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5525715
+},
+{
+"month": "2023-03",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 2036718
+},
+{
+"month": "2023-03",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 268579
+},
+{
+"month": "2023-04",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5025792
+},
+{
+"month": "2023-04",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 58294
+},
+{
+"month": "2023-04",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1130301
+},
+{
+"month": "2023-04",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 346644
+},
+{
+"month": "2023-04",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 102008
+},
+{
+"month": "2023-04",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 321869
+},
+{
+"month": "2023-04",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 3338686
+},
+{
+"month": "2023-04",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 5399898
+},
+{
+"month": "2023-04",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1377627
+},
+{
+"month": "2023-04",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 4908411
+},
+{
+"month": "2023-04",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 2137546
+},
+{
+"month": "2023-04",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 260097
+},
+{
+"month": "2023-05",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5448988
+},
+{
+"month": "2023-05",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 58822
+},
+{
+"month": "2023-05",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1156742
+},
+{
+"month": "2023-05",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 340300
+},
+{
+"month": "2023-05",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 117771
+},
+{
+"month": "2023-05",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 340075
+},
+{
+"month": "2023-05",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4094851
+},
+{
+"month": "2023-05",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6067411
+},
+{
+"month": "2023-05",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1439986
+},
+{
+"month": "2023-05",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5444245
+},
+{
+"month": "2023-05",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 2543049
+},
+{
+"month": "2023-05",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 264269
+},
+{
+"month": "2023-06",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5161823
+},
+{
+"month": "2023-06",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 69127
+},
+{
+"month": "2023-06",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1150906
+},
+{
+"month": "2023-06",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 345721
+},
+{
+"month": "2023-06",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 121531
+},
+{
+"month": "2023-06",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 345313
+},
+{
+"month": "2023-06",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4143689
+},
+{
+"month": "2023-06",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 5940788
+},
+{
+"month": "2023-06",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1453674
+},
+{
+"month": "2023-06",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5405343
+},
+{
+"month": "2023-06",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 2542969
+},
+{
+"month": "2023-06",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 273162
+},
+{
+"month": "2023-07",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5399574
+},
+{
+"month": "2023-07",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 75666
+},
+{
+"month": "2023-07",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1193731
+},
+{
+"month": "2023-07",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 349585
+},
+{
+"month": "2023-07",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 119388
+},
+{
+"month": "2023-07",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 342690
+},
+{
+"month": "2023-07",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4237733
+},
+{
+"month": "2023-07",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6229737
+},
+{
+"month": "2023-07",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1507056
+},
+{
+"month": "2023-07",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5626647
+},
+{
+"month": "2023-07",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 2781645
+},
+{
+"month": "2023-07",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 268501
+},
+{
+"month": "2023-08",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5669349
+},
+{
+"month": "2023-08",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 71476
+},
+{
+"month": "2023-08",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1231974
+},
+{
+"month": "2023-08",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 349916
+},
+{
+"month": "2023-08",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 130094
+},
+{
+"month": "2023-08",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 362258
+},
+{
+"month": "2023-08",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4482065
+},
+{
+"month": "2023-08",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6583736
+},
+{
+"month": "2023-08",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1601305
+},
+{
+"month": "2023-08",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5906244
+},
+{
+"month": "2023-08",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 3099685
+},
+{
+"month": "2023-08",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 269875
+},
+{
+"month": "2023-09",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5511967
+},
+{
+"month": "2023-09",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 72147
+},
+{
+"month": "2023-09",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1177351
+},
+{
+"month": "2023-09",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 330003
+},
+{
+"month": "2023-09",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 130036
+},
+{
+"month": "2023-09",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 367046
+},
+{
+"month": "2023-09",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4282036
+},
+{
+"month": "2023-09",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6302197
+},
+{
+"month": "2023-09",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1519717
+},
+{
+"month": "2023-09",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 5714336
+},
+{
+"month": "2023-09",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 2987450
+},
+{
+"month": "2023-09",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 263373
+},
+{
+"month": "2023-10",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6061147
+},
+{
+"month": "2023-10",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 74151
+},
+{
+"month": "2023-10",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1263434
+},
+{
+"month": "2023-10",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 332235
+},
+{
+"month": "2023-10",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 121307
+},
+{
+"month": "2023-10",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 1018674
+},
+{
+"month": "2023-10",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 415717
+},
+{
+"month": "2023-10",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4633424
+},
+{
+"month": "2023-10",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6824938
+},
+{
+"month": "2023-10",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1622435
+},
+{
+"month": "2023-10",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 6137159
+},
+{
+"month": "2023-10",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 3299662
+},
+{
+"month": "2023-10",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 257896
+},
+{
+"month": "2023-11",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5995334
+},
+{
+"month": "2023-11",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 84331
+},
+{
+"month": "2023-11",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1255180
+},
+{
+"month": "2023-11",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 344658
+},
+{
+"month": "2023-11",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 126438
+},
+{
+"month": "2023-11",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 1071709
+},
+{
+"month": "2023-11",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 430372
+},
+{
+"month": "2023-11",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4572190
+},
+{
+"month": "2023-11",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6630252
+},
+{
+"month": "2023-11",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1683327
+},
+{
+"month": "2023-11",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 6133584
+},
+{
+"month": "2023-11",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 3320682
+},
+{
+"month": "2023-11",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 259504
+},
+{
+"month": "2023-12",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5804593
+},
+{
+"month": "2023-12",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 72043
+},
+{
+"month": "2023-12",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1305892
+},
+{
+"month": "2023-12",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 377571
+},
+{
+"month": "2023-12",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 144339
+},
+{
+"month": "2023-12",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 1035047
+},
+{
+"month": "2023-12",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 475584
+},
+{
+"month": "2023-12",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4561106
+},
+{
+"month": "2023-12",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6479670
+},
+{
+"month": "2023-12",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1802759
+},
+{
+"month": "2023-12",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 6749650
+},
+{
+"month": "2023-12",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 3624550
+},
+{
+"month": "2023-12",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 290351
+},
+{
+"month": "2024-01",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6084147
+},
+{
+"month": "2024-01",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 81008
+},
+{
+"month": "2024-01",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1305557
+},
+{
+"month": "2024-01",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 329142
+},
+{
+"month": "2024-01",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 99485
+},
+{
+"month": "2024-01",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 1124984
+},
+{
+"month": "2024-01",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 402829
+},
+{
+"month": "2024-01",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4505943
+},
+{
+"month": "2024-01",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6591331
+},
+{
+"month": "2024-01",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1680097
+},
+{
+"month": "2024-01",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 6506378
+},
+{
+"month": "2024-01",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 3651371
+},
+{
+"month": "2024-01",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 269985
+},
+{
+"month": "2024-02",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5558775
+},
+{
+"month": "2024-02",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 76089
+},
+{
+"month": "2024-02",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1292809
+},
+{
+"month": "2024-02",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 367019
+},
+{
+"month": "2024-02",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 152152
+},
+{
+"month": "2024-02",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 1007187
+},
+{
+"month": "2024-02",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 446509
+},
+{
+"month": "2024-02",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4430513
+},
+{
+"month": "2024-02",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6236607
+},
+{
+"month": "2024-02",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1602411
+},
+{
+"month": "2024-02",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 6167840
+},
+{
+"month": "2024-02",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 3364322
+},
+{
+"month": "2024-02",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 248788
+},
+{
+"month": "2024-03",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6104762
+},
+{
+"month": "2024-03",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 82407
+},
+{
+"month": "2024-03",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1302072
+},
+{
+"month": "2024-03",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 336265
+},
+{
+"month": "2024-03",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 107004
+},
+{
+"month": "2024-03",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 986652
+},
+{
+"month": "2024-03",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 422021
+},
+{
+"month": "2024-03",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5196908
+},
+{
+"month": "2024-03",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6937237
+},
+{
+"month": "2024-03",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1607756
+},
+{
+"month": "2024-03",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 6650215
+},
+{
+"month": "2024-03",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 3746093
+},
+{
+"month": "2024-03",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 274319
+},
+{
+"month": "2024-04",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5709475
+},
+{
+"month": "2024-04",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 85920
+},
+{
+"month": "2024-04",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1283820
+},
+{
+"month": "2024-04",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 348036
+},
+{
+"month": "2024-04",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 111059
+},
+{
+"month": "2024-04",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 985852
+},
+{
+"month": "2024-04",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 436305
+},
+{
+"month": "2024-04",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 4894934
+},
+{
+"month": "2024-04",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6445256
+},
+{
+"month": "2024-04",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1557086
+},
+{
+"month": "2024-04",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 6262373
+},
+{
+"month": "2024-04",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 3575514
+},
+{
+"month": "2024-04",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 257278
+},
+{
+"month": "2024-05",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6282229
+},
+{
+"month": "2024-05",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 88794
+},
+{
+"month": "2024-05",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1350321
+},
+{
+"month": "2024-05",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 351439
+},
+{
+"month": "2024-05",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 130500
+},
+{
+"month": "2024-05",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 1060555
+},
+{
+"month": "2024-05",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 483189
+},
+{
+"month": "2024-05",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5607473
+},
+{
+"month": "2024-05",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7206997
+},
+{
+"month": "2024-05",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1605161
+},
+{
+"month": "2024-05",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7112851
+},
+{
+"month": "2024-05",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4045346
+},
+{
+"month": "2024-05",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 265032
+},
+{
+"month": "2024-06",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5785825
+},
+{
+"month": "2024-06",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 84328
+},
+{
+"month": "2024-06",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1353180
+},
+{
+"month": "2024-06",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 354583
+},
+{
+"month": "2024-06",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 132199
+},
+{
+"month": "2024-06",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 992365
+},
+{
+"month": "2024-06",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 466485
+},
+{
+"month": "2024-06",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5196642
+},
+{
+"month": "2024-06",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6555829
+},
+{
+"month": "2024-06",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1610528
+},
+{
+"month": "2024-06",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 6723816
+},
+{
+"month": "2024-06",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 3729030
+},
+{
+"month": "2024-06",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 265919
+},
+{
+"month": "2024-07",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6563009
+},
+{
+"month": "2024-07",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 85063
+},
+{
+"month": "2024-07",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1431116
+},
+{
+"month": "2024-07",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 349288
+},
+{
+"month": "2024-07",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 121347
+},
+{
+"month": "2024-07",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 1034338
+},
+{
+"month": "2024-07",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 451598
+},
+{
+"month": "2024-07",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5626609
+},
+{
+"month": "2024-07",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7559800
+},
+{
+"month": "2024-07",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1681693
+},
+{
+"month": "2024-07",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7471333
+},
+{
+"month": "2024-07",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4277136
+},
+{
+"month": "2024-07",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 261564
+},
+{
+"month": "2024-08",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6662416
+},
+{
+"month": "2024-08",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 91994
+},
+{
+"month": "2024-08",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1418782
+},
+{
+"month": "2024-08",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 338725
+},
+{
+"month": "2024-08",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 128585
+},
+{
+"month": "2024-08",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 1012568
+},
+{
+"month": "2024-08",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 457774
+},
+{
+"month": "2024-08",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5781159
+},
+{
+"month": "2024-08",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7596795
+},
+{
+"month": "2024-08",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1752025
+},
+{
+"month": "2024-08",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7515992
+},
+{
+"month": "2024-08",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4390005
+},
+{
+"month": "2024-08",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 257851
+},
+{
+"month": "2024-09",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6391714
+},
+{
+"month": "2024-09",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 82395
+},
+{
+"month": "2024-09",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1311581
+},
+{
+"month": "2024-09",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 339388
+},
+{
+"month": "2024-09",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 145849
+},
+{
+"month": "2024-09",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 956516
+},
+{
+"month": "2024-09",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 465274
+},
+{
+"month": "2024-09",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5365130
+},
+{
+"month": "2024-09",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6900403
+},
+{
+"month": "2024-09",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1579005
+},
+{
+"month": "2024-09",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7035573
+},
+{
+"month": "2024-09",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4046549
+},
+{
+"month": "2024-09",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 249984
+},
+{
+"month": "2024-10",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6825476
+},
+{
+"month": "2024-10",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 77464
+},
+{
+"month": "2024-10",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1396412
+},
+{
+"month": "2024-10",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 331835
+},
+{
+"month": "2024-10",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 128913
+},
+{
+"month": "2024-10",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 1037755
+},
+{
+"month": "2024-10",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 496935
+},
+{
+"month": "2024-10",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5918334
+},
+{
+"month": "2024-10",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7724881
+},
+{
+"month": "2024-10",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1735628
+},
+{
+"month": "2024-10",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7720239
+},
+{
+"month": "2024-10",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4468723
+},
+{
+"month": "2024-10",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 248413
+},
+{
+"month": "2024-11",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6680696
+},
+{
+"month": "2024-11",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 64348
+},
+{
+"month": "2024-11",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1355805
+},
+{
+"month": "2024-11",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 335093
+},
+{
+"month": "2024-11",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 117741
+},
+{
+"month": "2024-11",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 988542
+},
+{
+"month": "2024-11",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 489318
+},
+{
+"month": "2024-11",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5718327
+},
+{
+"month": "2024-11",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7437276
+},
+{
+"month": "2024-11",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1719825
+},
+{
+"month": "2024-11",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7499351
+},
+{
+"month": "2024-11",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4360372
+},
+{
+"month": "2024-11",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 242252
+},
+{
+"month": "2024-12",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6420026
+},
+{
+"month": "2024-12",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 75867
+},
+{
+"month": "2024-12",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1468776
+},
+{
+"month": "2024-12",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 364307
+},
+{
+"month": "2024-12",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 118940
+},
+{
+"month": "2024-12",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 995365
+},
+{
+"month": "2024-12",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 510873
+},
+{
+"month": "2024-12",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5780943
+},
+{
+"month": "2024-12",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7540885
+},
+{
+"month": "2024-12",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1901177
+},
+{
+"month": "2024-12",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7855033
+},
+{
+"month": "2024-12",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4471649
+},
+{
+"month": "2024-12",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 272814
+},
+{
+"month": "2025-01",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6300772
+},
+{
+"month": "2025-01",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 70019
+},
+{
+"month": "2025-01",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1500325
+},
+{
+"month": "2025-01",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 352896
+},
+{
+"month": "2025-01",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 133433
+},
+{
+"month": "2025-01",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 938254
+},
+{
+"month": "2025-01",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 500608
+},
+{
+"month": "2025-01",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5583947
+},
+{
+"month": "2025-01",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7199444
+},
+{
+"month": "2025-01",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1812766
+},
+{
+"month": "2025-01",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7474956
+},
+{
+"month": "2025-01",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4324708
+},
+{
+"month": "2025-01",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 254481
+},
+{
+"month": "2025-02",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6116351
+},
+{
+"month": "2025-02",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 69469
+},
+{
+"month": "2025-02",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1302770
+},
+{
+"month": "2025-02",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 324802
+},
+{
+"month": "2025-02",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 122070
+},
+{
+"month": "2025-02",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 946379
+},
+{
+"month": "2025-02",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 477093
+},
+{
+"month": "2025-02",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5412652
+},
+{
+"month": "2025-02",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6969645
+},
+{
+"month": "2025-02",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1630089
+},
+{
+"month": "2025-02",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7039197
+},
+{
+"month": "2025-02",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4147600
+},
+{
+"month": "2025-02",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 220409
+},
+{
+"month": "2025-03",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6473286
+},
+{
+"month": "2025-03",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 76427
+},
+{
+"month": "2025-03",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1372950
+},
+{
+"month": "2025-03",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 314978
+},
+{
+"month": "2025-03",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 89333
+},
+{
+"month": "2025-03",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 747372
+},
+{
+"month": "2025-03",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 428116
+},
+{
+"month": "2025-03",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5755933
+},
+{
+"month": "2025-03",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7174483
+},
+{
+"month": "2025-03",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1632663
+},
+{
+"month": "2025-03",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7142305
+},
+{
+"month": "2025-03",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4305723
+},
+{
+"month": "2025-03",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 245619
+},
+{
+"month": "2025-04",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6705266
+},
+{
+"month": "2025-04",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 76647
+},
+{
+"month": "2025-04",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1383024
+},
+{
+"month": "2025-04",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 338999
+},
+{
+"month": "2025-04",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 112140
+},
+{
+"month": "2025-04",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 817300
+},
+{
+"month": "2025-04",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 507736
+},
+{
+"month": "2025-04",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5661642
+},
+{
+"month": "2025-04",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7285351
+},
+{
+"month": "2025-04",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1659426
+},
+{
+"month": "2025-04",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7389774
+},
+{
+"month": "2025-04",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4485310
+},
+{
+"month": "2025-04",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 234132
+},
+{
+"month": "2025-05",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6847315
+},
+{
+"month": "2025-05",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 74003
+},
+{
+"month": "2025-05",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1444377
+},
+{
+"month": "2025-05",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 339822
+},
+{
+"month": "2025-05",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 123250
+},
+{
+"month": "2025-05",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 849973
+},
+{
+"month": "2025-05",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 522560
+},
+{
+"month": "2025-05",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 6216005
+},
+{
+"month": "2025-05",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7531075
+},
+{
+"month": "2025-05",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1773505
+},
+{
+"month": "2025-05",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7823203
+},
+{
+"month": "2025-05",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4716456
+},
+{
+"month": "2025-05",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 249334
+},
+{
+"month": "2025-06",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6509133
+},
+{
+"month": "2025-06",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 69230
+},
+{
+"month": "2025-06",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1422570
+},
+{
+"month": "2025-06",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 351007
+},
+{
+"month": "2025-06",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 135602
+},
+{
+"month": "2025-06",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 788031
+},
+{
+"month": "2025-06",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 500609
+},
+{
+"month": "2025-06",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5710467
+},
+{
+"month": "2025-06",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7055985
+},
+{
+"month": "2025-06",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1689666
+},
+{
+"month": "2025-06",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7527345
+},
+{
+"month": "2025-06",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4479168
+},
+{
+"month": "2025-06",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 260245
+},
+{
+"month": "2025-07",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6793122
+},
+{
+"month": "2025-07",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 73397
+},
+{
+"month": "2025-07",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1553555
+},
+{
+"month": "2025-07",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 343546
+},
+{
+"month": "2025-07",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 116298
+},
+{
+"month": "2025-07",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 869611
+},
+{
+"month": "2025-07",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 492985
+},
+{
+"month": "2025-07",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 6350274
+},
+{
+"month": "2025-07",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 8236230
+},
+{
+"month": "2025-07",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1858680
+},
+{
+"month": "2025-07",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 8322586
+},
+{
+"month": "2025-07",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 5110482
+},
+{
+"month": "2025-07",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 256739
+},
+{
+"month": "2025-08",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6709801
+},
+{
+"month": "2025-08",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 72755
+},
+{
+"month": "2025-08",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1554570
+},
+{
+"month": "2025-08",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 347571
+},
+{
+"month": "2025-08",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 125877
+},
+{
+"month": "2025-08",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 834444
+},
+{
+"month": "2025-08",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 518134
+},
+{
+"month": "2025-08",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 6343844
+},
+{
+"month": "2025-08",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 8095935
+},
+{
+"month": "2025-08",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1892143
+},
+{
+"month": "2025-08",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 8301044
+},
+{
+"month": "2025-08",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 5052583
+},
+{
+"month": "2025-08",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 260846
+},
+{
+"month": "2025-09",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5954738
+},
+{
+"month": "2025-09",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 65261
+},
+{
+"month": "2025-09",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1410465
+},
+{
+"month": "2025-09",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 355639
+},
+{
+"month": "2025-09",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 146832
+},
+{
+"month": "2025-09",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 767865
+},
+{
+"month": "2025-09",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 520094
+},
+{
+"month": "2025-09",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5664639
+},
+{
+"month": "2025-09",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7143358
+},
+{
+"month": "2025-09",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1657494
+},
+{
+"month": "2025-09",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7530148
+},
+{
+"month": "2025-09",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4543928
+},
+{
+"month": "2025-09",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 256284
+},
+{
+"month": "2025-10",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6640671
+},
+{
+"month": "2025-10",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 67012
+},
+{
+"month": "2025-10",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1505452
+},
+{
+"month": "2025-10",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 359132
+},
+{
+"month": "2025-10",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 135050
+},
+{
+"month": "2025-10",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 857238
+},
+{
+"month": "2025-10",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 545795
+},
+{
+"month": "2025-10",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 6205243
+},
+{
+"month": "2025-10",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7739381
+},
+{
+"month": "2025-10",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1846749
+},
+{
+"month": "2025-10",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 8015428
+},
+{
+"month": "2025-10",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4753510
+},
+{
+"month": "2025-10",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 260238
+},
+{
+"month": "2025-11",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6455930
+},
+{
+"month": "2025-11",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 53582
+},
+{
+"month": "2025-11",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1429791
+},
+{
+"month": "2025-11",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 342808
+},
+{
+"month": "2025-11",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 115331
+},
+{
+"month": "2025-11",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 800397
+},
+{
+"month": "2025-11",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 501232
+},
+{
+"month": "2025-11",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5909107
+},
+{
+"month": "2025-11",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7417502
+},
+{
+"month": "2025-11",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1731604
+},
+{
+"month": "2025-11",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7803280
+},
+{
+"month": "2025-11",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4759332
+},
+{
+"month": "2025-11",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 249801
+},
+{
+"month": "2025-12",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6485099
+},
+{
+"month": "2025-12",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 24237
+},
+{
+"month": "2025-12",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1522643
+},
+{
+"month": "2025-12",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 403496
+},
+{
+"month": "2025-12",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 129098
+},
+{
+"month": "2025-12",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 828343
+},
+{
+"month": "2025-12",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 524058
+},
+{
+"month": "2025-12",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 6205647
+},
+{
+"month": "2025-12",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7784113
+},
+{
+"month": "2025-12",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1916425
+},
+{
+"month": "2025-12",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 8368266
+},
+{
+"month": "2025-12",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4991264
+},
+{
+"month": "2025-12",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 283314
+},
+{
+"month": "2026-01",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6670284
+},
+{
+"month": "2026-01",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 0
+},
+{
+"month": "2026-01",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1559371
+},
+{
+"month": "2026-01",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 448030
+},
+{
+"month": "2026-01",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 86673
+},
+{
+"month": "2026-01",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 906895
+},
+{
+"month": "2026-01",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 526947
+},
+{
+"month": "2026-01",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 6356549
+},
+{
+"month": "2026-01",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7693134
+},
+{
+"month": "2026-01",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1814236
+},
+{
+"month": "2026-01",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 8165137
+},
+{
+"month": "2026-01",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 5030622
+},
+{
+"month": "2026-01",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 258988
+},
+{
+"month": "2026-02",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 5620011
+},
+{
+"month": "2026-02",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 0
+},
+{
+"month": "2026-02",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1401930
+},
+{
+"month": "2026-02",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 492479
+},
+{
+"month": "2026-02",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 79394
+},
+{
+"month": "2026-02",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 820600
+},
+{
+"month": "2026-02",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 464928
+},
+{
+"month": "2026-02",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5384630
+},
+{
+"month": "2026-02",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 6455188
+},
+{
+"month": "2026-02",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1582355
+},
+{
+"month": "2026-02",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 6840419
+},
+{
+"month": "2026-02",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4132878
+},
+{
+"month": "2026-02",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 236708
+},
+{
+"month": "2026-03",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6190348
+},
+{
+"month": "2026-03",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 0
+},
+{
+"month": "2026-03",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1439005
+},
+{
+"month": "2026-03",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 540151
+},
+{
+"month": "2026-03",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 82130
+},
+{
+"month": "2026-03",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 767450
+},
+{
+"month": "2026-03",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 482573
+},
+{
+"month": "2026-03",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 6072461
+},
+{
+"month": "2026-03",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7282363
+},
+{
+"month": "2026-03",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1710637
+},
+{
+"month": "2026-03",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7672604
+},
+{
+"month": "2026-03",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4724175
+},
+{
+"month": "2026-03",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 269584
+},
+{
+"month": "2026-04",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6810162
+},
+{
+"month": "2026-04",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 0
+},
+{
+"month": "2026-04",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1413433
+},
+{
+"month": "2026-04",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 496083
+},
+{
+"month": "2026-04",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 76871
+},
+{
+"month": "2026-04",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 780510
+},
+{
+"month": "2026-04",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 526576
+},
+{
+"month": "2026-04",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 6326276
+},
+{
+"month": "2026-04",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7794066
+},
+{
+"month": "2026-04",
+"mode": "rail_lrt_shah_alam",
+"system": "rail",
+"trips": 0
+},
+{
+"month": "2026-04",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1718981
+},
+{
+"month": "2026-04",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 8120567
+},
+{
+"month": "2026-04",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 5146938
+},
+{
+"month": "2026-04",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 251813
+},
+{
+"month": "2026-05",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6404592
+},
+{
+"month": "2026-05",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 0
+},
+{
+"month": "2026-05",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1449282
+},
+{
+"month": "2026-05",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 586676
+},
+{
+"month": "2026-05",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 103873
+},
+{
+"month": "2026-05",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 678027
+},
+{
+"month": "2026-05",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 561315
+},
+{
+"month": "2026-05",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 6086516
+},
+{
+"month": "2026-05",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7243507
+},
+{
+"month": "2026-05",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1755233
+},
+{
+"month": "2026-05",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7971849
+},
+{
+"month": "2026-05",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4864956
+},
+{
+"month": "2026-05",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 265784
+},
+{
+"month": "2026-06",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6133909
+},
+{
+"month": "2026-06",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 0
+},
+{
+"month": "2026-06",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1400575
+},
+{
+"month": "2026-06",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 558461
+},
+{
+"month": "2026-06",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 98631
+},
+{
+"month": "2026-06",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 638529
+},
+{
+"month": "2026-06",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 515768
+},
+{
+"month": "2026-06",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5862313
+},
+{
+"month": "2026-06",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7092898
+},
+{
+"month": "2026-06",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1601861
+},
+{
+"month": "2026-06",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 7695249
+},
+{
+"month": "2026-06",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 4747437
+},
+{
+"month": "2026-06",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 270625
+},
+{
+"month": "2026-07",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6916541
+},
+{
+"month": "2026-07",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 0
+},
+{
+"month": "2026-07",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1535562
+},
+{
+"month": "2026-07",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 567572
+},
+{
+"month": "2026-07",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 92368
+},
+{
+"month": "2026-07",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 636227
+},
+{
+"month": "2026-07",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 566584
+},
+{
+"month": "2026-07",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 6391809
+},
+{
+"month": "2026-07",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 8221224
+},
+{
+"month": "2026-07",
+"mode": "rail_lrt_shah_alam",
+"system": "rail",
+"trips": 1990198
+},
+{
+"month": "2026-07",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1781955
+},
+{
+"month": "2026-07",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 8695843
+},
+{
+"month": "2026-07",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 5260925
+},
+{
+"month": "2026-07",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 266988
+}
+]

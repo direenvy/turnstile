@@ -1,0 +1,5938 @@
+[
+{
+"date": "2020-03-18",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 78308,
+"baseline": 319054,
+"ratio": 0.245
+},
+{
+"date": "2020-03-19",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 56173,
+"baseline": 315760,
+"ratio": 0.178
+},
+{
+"date": "2020-03-20",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 41850,
+"baseline": 318157,
+"ratio": 0.132
+},
+{
+"date": "2020-03-21",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 17465,
+"baseline": 137298,
+"ratio": 0.127
+},
+{
+"date": "2020-03-22",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 10477,
+"baseline": 121470,
+"ratio": 0.086
+},
+{
+"date": "2020-03-23",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 26778,
+"baseline": 309990,
+"ratio": 0.086
+},
+{
+"date": "2020-03-24",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 22941,
+"baseline": 317037,
+"ratio": 0.072
+},
+{
+"date": "2020-03-25",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 19728,
+"baseline": 317114,
+"ratio": 0.062
+},
+{
+"date": "2020-03-26",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 19299,
+"baseline": 315760,
+"ratio": 0.061
+},
+{
+"date": "2020-03-27",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 19149,
+"baseline": 318157,
+"ratio": 0.06
+},
+{
+"date": "2020-03-28",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 9181,
+"baseline": 137298,
+"ratio": 0.067
+},
+{
+"date": "2020-03-29",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 7195,
+"baseline": 121470,
+"ratio": 0.059
+},
+{
+"date": "2020-03-30",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18975,
+"baseline": 309990,
+"ratio": 0.061
+},
+{
+"date": "2020-03-31",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18814,
+"baseline": 317037,
+"ratio": 0.059
+},
+{
+"date": "2020-04-01",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 19229,
+"baseline": 317114,
+"ratio": 0.061
+},
+{
+"date": "2020-04-02",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18322,
+"baseline": 315760,
+"ratio": 0.058
+},
+{
+"date": "2020-04-03",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18120,
+"baseline": 318157,
+"ratio": 0.057
+},
+{
+"date": "2020-04-04",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 9072,
+"baseline": 137298,
+"ratio": 0.066
+},
+{
+"date": "2020-04-05",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 7208,
+"baseline": 121470,
+"ratio": 0.059
+},
+{
+"date": "2020-04-06",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18499,
+"baseline": 304221,
+"ratio": 0.061
+},
+{
+"date": "2020-04-07",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 17840,
+"baseline": 308677,
+"ratio": 0.058
+},
+{
+"date": "2020-04-08",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18048,
+"baseline": 306188,
+"ratio": 0.059
+},
+{
+"date": "2020-04-09",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 17749,
+"baseline": 300442,
+"ratio": 0.059
+},
+{
+"date": "2020-04-10",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 17764,
+"baseline": 308847,
+"ratio": 0.058
+},
+{
+"date": "2020-04-11",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 9065,
+"baseline": 124875,
+"ratio": 0.073
+},
+{
+"date": "2020-04-12",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 7244,
+"baseline": 107485,
+"ratio": 0.067
+},
+{
+"date": "2020-04-13",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18998,
+"baseline": 266909,
+"ratio": 0.071
+},
+{
+"date": "2020-04-14",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18611,
+"baseline": 254095,
+"ratio": 0.073
+},
+{
+"date": "2020-04-15",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18453,
+"baseline": 187385,
+"ratio": 0.098
+},
+{
+"date": "2020-04-16",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18041,
+"baseline": 173265,
+"ratio": 0.104
+},
+{
+"date": "2020-04-17",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18616,
+"baseline": 168639,
+"ratio": 0.11
+},
+{
+"date": "2020-04-18",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 8966,
+"baseline": 65613,
+"ratio": 0.137
+},
+{
+"date": "2020-04-19",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 7234,
+"baseline": 52193,
+"ratio": 0.139
+},
+{
+"date": "2020-04-20",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18884,
+"baseline": 131740,
+"ratio": 0.143
+},
+{
+"date": "2020-04-21",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18485,
+"baseline": 115151,
+"ratio": 0.161
+},
+{
+"date": "2020-05-08",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 46917,
+"baseline": 18368,
+"ratio": 2.554
+},
+{
+"date": "2020-05-09",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 27290,
+"baseline": 9297,
+"ratio": 2.935
+},
+{
+"date": "2020-05-10",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 20718,
+"baseline": 7349,
+"ratio": 2.819
+},
+{
+"date": "2020-05-12",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 55582,
+"baseline": 19108,
+"ratio": 2.909
+},
+{
+"date": "2020-05-13",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 60345,
+"baseline": 19478,
+"ratio": 3.098
+},
+{
+"date": "2020-05-14",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 62524,
+"baseline": 19103,
+"ratio": 3.273
+},
+{
+"date": "2020-05-15",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 61394,
+"baseline": 18368,
+"ratio": 3.342
+},
+{
+"date": "2020-05-16",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 32324,
+"baseline": 9297,
+"ratio": 3.477
+},
+{
+"date": "2020-05-17",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 25457,
+"baseline": 7349,
+"ratio": 3.464
+},
+{
+"date": "2020-05-18",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 66943,
+"baseline": 19377,
+"ratio": 3.455
+},
+{
+"date": "2020-05-19",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 66892,
+"baseline": 19108,
+"ratio": 3.501
+},
+{
+"date": "2020-05-20",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 68022,
+"baseline": 19478,
+"ratio": 3.492
+},
+{
+"date": "2020-05-21",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 66744,
+"baseline": 19103,
+"ratio": 3.494
+},
+{
+"date": "2020-05-22",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 64837,
+"baseline": 18368,
+"ratio": 3.53
+},
+{
+"date": "2020-05-23",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 35232,
+"baseline": 9297,
+"ratio": 3.79
+},
+{
+"date": "2020-05-24",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 24568,
+"baseline": 7349,
+"ratio": 3.343
+},
+{
+"date": "2020-05-27",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 64167,
+"baseline": 19805,
+"ratio": 3.24
+},
+{
+"date": "2020-05-28",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 68611,
+"baseline": 20099,
+"ratio": 3.414
+},
+{
+"date": "2020-05-29",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 70771,
+"baseline": 18368,
+"ratio": 3.853
+},
+{
+"date": "2020-05-30",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 41962,
+"baseline": 10216,
+"ratio": 4.107
+},
+{
+"date": "2020-05-31",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 31989,
+"baseline": 8315,
+"ratio": 3.847
+},
+{
+"date": "2020-06-01",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 85064,
+"baseline": 23117,
+"ratio": 3.68
+},
+{
+"date": "2020-06-02",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 85560,
+"baseline": 24552,
+"ratio": 3.485
+},
+{
+"date": "2020-06-03",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 87332,
+"baseline": 33627,
+"ratio": 2.597
+},
+{
+"date": "2020-06-04",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 84819,
+"baseline": 22014,
+"ratio": 3.853
+},
+{
+"date": "2020-06-05",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 86464,
+"baseline": 32766,
+"ratio": 2.639
+},
+{
+"date": "2020-06-09",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 95250,
+"baseline": 37085,
+"ratio": 2.568
+},
+{
+"date": "2020-06-15",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 113004,
+"baseline": 33019,
+"ratio": 3.422
+},
+{
+"date": "2020-06-22",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 116723,
+"baseline": 40802,
+"ratio": 2.861
+},
+{
+"date": "2020-10-29",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 41943,
+"baseline": 176298,
+"ratio": 0.238
+},
+{
+"date": "2021-01-28",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 30811,
+"baseline": 101731,
+"ratio": 0.303
+},
+{
+"date": "2021-05-13",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 23173,
+"baseline": 119805,
+"ratio": 0.193
+},
+{
+"date": "2021-05-14",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 26414,
+"baseline": 122788,
+"ratio": 0.215
+},
+{
+"date": "2021-05-26",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 22670,
+"baseline": 124429,
+"ratio": 0.182
+},
+{
+"date": "2021-06-01",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 25904,
+"baseline": 119973,
+"ratio": 0.216
+},
+{
+"date": "2021-06-02",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 27862,
+"baseline": 124429,
+"ratio": 0.224
+},
+{
+"date": "2021-06-03",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 28476,
+"baseline": 91669,
+"ratio": 0.311
+},
+{
+"date": "2021-06-04",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 28452,
+"baseline": 106455,
+"ratio": 0.267
+},
+{
+"date": "2021-06-05",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 16510,
+"baseline": 56723,
+"ratio": 0.291
+},
+{
+"date": "2021-06-06",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 12108,
+"baseline": 43711,
+"ratio": 0.277
+},
+{
+"date": "2021-06-07",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 13201,
+"baseline": 100110,
+"ratio": 0.132
+},
+{
+"date": "2021-06-08",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 30626,
+"baseline": 98015,
+"ratio": 0.312
+},
+{
+"date": "2021-06-09",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 30925,
+"baseline": 100722,
+"ratio": 0.307
+},
+{
+"date": "2022-11-09",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 46292,
+"baseline": 217962,
+"ratio": 0.212
+},
+{
+"date": "2022-11-10",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 40717,
+"baseline": 216075,
+"ratio": 0.188
+},
+{
+"date": "2022-11-11",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 39608,
+"baseline": 206578,
+"ratio": 0.192
+},
+{
+"date": "2022-11-12",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 21820,
+"baseline": 124135,
+"ratio": 0.176
+},
+{
+"date": "2022-11-13",
+"mode": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"value": 18080,
+"baseline": 104544,
+"ratio": 0.173
+},
+{
+"date": "2020-03-18",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 59073,
+"baseline": 203905,
+"ratio": 0.29
+},
+{
+"date": "2020-03-19",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 41991,
+"baseline": 204776,
+"ratio": 0.205
+},
+{
+"date": "2020-03-20",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 31881,
+"baseline": 216351,
+"ratio": 0.147
+},
+{
+"date": "2020-03-21",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 15277,
+"baseline": 120677,
+"ratio": 0.127
+},
+{
+"date": "2020-03-22",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 9517,
+"baseline": 103845,
+"ratio": 0.092
+},
+{
+"date": "2020-03-23",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 19924,
+"baseline": 200259,
+"ratio": 0.099
+},
+{
+"date": "2020-03-24",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 17793,
+"baseline": 201668,
+"ratio": 0.088
+},
+{
+"date": "2020-03-25",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 14756,
+"baseline": 203138,
+"ratio": 0.073
+},
+{
+"date": "2020-03-26",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 15240,
+"baseline": 204776,
+"ratio": 0.074
+},
+{
+"date": "2020-03-27",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 14928,
+"baseline": 216351,
+"ratio": 0.069
+},
+{
+"date": "2020-03-28",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 7878,
+"baseline": 120677,
+"ratio": 0.065
+},
+{
+"date": "2020-03-29",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 6587,
+"baseline": 103845,
+"ratio": 0.063
+},
+{
+"date": "2020-03-30",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 15054,
+"baseline": 200259,
+"ratio": 0.075
+},
+{
+"date": "2020-03-31",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 14975,
+"baseline": 201668,
+"ratio": 0.074
+},
+{
+"date": "2020-04-01",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 15471,
+"baseline": 203138,
+"ratio": 0.076
+},
+{
+"date": "2020-04-02",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 14667,
+"baseline": 204776,
+"ratio": 0.072
+},
+{
+"date": "2020-04-03",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 14803,
+"baseline": 216351,
+"ratio": 0.068
+},
+{
+"date": "2020-04-04",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 7979,
+"baseline": 120677,
+"ratio": 0.066
+},
+{
+"date": "2020-04-05",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 6606,
+"baseline": 103845,
+"ratio": 0.064
+},
+{
+"date": "2020-04-06",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 15174,
+"baseline": 199459,
+"ratio": 0.076
+},
+{
+"date": "2020-04-07",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 14489,
+"baseline": 199555,
+"ratio": 0.073
+},
+{
+"date": "2020-04-08",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 14509,
+"baseline": 198847,
+"ratio": 0.073
+},
+{
+"date": "2020-04-09",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 14775,
+"baseline": 198536,
+"ratio": 0.074
+},
+{
+"date": "2020-04-10",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 14377,
+"baseline": 208432,
+"ratio": 0.069
+},
+{
+"date": "2020-04-11",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 8532,
+"baseline": 112461,
+"ratio": 0.076
+},
+{
+"date": "2020-04-12",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 6758,
+"baseline": 93583,
+"ratio": 0.072
+},
+{
+"date": "2020-04-13",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 15916,
+"baseline": 180410,
+"ratio": 0.088
+},
+{
+"date": "2020-04-14",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 15412,
+"baseline": 173167,
+"ratio": 0.089
+},
+{
+"date": "2020-04-15",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 14931,
+"baseline": 127155,
+"ratio": 0.117
+},
+{
+"date": "2020-04-16",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 14662,
+"baseline": 117153,
+"ratio": 0.125
+},
+{
+"date": "2020-04-17",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 14683,
+"baseline": 116337,
+"ratio": 0.126
+},
+{
+"date": "2020-04-18",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 8325,
+"baseline": 58215,
+"ratio": 0.143
+},
+{
+"date": "2020-04-19",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 6801,
+"baseline": 47288,
+"ratio": 0.144
+},
+{
+"date": "2020-04-20",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 15538,
+"baseline": 91169,
+"ratio": 0.17
+},
+{
+"date": "2020-04-21",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 14961,
+"baseline": 83316,
+"ratio": 0.18
+},
+{
+"date": "2020-05-05",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 40157,
+"baseline": 15541,
+"ratio": 2.584
+},
+{
+"date": "2020-05-06",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 42038,
+"baseline": 15201,
+"ratio": 2.765
+},
+{
+"date": "2020-05-08",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 42457,
+"baseline": 14743,
+"ratio": 2.88
+},
+{
+"date": "2020-05-09",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 27820,
+"baseline": 8480,
+"ratio": 3.28
+},
+{
+"date": "2020-05-10",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 21943,
+"baseline": 6906,
+"ratio": 3.177
+},
+{
+"date": "2020-05-12",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 48547,
+"baseline": 15541,
+"ratio": 3.124
+},
+{
+"date": "2020-05-13",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 52390,
+"baseline": 15201,
+"ratio": 3.446
+},
+{
+"date": "2020-05-14",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 54442,
+"baseline": 15300,
+"ratio": 3.558
+},
+{
+"date": "2020-05-15",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 53010,
+"baseline": 14743,
+"ratio": 3.596
+},
+{
+"date": "2020-05-16",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 32504,
+"baseline": 8480,
+"ratio": 3.833
+},
+{
+"date": "2020-05-17",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 26405,
+"baseline": 6906,
+"ratio": 3.823
+},
+{
+"date": "2020-05-18",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 57398,
+"baseline": 15919,
+"ratio": 3.606
+},
+{
+"date": "2020-05-19",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 57100,
+"baseline": 15541,
+"ratio": 3.674
+},
+{
+"date": "2020-05-20",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 58041,
+"baseline": 15201,
+"ratio": 3.818
+},
+{
+"date": "2020-05-21",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 58193,
+"baseline": 15300,
+"ratio": 3.803
+},
+{
+"date": "2020-05-22",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 56323,
+"baseline": 14743,
+"ratio": 3.82
+},
+{
+"date": "2020-05-23",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 35883,
+"baseline": 8480,
+"ratio": 4.231
+},
+{
+"date": "2020-05-24",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 23328,
+"baseline": 6906,
+"ratio": 3.378
+},
+{
+"date": "2020-05-27",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 54785,
+"baseline": 16033,
+"ratio": 3.417
+},
+{
+"date": "2020-05-28",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 58453,
+"baseline": 16061,
+"ratio": 3.639
+},
+{
+"date": "2020-05-29",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 59467,
+"baseline": 14743,
+"ratio": 4.034
+},
+{
+"date": "2020-05-30",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 40861,
+"baseline": 9345,
+"ratio": 4.372
+},
+{
+"date": "2020-05-31",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 31986,
+"baseline": 7715,
+"ratio": 4.146
+},
+{
+"date": "2020-06-01",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 70434,
+"baseline": 20784,
+"ratio": 3.389
+},
+{
+"date": "2020-06-02",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 70009,
+"baseline": 22245,
+"ratio": 3.147
+},
+{
+"date": "2020-06-04",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 70016,
+"baseline": 19995,
+"ratio": 3.502
+},
+{
+"date": "2020-06-15",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 91983,
+"baseline": 33052,
+"ratio": 2.783
+},
+{
+"date": "2020-10-29",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 44233,
+"baseline": 133941,
+"ratio": 0.33
+},
+{
+"date": "2021-05-13",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 23952,
+"baseline": 96806,
+"ratio": 0.247
+},
+{
+"date": "2021-05-14",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 27937,
+"baseline": 99314,
+"ratio": 0.281
+},
+{
+"date": "2021-05-26",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 27905,
+"baseline": 99757,
+"ratio": 0.28
+},
+{
+"date": "2021-06-01",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 21779,
+"baseline": 97953,
+"ratio": 0.222
+},
+{
+"date": "2021-06-02",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 23769,
+"baseline": 99469,
+"ratio": 0.239
+},
+{
+"date": "2021-06-03",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 24465,
+"baseline": 80672,
+"ratio": 0.303
+},
+{
+"date": "2021-06-04",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 24212,
+"baseline": 89985,
+"ratio": 0.269
+},
+{
+"date": "2021-06-05",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 15621,
+"baseline": 59375,
+"ratio": 0.263
+},
+{
+"date": "2021-06-06",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 12089,
+"baseline": 47059,
+"ratio": 0.257
+},
+{
+"date": "2021-06-07",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 12805,
+"baseline": 85126,
+"ratio": 0.15
+},
+{
+"date": "2021-06-08",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 26454,
+"baseline": 84211,
+"ratio": 0.314
+},
+{
+"date": "2021-06-09",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 26102,
+"baseline": 83746,
+"ratio": 0.312
+},
+{
+"date": "2021-06-12",
+"mode": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"value": 16164,
+"baseline": 49334,
+"ratio": 0.328
+},
+{
+"date": "2020-03-18",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 47917,
+"baseline": 211938,
+"ratio": 0.226
+},
+{
+"date": "2020-03-19",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 34138,
+"baseline": 213422,
+"ratio": 0.16
+},
+{
+"date": "2020-03-20",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 25579,
+"baseline": 221579,
+"ratio": 0.115
+},
+{
+"date": "2020-03-21",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11377,
+"baseline": 115473,
+"ratio": 0.099
+},
+{
+"date": "2020-03-22",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 7338,
+"baseline": 101056,
+"ratio": 0.073
+},
+{
+"date": "2020-03-23",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 16133,
+"baseline": 206515,
+"ratio": 0.078
+},
+{
+"date": "2020-03-24",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 14269,
+"baseline": 209582,
+"ratio": 0.068
+},
+{
+"date": "2020-03-25",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11606,
+"baseline": 210749,
+"ratio": 0.055
+},
+{
+"date": "2020-03-26",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11602,
+"baseline": 212916,
+"ratio": 0.054
+},
+{
+"date": "2020-03-27",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11286,
+"baseline": 221579,
+"ratio": 0.051
+},
+{
+"date": "2020-03-28",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 5897,
+"baseline": 115473,
+"ratio": 0.051
+},
+{
+"date": "2020-03-29",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 4973,
+"baseline": 101056,
+"ratio": 0.049
+},
+{
+"date": "2020-03-30",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11289,
+"baseline": 206515,
+"ratio": 0.055
+},
+{
+"date": "2020-03-31",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11268,
+"baseline": 209582,
+"ratio": 0.054
+},
+{
+"date": "2020-04-01",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11731,
+"baseline": 210749,
+"ratio": 0.056
+},
+{
+"date": "2020-04-02",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11199,
+"baseline": 212916,
+"ratio": 0.053
+},
+{
+"date": "2020-04-03",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11424,
+"baseline": 221579,
+"ratio": 0.052
+},
+{
+"date": "2020-04-04",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 6005,
+"baseline": 115473,
+"ratio": 0.052
+},
+{
+"date": "2020-04-05",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 5239,
+"baseline": 101056,
+"ratio": 0.052
+},
+{
+"date": "2020-04-06",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11457,
+"baseline": 202982,
+"ratio": 0.056
+},
+{
+"date": "2020-04-07",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11016,
+"baseline": 205255,
+"ratio": 0.054
+},
+{
+"date": "2020-04-08",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11100,
+"baseline": 203391,
+"ratio": 0.055
+},
+{
+"date": "2020-04-09",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 10953,
+"baseline": 204201,
+"ratio": 0.054
+},
+{
+"date": "2020-04-10",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11164,
+"baseline": 212124,
+"ratio": 0.053
+},
+{
+"date": "2020-04-11",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 6470,
+"baseline": 103026,
+"ratio": 0.063
+},
+{
+"date": "2020-04-12",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 5265,
+"baseline": 87807,
+"ratio": 0.06
+},
+{
+"date": "2020-04-13",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11881,
+"baseline": 178651,
+"ratio": 0.067
+},
+{
+"date": "2020-04-14",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11587,
+"baseline": 170439,
+"ratio": 0.068
+},
+{
+"date": "2020-04-15",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11744,
+"baseline": 122419,
+"ratio": 0.096
+},
+{
+"date": "2020-04-16",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11568,
+"baseline": 114841,
+"ratio": 0.101
+},
+{
+"date": "2020-04-17",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11801,
+"baseline": 114193,
+"ratio": 0.103
+},
+{
+"date": "2020-04-18",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 6552,
+"baseline": 52395,
+"ratio": 0.125
+},
+{
+"date": "2020-04-19",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 5748,
+"baseline": 41796,
+"ratio": 0.138
+},
+{
+"date": "2020-04-20",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 12437,
+"baseline": 87464,
+"ratio": 0.142
+},
+{
+"date": "2020-04-21",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 12046,
+"baseline": 77177,
+"ratio": 0.156
+},
+{
+"date": "2020-05-04",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 32976,
+"baseline": 12689,
+"ratio": 2.599
+},
+{
+"date": "2020-05-05",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 32711,
+"baseline": 12364,
+"ratio": 2.646
+},
+{
+"date": "2020-05-06",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 34366,
+"baseline": 11870,
+"ratio": 2.895
+},
+{
+"date": "2020-05-08",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 34171,
+"baseline": 11485,
+"ratio": 2.975
+},
+{
+"date": "2020-05-09",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 21862,
+"baseline": 6688,
+"ratio": 3.269
+},
+{
+"date": "2020-05-10",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 17436,
+"baseline": 5818,
+"ratio": 2.997
+},
+{
+"date": "2020-05-12",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 40197,
+"baseline": 12364,
+"ratio": 3.251
+},
+{
+"date": "2020-05-13",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 44149,
+"baseline": 11870,
+"ratio": 3.719
+},
+{
+"date": "2020-05-14",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 47083,
+"baseline": 12007,
+"ratio": 3.921
+},
+{
+"date": "2020-05-15",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 44629,
+"baseline": 11485,
+"ratio": 3.886
+},
+{
+"date": "2020-05-16",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 26401,
+"baseline": 6688,
+"ratio": 3.947
+},
+{
+"date": "2020-05-17",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 21436,
+"baseline": 5818,
+"ratio": 3.684
+},
+{
+"date": "2020-05-18",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 48548,
+"baseline": 12689,
+"ratio": 3.826
+},
+{
+"date": "2020-05-19",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 48790,
+"baseline": 12364,
+"ratio": 3.946
+},
+{
+"date": "2020-05-20",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 50036,
+"baseline": 11870,
+"ratio": 4.215
+},
+{
+"date": "2020-05-21",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 49268,
+"baseline": 12007,
+"ratio": 4.103
+},
+{
+"date": "2020-05-22",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 48418,
+"baseline": 11485,
+"ratio": 4.216
+},
+{
+"date": "2020-05-23",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 29615,
+"baseline": 6688,
+"ratio": 4.428
+},
+{
+"date": "2020-05-24",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 21419,
+"baseline": 5818,
+"ratio": 3.682
+},
+{
+"date": "2020-05-27",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 49101,
+"baseline": 12602,
+"ratio": 3.896
+},
+{
+"date": "2020-05-28",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 51036,
+"baseline": 13121,
+"ratio": 3.889
+},
+{
+"date": "2020-05-29",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 52201,
+"baseline": 11674,
+"ratio": 4.472
+},
+{
+"date": "2020-05-30",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 35272,
+"baseline": 7406,
+"ratio": 4.762
+},
+{
+"date": "2020-05-31",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 28383,
+"baseline": 6561,
+"ratio": 4.326
+},
+{
+"date": "2020-06-01",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 62570,
+"baseline": 17364,
+"ratio": 3.603
+},
+{
+"date": "2020-06-02",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 62518,
+"baseline": 19658,
+"ratio": 3.18
+},
+{
+"date": "2020-06-03",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 63301,
+"baseline": 23786,
+"ratio": 2.661
+},
+{
+"date": "2020-06-04",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 62436,
+"baseline": 16102,
+"ratio": 3.877
+},
+{
+"date": "2020-06-05",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 63791,
+"baseline": 22986,
+"ratio": 2.775
+},
+{
+"date": "2020-06-06",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 41060,
+"baseline": 14925,
+"ratio": 2.751
+},
+{
+"date": "2020-06-07",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 33372,
+"baseline": 12335,
+"ratio": 2.705
+},
+{
+"date": "2020-06-15",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 83160,
+"baseline": 28780,
+"ratio": 2.89
+},
+{
+"date": "2020-06-22",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 87479,
+"baseline": 33433,
+"ratio": 2.617
+},
+{
+"date": "2020-10-29",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 34951,
+"baseline": 129061,
+"ratio": 0.271
+},
+{
+"date": "2021-01-28",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 25336,
+"baseline": 76047,
+"ratio": 0.333
+},
+{
+"date": "2021-05-13",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 20743,
+"baseline": 92004,
+"ratio": 0.225
+},
+{
+"date": "2021-05-14",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 24079,
+"baseline": 95206,
+"ratio": 0.253
+},
+{
+"date": "2021-05-26",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 22779,
+"baseline": 95800,
+"ratio": 0.238
+},
+{
+"date": "2021-06-01",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 18177,
+"baseline": 91450,
+"ratio": 0.199
+},
+{
+"date": "2021-06-02",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 19464,
+"baseline": 95204,
+"ratio": 0.204
+},
+{
+"date": "2021-06-03",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 19541,
+"baseline": 68051,
+"ratio": 0.287
+},
+{
+"date": "2021-06-04",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 19430,
+"baseline": 80246,
+"ratio": 0.242
+},
+{
+"date": "2021-06-05",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 12370,
+"baseline": 47648,
+"ratio": 0.26
+},
+{
+"date": "2021-06-06",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 9112,
+"baseline": 37823,
+"ratio": 0.241
+},
+{
+"date": "2021-06-07",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 9592,
+"baseline": 75020,
+"ratio": 0.128
+},
+{
+"date": "2021-06-08",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 21292,
+"baseline": 73768,
+"ratio": 0.289
+},
+{
+"date": "2021-06-09",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 21211,
+"baseline": 76124,
+"ratio": 0.279
+},
+{
+"date": "2021-06-11",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 21763,
+"baseline": 63629,
+"ratio": 0.342
+},
+{
+"date": "2021-06-12",
+"mode": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"value": 11149,
+"baseline": 37088,
+"ratio": 0.301
+},
+{
+"date": "2023-03-16",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 68737,
+"baseline": 23113,
+"ratio": 2.974
+},
+{
+"date": "2023-03-17",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 112156,
+"baseline": 24957,
+"ratio": 4.494
+},
+{
+"date": "2023-03-18",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 127158,
+"baseline": 15919,
+"ratio": 7.988
+},
+{
+"date": "2023-03-19",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 126977,
+"baseline": 15759,
+"ratio": 8.057
+},
+{
+"date": "2023-03-20",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 99026,
+"baseline": 20782,
+"ratio": 4.765
+},
+{
+"date": "2023-03-21",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 107404,
+"baseline": 21216,
+"ratio": 5.062
+},
+{
+"date": "2023-03-22",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 109685,
+"baseline": 21302,
+"ratio": 5.149
+},
+{
+"date": "2023-03-23",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 95509,
+"baseline": 23113,
+"ratio": 4.132
+},
+{
+"date": "2023-03-24",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 99980,
+"baseline": 25550,
+"ratio": 3.913
+},
+{
+"date": "2023-03-25",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 85836,
+"baseline": 17297,
+"ratio": 4.962
+},
+{
+"date": "2023-03-26",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 98655,
+"baseline": 15885,
+"ratio": 6.211
+},
+{
+"date": "2023-03-27",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 96590,
+"baseline": 21837,
+"ratio": 4.423
+},
+{
+"date": "2023-03-28",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 104044,
+"baseline": 22716,
+"ratio": 4.58
+},
+{
+"date": "2023-03-29",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 106269,
+"baseline": 24151,
+"ratio": 4.4
+},
+{
+"date": "2023-03-30",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 108724,
+"baseline": 25720,
+"ratio": 4.227
+},
+{
+"date": "2023-03-31",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 120111,
+"baseline": 26053,
+"ratio": 4.61
+},
+{
+"date": "2023-04-01",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 49056,
+"baseline": 17668,
+"ratio": 2.777
+},
+{
+"date": "2023-04-02",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 42143,
+"baseline": 16371,
+"ratio": 2.574
+},
+{
+"date": "2023-04-03",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 84537,
+"baseline": 23496,
+"ratio": 3.598
+},
+{
+"date": "2023-04-04",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 89649,
+"baseline": 24297,
+"ratio": 3.69
+},
+{
+"date": "2023-04-05",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 89374,
+"baseline": 27590,
+"ratio": 3.239
+},
+{
+"date": "2023-04-06",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 90414,
+"baseline": 27140,
+"ratio": 3.331
+},
+{
+"date": "2023-04-07",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 88734,
+"baseline": 26570,
+"ratio": 3.34
+},
+{
+"date": "2023-04-08",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 53427,
+"baseline": 18040,
+"ratio": 2.962
+},
+{
+"date": "2023-04-09",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 47262,
+"baseline": 16714,
+"ratio": 2.828
+},
+{
+"date": "2023-04-10",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 88069,
+"baseline": 26597,
+"ratio": 3.311
+},
+{
+"date": "2023-04-11",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 92687,
+"baseline": 27729,
+"ratio": 3.343
+},
+{
+"date": "2023-04-12",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 93730,
+"baseline": 28695,
+"ratio": 3.266
+},
+{
+"date": "2025-10-25",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 32971,
+"baseline": 116886,
+"ratio": 0.282
+},
+{
+"date": "2025-10-26",
+"mode": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"value": 30772,
+"baseline": 97374,
+"ratio": 0.316
+},
+{
+"date": "2020-03-18",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 10388,
+"baseline": 40222,
+"ratio": 0.258
+},
+{
+"date": "2020-03-19",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 7188,
+"baseline": 40652,
+"ratio": 0.177
+},
+{
+"date": "2020-03-20",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 5567,
+"baseline": 43026,
+"ratio": 0.129
+},
+{
+"date": "2020-03-21",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 3050,
+"baseline": 31486,
+"ratio": 0.097
+},
+{
+"date": "2020-03-22",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2082,
+"baseline": 26767,
+"ratio": 0.078
+},
+{
+"date": "2020-03-23",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 3573,
+"baseline": 39035,
+"ratio": 0.092
+},
+{
+"date": "2020-03-24",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 3212,
+"baseline": 39449,
+"ratio": 0.081
+},
+{
+"date": "2020-03-25",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2626,
+"baseline": 39535,
+"ratio": 0.066
+},
+{
+"date": "2020-03-26",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2744,
+"baseline": 40374,
+"ratio": 0.068
+},
+{
+"date": "2020-03-27",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2678,
+"baseline": 43026,
+"ratio": 0.062
+},
+{
+"date": "2020-03-28",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 1655,
+"baseline": 30212,
+"ratio": 0.055
+},
+{
+"date": "2020-03-29",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 1435,
+"baseline": 26164,
+"ratio": 0.055
+},
+{
+"date": "2020-03-30",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2603,
+"baseline": 39035,
+"ratio": 0.067
+},
+{
+"date": "2020-03-31",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2664,
+"baseline": 39449,
+"ratio": 0.068
+},
+{
+"date": "2020-04-01",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2742,
+"baseline": 39535,
+"ratio": 0.069
+},
+{
+"date": "2020-04-02",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2706,
+"baseline": 40374,
+"ratio": 0.067
+},
+{
+"date": "2020-04-03",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2611,
+"baseline": 43026,
+"ratio": 0.061
+},
+{
+"date": "2020-04-04",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 1570,
+"baseline": 30212,
+"ratio": 0.052
+},
+{
+"date": "2020-04-05",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 1438,
+"baseline": 26164,
+"ratio": 0.055
+},
+{
+"date": "2020-04-06",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2665,
+"baseline": 38412,
+"ratio": 0.069
+},
+{
+"date": "2020-04-07",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2658,
+"baseline": 38084,
+"ratio": 0.07
+},
+{
+"date": "2020-04-08",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2558,
+"baseline": 38545,
+"ratio": 0.066
+},
+{
+"date": "2020-04-09",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2597,
+"baseline": 38001,
+"ratio": 0.068
+},
+{
+"date": "2020-04-10",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2561,
+"baseline": 40043,
+"ratio": 0.064
+},
+{
+"date": "2020-04-11",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 1605,
+"baseline": 25953,
+"ratio": 0.062
+},
+{
+"date": "2020-04-12",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 1392,
+"baseline": 22833,
+"ratio": 0.061
+},
+{
+"date": "2020-04-13",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2732,
+"baseline": 32913,
+"ratio": 0.083
+},
+{
+"date": "2020-04-14",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2703,
+"baseline": 32869,
+"ratio": 0.082
+},
+{
+"date": "2020-04-15",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2758,
+"baseline": 24203,
+"ratio": 0.114
+},
+{
+"date": "2020-04-16",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2648,
+"baseline": 21528,
+"ratio": 0.123
+},
+{
+"date": "2020-04-17",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2670,
+"baseline": 21300,
+"ratio": 0.125
+},
+{
+"date": "2020-04-18",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 1640,
+"baseline": 12917,
+"ratio": 0.127
+},
+{
+"date": "2020-04-19",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 1482,
+"baseline": 10942,
+"ratio": 0.135
+},
+{
+"date": "2020-04-20",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2848,
+"baseline": 15965,
+"ratio": 0.178
+},
+{
+"date": "2020-04-21",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2779,
+"baseline": 15955,
+"ratio": 0.174
+},
+{
+"date": "2020-05-04",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 7434,
+"baseline": 2885,
+"ratio": 2.577
+},
+{
+"date": "2020-05-05",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 7686,
+"baseline": 2922,
+"ratio": 2.63
+},
+{
+"date": "2020-05-06",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 7620,
+"baseline": 2757,
+"ratio": 2.764
+},
+{
+"date": "2020-05-08",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 8011,
+"baseline": 2640,
+"ratio": 3.034
+},
+{
+"date": "2020-05-09",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 5172,
+"baseline": 1655,
+"ratio": 3.124
+},
+{
+"date": "2020-05-10",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 4464,
+"baseline": 1493,
+"ratio": 2.99
+},
+{
+"date": "2020-05-12",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 8987,
+"baseline": 2922,
+"ratio": 3.076
+},
+{
+"date": "2020-05-13",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 9599,
+"baseline": 2757,
+"ratio": 3.482
+},
+{
+"date": "2020-05-14",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 9783,
+"baseline": 2802,
+"ratio": 3.491
+},
+{
+"date": "2020-05-15",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 9605,
+"baseline": 2640,
+"ratio": 3.638
+},
+{
+"date": "2020-05-16",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 6579,
+"baseline": 1655,
+"ratio": 3.974
+},
+{
+"date": "2020-05-17",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 5559,
+"baseline": 1493,
+"ratio": 3.723
+},
+{
+"date": "2020-05-18",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 10628,
+"baseline": 2885,
+"ratio": 3.684
+},
+{
+"date": "2020-05-19",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 10867,
+"baseline": 2922,
+"ratio": 3.719
+},
+{
+"date": "2020-05-20",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 11306,
+"baseline": 2757,
+"ratio": 4.101
+},
+{
+"date": "2020-05-21",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 11424,
+"baseline": 2802,
+"ratio": 4.076
+},
+{
+"date": "2020-05-22",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 11121,
+"baseline": 2640,
+"ratio": 4.212
+},
+{
+"date": "2020-05-23",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 8230,
+"baseline": 1655,
+"ratio": 4.971
+},
+{
+"date": "2020-05-24",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 5397,
+"baseline": 1493,
+"ratio": 3.615
+},
+{
+"date": "2020-05-27",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 11191,
+"baseline": 2848,
+"ratio": 3.929
+},
+{
+"date": "2020-05-28",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 11934,
+"baseline": 2950,
+"ratio": 4.045
+},
+{
+"date": "2020-05-29",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 12320,
+"baseline": 2640,
+"ratio": 4.666
+},
+{
+"date": "2020-05-30",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 8840,
+"baseline": 1710,
+"ratio": 5.168
+},
+{
+"date": "2020-05-31",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 7251,
+"baseline": 1536,
+"ratio": 4.721
+},
+{
+"date": "2020-06-01",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 13790,
+"baseline": 4196,
+"ratio": 3.286
+},
+{
+"date": "2020-06-02",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 13676,
+"baseline": 4831,
+"ratio": 2.831
+},
+{
+"date": "2020-06-03",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 14053,
+"baseline": 5279,
+"ratio": 2.662
+},
+{
+"date": "2020-06-04",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 13721,
+"baseline": 3943,
+"ratio": 3.479
+},
+{
+"date": "2020-06-05",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 13935,
+"baseline": 5340,
+"ratio": 2.609
+},
+{
+"date": "2020-06-06",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 10650,
+"baseline": 3468,
+"ratio": 3.07
+},
+{
+"date": "2020-06-07",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 9490,
+"baseline": 3016,
+"ratio": 3.147
+},
+{
+"date": "2020-06-15",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 17516,
+"baseline": 6887,
+"ratio": 2.543
+},
+{
+"date": "2021-05-13",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 5248,
+"baseline": 17091,
+"ratio": 0.307
+},
+{
+"date": "2021-05-26",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 5788,
+"baseline": 17327,
+"ratio": 0.334
+},
+{
+"date": "2021-06-01",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 3845,
+"baseline": 17004,
+"ratio": 0.226
+},
+{
+"date": "2021-06-02",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 4193,
+"baseline": 17164,
+"ratio": 0.244
+},
+{
+"date": "2021-06-03",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 4287,
+"baseline": 14251,
+"ratio": 0.301
+},
+{
+"date": "2021-06-04",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 4195,
+"baseline": 15221,
+"ratio": 0.276
+},
+{
+"date": "2021-06-05",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 3068,
+"baseline": 11191,
+"ratio": 0.274
+},
+{
+"date": "2021-06-06",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2539,
+"baseline": 10032,
+"ratio": 0.253
+},
+{
+"date": "2021-06-07",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2619,
+"baseline": 14557,
+"ratio": 0.18
+},
+{
+"date": "2021-06-08",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 4756,
+"baseline": 14449,
+"ratio": 0.329
+},
+{
+"date": "2021-06-09",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 4432,
+"baseline": 13896,
+"ratio": 0.319
+},
+{
+"date": "2021-06-13",
+"mode": "rail_monorail",
+"label": "KL Monorail",
+"value": 2626,
+"baseline": 7689,
+"ratio": 0.342
+},
+{
+"date": "2023-09-17",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 4497,
+"baseline": 14090,
+"ratio": 0.319
+},
+{
+"date": "2023-10-01",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 18262,
+"baseline": 4719,
+"ratio": 3.87
+},
+{
+"date": "2023-10-02",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 25561,
+"baseline": 4366,
+"ratio": 5.855
+},
+{
+"date": "2023-10-03",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 27267,
+"baseline": 3923,
+"ratio": 6.951
+},
+{
+"date": "2023-10-04",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 28452,
+"baseline": 4399,
+"ratio": 6.468
+},
+{
+"date": "2023-10-05",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 30035,
+"baseline": 4537,
+"ratio": 6.62
+},
+{
+"date": "2023-10-06",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 33455,
+"baseline": 5037,
+"ratio": 6.642
+},
+{
+"date": "2023-10-07",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 25285,
+"baseline": 5976,
+"ratio": 4.231
+},
+{
+"date": "2023-10-08",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 26369,
+"baseline": 9404,
+"ratio": 2.804
+},
+{
+"date": "2023-10-09",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 36828,
+"baseline": 4628,
+"ratio": 7.958
+},
+{
+"date": "2023-10-10",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 36856,
+"baseline": 4442,
+"ratio": 8.296
+},
+{
+"date": "2023-10-11",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 37317,
+"baseline": 5240,
+"ratio": 7.121
+},
+{
+"date": "2023-10-12",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 37895,
+"baseline": 4801,
+"ratio": 7.892
+},
+{
+"date": "2023-10-13",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 44988,
+"baseline": 5763,
+"ratio": 7.806
+},
+{
+"date": "2023-10-14",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 24921,
+"baseline": 6093,
+"ratio": 4.09
+},
+{
+"date": "2023-10-16",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 36733,
+"baseline": 4890,
+"ratio": 7.512
+},
+{
+"date": "2023-10-17",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 38776,
+"baseline": 4962,
+"ratio": 7.815
+},
+{
+"date": "2023-10-18",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 37769,
+"baseline": 6082,
+"ratio": 6.21
+},
+{
+"date": "2023-10-19",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 37661,
+"baseline": 5066,
+"ratio": 7.434
+},
+{
+"date": "2023-10-20",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 41922,
+"baseline": 6490,
+"ratio": 6.459
+},
+{
+"date": "2023-10-21",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 24058,
+"baseline": 6210,
+"ratio": 3.874
+},
+{
+"date": "2025-02-11",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 92398,
+"baseline": 33487,
+"ratio": 2.759
+},
+{
+"date": "2026-01-31",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 72501,
+"baseline": 19310,
+"ratio": 3.755
+},
+{
+"date": "2026-02-01",
+"mode": "rail_komuter",
+"label": "KTM Komuter",
+"value": 87165,
+"baseline": 19463,
+"ratio": 4.478
+},
+{
+"date": "2020-11-14",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 941,
+"baseline": 3583,
+"ratio": 0.263
+},
+{
+"date": "2020-11-15",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 1327,
+"baseline": 4677,
+"ratio": 0.284
+},
+{
+"date": "2021-01-16",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 1112,
+"baseline": 4353,
+"ratio": 0.255
+},
+{
+"date": "2021-01-17",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 1357,
+"baseline": 5108,
+"ratio": 0.266
+},
+{
+"date": "2021-01-22",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 1415,
+"baseline": 5148,
+"ratio": 0.275
+},
+{
+"date": "2021-01-23",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 829,
+"baseline": 4353,
+"ratio": 0.19
+},
+{
+"date": "2021-01-24",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 993,
+"baseline": 5108,
+"ratio": 0.194
+},
+{
+"date": "2021-01-28",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 1357,
+"baseline": 4604,
+"ratio": 0.295
+},
+{
+"date": "2021-01-29",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 1733,
+"baseline": 5148,
+"ratio": 0.337
+},
+{
+"date": "2021-01-30",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 1233,
+"baseline": 4353,
+"ratio": 0.283
+},
+{
+"date": "2021-01-31",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 1350,
+"baseline": 5108,
+"ratio": 0.264
+},
+{
+"date": "2021-02-06",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 1222,
+"baseline": 4353,
+"ratio": 0.281
+},
+{
+"date": "2021-02-07",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 1412,
+"baseline": 5108,
+"ratio": 0.276
+},
+{
+"date": "2021-02-12",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 1069,
+"baseline": 3514,
+"ratio": 0.304
+},
+{
+"date": "2021-02-13",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 881,
+"baseline": 2750,
+"ratio": 0.32
+},
+{
+"date": "2021-05-13",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 557,
+"baseline": 3736,
+"ratio": 0.149
+},
+{
+"date": "2021-05-14",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 758,
+"baseline": 3878,
+"ratio": 0.195
+},
+{
+"date": "2021-05-22",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 921,
+"baseline": 2801,
+"ratio": 0.329
+},
+{
+"date": "2021-05-23",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 965,
+"baseline": 3327,
+"ratio": 0.29
+},
+{
+"date": "2021-05-26",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 699,
+"baseline": 3457,
+"ratio": 0.202
+},
+{
+"date": "2021-05-28",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 1181,
+"baseline": 3766,
+"ratio": 0.314
+},
+{
+"date": "2021-05-30",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 1004,
+"baseline": 3001,
+"ratio": 0.334
+},
+{
+"date": "2021-06-01",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 732,
+"baseline": 3110,
+"ratio": 0.235
+},
+{
+"date": "2021-06-02",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 794,
+"baseline": 3154,
+"ratio": 0.252
+},
+{
+"date": "2021-06-03",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 781,
+"baseline": 3144,
+"ratio": 0.248
+},
+{
+"date": "2021-06-04",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 779,
+"baseline": 3452,
+"ratio": 0.226
+},
+{
+"date": "2021-06-05",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 527,
+"baseline": 1929,
+"ratio": 0.273
+},
+{
+"date": "2021-06-06",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 465,
+"baseline": 2705,
+"ratio": 0.172
+},
+{
+"date": "2021-06-07",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 436,
+"baseline": 3253,
+"ratio": 0.134
+},
+{
+"date": "2021-06-08",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 946,
+"baseline": 2851,
+"ratio": 0.332
+},
+{
+"date": "2021-06-11",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 835,
+"baseline": 2386,
+"ratio": 0.35
+},
+{
+"date": "2021-06-13",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 647,
+"baseline": 2299,
+"ratio": 0.281
+},
+{
+"date": "2021-10-16",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 3333,
+"baseline": 1227,
+"ratio": 2.715
+},
+{
+"date": "2021-10-23",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 3798,
+"baseline": 1339,
+"ratio": 2.836
+},
+{
+"date": "2021-10-30",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 4330,
+"baseline": 1558,
+"ratio": 2.778
+},
+{
+"date": "2021-10-31",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 4623,
+"baseline": 1836,
+"ratio": 2.518
+},
+{
+"date": "2021-11-03",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 5642,
+"baseline": 2088,
+"ratio": 2.701
+},
+{
+"date": "2021-11-04",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 6109,
+"baseline": 2165,
+"ratio": 2.821
+},
+{
+"date": "2021-11-05",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 5860,
+"baseline": 2327,
+"ratio": 2.518
+},
+{
+"date": "2021-11-06",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 5806,
+"baseline": 1889,
+"ratio": 3.074
+},
+{
+"date": "2021-11-07",
+"mode": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"value": 6971,
+"baseline": 2124,
+"ratio": 3.282
+},
+{
+"date": "2020-12-10",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3224,
+"baseline": 1101,
+"ratio": 2.927
+},
+{
+"date": "2020-12-11",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4927,
+"baseline": 1291,
+"ratio": 3.816
+},
+{
+"date": "2020-12-12",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3315,
+"baseline": 1082,
+"ratio": 3.064
+},
+{
+"date": "2020-12-13",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 5233,
+"baseline": 1186,
+"ratio": 4.412
+},
+{
+"date": "2020-12-14",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 2994,
+"baseline": 1193,
+"ratio": 2.509
+},
+{
+"date": "2020-12-15",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 2666,
+"baseline": 1033,
+"ratio": 2.58
+},
+{
+"date": "2020-12-16",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 2821,
+"baseline": 1023,
+"ratio": 2.756
+},
+{
+"date": "2020-12-17",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3165,
+"baseline": 1184,
+"ratio": 2.672
+},
+{
+"date": "2020-12-18",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 5238,
+"baseline": 1339,
+"ratio": 3.91
+},
+{
+"date": "2020-12-19",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4361,
+"baseline": 1214,
+"ratio": 3.591
+},
+{
+"date": "2020-12-20",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 5225,
+"baseline": 1320,
+"ratio": 3.958
+},
+{
+"date": "2020-12-21",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3567,
+"baseline": 1266,
+"ratio": 2.818
+},
+{
+"date": "2020-12-22",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3488,
+"baseline": 1042,
+"ratio": 3.347
+},
+{
+"date": "2020-12-23",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4007,
+"baseline": 1051,
+"ratio": 3.813
+},
+{
+"date": "2020-12-24",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 5094,
+"baseline": 1271,
+"ratio": 4.006
+},
+{
+"date": "2020-12-25",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 6166,
+"baseline": 1390,
+"ratio": 4.436
+},
+{
+"date": "2020-12-26",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4557,
+"baseline": 1270,
+"ratio": 3.588
+},
+{
+"date": "2020-12-27",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 7317,
+"baseline": 1486,
+"ratio": 4.924
+},
+{
+"date": "2020-12-28",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4621,
+"baseline": 1311,
+"ratio": 3.525
+},
+{
+"date": "2020-12-29",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4023,
+"baseline": 1057,
+"ratio": 3.806
+},
+{
+"date": "2020-12-30",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4488,
+"baseline": 1051,
+"ratio": 4.27
+},
+{
+"date": "2020-12-31",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 5148,
+"baseline": 1318,
+"ratio": 3.906
+},
+{
+"date": "2021-01-01",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 5284,
+"baseline": 1449,
+"ratio": 3.647
+},
+{
+"date": "2021-01-02",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4641,
+"baseline": 1276,
+"ratio": 3.636
+},
+{
+"date": "2021-01-03",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 6561,
+"baseline": 1610,
+"ratio": 4.074
+},
+{
+"date": "2021-01-14",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 975,
+"baseline": 3194,
+"ratio": 0.305
+},
+{
+"date": "2021-01-15",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 1470,
+"baseline": 4741,
+"ratio": 0.31
+},
+{
+"date": "2021-01-16",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 691,
+"baseline": 3838,
+"ratio": 0.18
+},
+{
+"date": "2021-01-17",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 874,
+"baseline": 5131,
+"ratio": 0.17
+},
+{
+"date": "2021-01-18",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 740,
+"baseline": 3280,
+"ratio": 0.226
+},
+{
+"date": "2021-01-19",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 721,
+"baseline": 3055,
+"ratio": 0.236
+},
+{
+"date": "2021-01-20",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 843,
+"baseline": 2622,
+"ratio": 0.322
+},
+{
+"date": "2021-01-21",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 876,
+"baseline": 3194,
+"ratio": 0.274
+},
+{
+"date": "2021-01-22",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 537,
+"baseline": 4741,
+"ratio": 0.113
+},
+{
+"date": "2021-01-23",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 404,
+"baseline": 3838,
+"ratio": 0.105
+},
+{
+"date": "2021-01-24",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 528,
+"baseline": 5131,
+"ratio": 0.103
+},
+{
+"date": "2021-01-25",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 464,
+"baseline": 3280,
+"ratio": 0.141
+},
+{
+"date": "2021-01-26",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 504,
+"baseline": 3055,
+"ratio": 0.165
+},
+{
+"date": "2021-01-27",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 641,
+"baseline": 2622,
+"ratio": 0.244
+},
+{
+"date": "2021-01-28",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 715,
+"baseline": 3194,
+"ratio": 0.224
+},
+{
+"date": "2021-01-29",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 891,
+"baseline": 4741,
+"ratio": 0.188
+},
+{
+"date": "2021-01-30",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 802,
+"baseline": 3838,
+"ratio": 0.209
+},
+{
+"date": "2021-01-31",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 820,
+"baseline": 5131,
+"ratio": 0.16
+},
+{
+"date": "2021-02-01",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 742,
+"baseline": 3280,
+"ratio": 0.226
+},
+{
+"date": "2021-02-02",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 754,
+"baseline": 3055,
+"ratio": 0.247
+},
+{
+"date": "2021-02-03",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 622,
+"baseline": 2622,
+"ratio": 0.237
+},
+{
+"date": "2021-02-04",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 734,
+"baseline": 3194,
+"ratio": 0.23
+},
+{
+"date": "2021-02-05",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 935,
+"baseline": 4741,
+"ratio": 0.197
+},
+{
+"date": "2021-02-06",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 776,
+"baseline": 3838,
+"ratio": 0.202
+},
+{
+"date": "2021-02-07",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 838,
+"baseline": 5131,
+"ratio": 0.163
+},
+{
+"date": "2021-02-08",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 823,
+"baseline": 3280,
+"ratio": 0.251
+},
+{
+"date": "2021-02-09",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 836,
+"baseline": 3055,
+"ratio": 0.274
+},
+{
+"date": "2021-02-12",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 869,
+"baseline": 3013,
+"ratio": 0.288
+},
+{
+"date": "2021-02-13",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 656,
+"baseline": 2581,
+"ratio": 0.254
+},
+{
+"date": "2021-05-13",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 500,
+"baseline": 1925,
+"ratio": 0.26
+},
+{
+"date": "2021-05-14",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 620,
+"baseline": 2488,
+"ratio": 0.249
+},
+{
+"date": "2021-05-23",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 752,
+"baseline": 2251,
+"ratio": 0.334
+},
+{
+"date": "2021-05-24",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 621,
+"baseline": 2014,
+"ratio": 0.308
+},
+{
+"date": "2021-05-26",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 598,
+"baseline": 1709,
+"ratio": 0.35
+},
+{
+"date": "2021-05-27",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 461,
+"baseline": 1849,
+"ratio": 0.249
+},
+{
+"date": "2021-05-28",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 526,
+"baseline": 2053,
+"ratio": 0.256
+},
+{
+"date": "2021-06-01",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 89,
+"baseline": 1530,
+"ratio": 0.058
+},
+{
+"date": "2021-06-02",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 85,
+"baseline": 1599,
+"ratio": 0.053
+},
+{
+"date": "2021-06-03",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 77,
+"baseline": 1783,
+"ratio": 0.043
+},
+{
+"date": "2021-06-04",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 95,
+"baseline": 1895,
+"ratio": 0.05
+},
+{
+"date": "2021-06-05",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 69,
+"baseline": 1368,
+"ratio": 0.05
+},
+{
+"date": "2021-06-06",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 50,
+"baseline": 1952,
+"ratio": 0.026
+},
+{
+"date": "2021-06-07",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 64,
+"baseline": 1726,
+"ratio": 0.037
+},
+{
+"date": "2021-06-08",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 119,
+"baseline": 1522,
+"ratio": 0.078
+},
+{
+"date": "2021-06-09",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 117,
+"baseline": 1501,
+"ratio": 0.078
+},
+{
+"date": "2021-06-10",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 71,
+"baseline": 1334,
+"ratio": 0.053
+},
+{
+"date": "2021-06-11",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 116,
+"baseline": 1469,
+"ratio": 0.079
+},
+{
+"date": "2021-06-12",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 58,
+"baseline": 1149,
+"ratio": 0.05
+},
+{
+"date": "2021-06-13",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 103,
+"baseline": 1699,
+"ratio": 0.061
+},
+{
+"date": "2021-06-14",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 172,
+"baseline": 1559,
+"ratio": 0.11
+},
+{
+"date": "2021-06-15",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 155,
+"baseline": 1353,
+"ratio": 0.115
+},
+{
+"date": "2021-06-16",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 132,
+"baseline": 1244,
+"ratio": 0.106
+},
+{
+"date": "2021-06-17",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 134,
+"baseline": 705,
+"ratio": 0.19
+},
+{
+"date": "2021-06-18",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 153,
+"baseline": 862,
+"ratio": 0.177
+},
+{
+"date": "2021-06-19",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 105,
+"baseline": 849,
+"ratio": 0.124
+},
+{
+"date": "2021-06-20",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 114,
+"baseline": 1142,
+"ratio": 0.1
+},
+{
+"date": "2021-06-21",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 160,
+"baseline": 1284,
+"ratio": 0.125
+},
+{
+"date": "2021-06-22",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 141,
+"baseline": 883,
+"ratio": 0.16
+},
+{
+"date": "2021-06-23",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 135,
+"baseline": 802,
+"ratio": 0.168
+},
+{
+"date": "2021-06-24",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 125,
+"baseline": 480,
+"ratio": 0.26
+},
+{
+"date": "2021-06-25",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 151,
+"baseline": 573,
+"ratio": 0.264
+},
+{
+"date": "2021-06-26",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 113,
+"baseline": 661,
+"ratio": 0.171
+},
+{
+"date": "2021-06-27",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 125,
+"baseline": 776,
+"ratio": 0.161
+},
+{
+"date": "2021-06-28",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 183,
+"baseline": 818,
+"ratio": 0.224
+},
+{
+"date": "2021-07-04",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 121,
+"baseline": 438,
+"ratio": 0.276
+},
+{
+"date": "2021-10-14",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 2232,
+"baseline": 233,
+"ratio": 9.559
+},
+{
+"date": "2021-10-15",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3075,
+"baseline": 286,
+"ratio": 10.752
+},
+{
+"date": "2021-10-16",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3059,
+"baseline": 221,
+"ratio": 13.81
+},
+{
+"date": "2021-10-17",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 2845,
+"baseline": 249,
+"ratio": 11.403
+},
+{
+"date": "2021-10-18",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 2421,
+"baseline": 347,
+"ratio": 6.967
+},
+{
+"date": "2021-10-19",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3126,
+"baseline": 283,
+"ratio": 11.026
+},
+{
+"date": "2021-10-20",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 2540,
+"baseline": 278,
+"ratio": 9.12
+},
+{
+"date": "2021-10-21",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 2512,
+"baseline": 269,
+"ratio": 9.321
+},
+{
+"date": "2021-10-22",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3437,
+"baseline": 336,
+"ratio": 10.229
+},
+{
+"date": "2021-10-23",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 2993,
+"baseline": 238,
+"ratio": 12.576
+},
+{
+"date": "2021-10-24",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3372,
+"baseline": 296,
+"ratio": 11.373
+},
+{
+"date": "2021-10-25",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 2948,
+"baseline": 384,
+"ratio": 7.667
+},
+{
+"date": "2021-10-26",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 2421,
+"baseline": 302,
+"ratio": 8.003
+},
+{
+"date": "2021-10-27",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 2396,
+"baseline": 291,
+"ratio": 8.234
+},
+{
+"date": "2021-10-28",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 2866,
+"baseline": 324,
+"ratio": 8.832
+},
+{
+"date": "2021-10-29",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3818,
+"baseline": 393,
+"ratio": 9.715
+},
+{
+"date": "2021-10-30",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3673,
+"baseline": 264,
+"ratio": 13.887
+},
+{
+"date": "2021-10-31",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3969,
+"baseline": 317,
+"ratio": 12.521
+},
+{
+"date": "2021-11-01",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3339,
+"baseline": 402,
+"ratio": 8.296
+},
+{
+"date": "2021-11-02",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3683,
+"baseline": 334,
+"ratio": 11.01
+},
+{
+"date": "2021-11-03",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4515,
+"baseline": 332,
+"ratio": 13.599
+},
+{
+"date": "2021-11-04",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4537,
+"baseline": 366,
+"ratio": 12.379
+},
+{
+"date": "2021-11-05",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4115,
+"baseline": 452,
+"ratio": 9.094
+},
+{
+"date": "2021-11-06",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4334,
+"baseline": 308,
+"ratio": 14.071
+},
+{
+"date": "2021-11-07",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4790,
+"baseline": 352,
+"ratio": 13.589
+},
+{
+"date": "2021-11-08",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4465,
+"baseline": 497,
+"ratio": 8.975
+},
+{
+"date": "2021-11-09",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3539,
+"baseline": 447,
+"ratio": 7.917
+},
+{
+"date": "2021-11-10",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3259,
+"baseline": 438,
+"ratio": 7.441
+},
+{
+"date": "2021-11-11",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 3468,
+"baseline": 1305,
+"ratio": 2.656
+},
+{
+"date": "2021-11-12",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4557,
+"baseline": 1784,
+"ratio": 2.554
+},
+{
+"date": "2021-11-13",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4281,
+"baseline": 1666,
+"ratio": 2.569
+},
+{
+"date": "2021-11-14",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 4868,
+"baseline": 1606,
+"ratio": 3.03
+},
+{
+"date": "2022-02-02",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 10361,
+"baseline": 3996,
+"ratio": 2.593
+},
+{
+"date": "2022-05-04",
+"mode": "rail_ets",
+"label": "KTM ETS",
+"value": 12496,
+"baseline": 4521,
+"ratio": 2.764
+},
+{
+"date": "2020-10-29",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 2496,
+"baseline": 860,
+"ratio": 2.902
+},
+{
+"date": "2020-11-21",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 547,
+"baseline": 1720,
+"ratio": 0.318
+},
+{
+"date": "2020-11-27",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 412,
+"baseline": 1419,
+"ratio": 0.29
+},
+{
+"date": "2020-11-28",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 458,
+"baseline": 1709,
+"ratio": 0.268
+},
+{
+"date": "2020-12-05",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 507,
+"baseline": 1698,
+"ratio": 0.299
+},
+{
+"date": "2021-01-07",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 240,
+"baseline": 918,
+"ratio": 0.261
+},
+{
+"date": "2021-01-08",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 212,
+"baseline": 975,
+"ratio": 0.217
+},
+{
+"date": "2021-01-09",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 295,
+"baseline": 1028,
+"ratio": 0.287
+},
+{
+"date": "2021-01-13",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 217,
+"baseline": 709,
+"ratio": 0.306
+},
+{
+"date": "2021-01-16",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 181,
+"baseline": 769,
+"ratio": 0.235
+},
+{
+"date": "2021-01-17",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 164,
+"baseline": 888,
+"ratio": 0.185
+},
+{
+"date": "2021-01-18",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 111,
+"baseline": 804,
+"ratio": 0.138
+},
+{
+"date": "2021-01-19",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 123,
+"baseline": 783,
+"ratio": 0.157
+},
+{
+"date": "2021-01-20",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 140,
+"baseline": 681,
+"ratio": 0.205
+},
+{
+"date": "2021-01-21",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 154,
+"baseline": 697,
+"ratio": 0.221
+},
+{
+"date": "2021-01-22",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 129,
+"baseline": 708,
+"ratio": 0.182
+},
+{
+"date": "2021-01-23",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 148,
+"baseline": 749,
+"ratio": 0.198
+},
+{
+"date": "2021-01-24",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 161,
+"baseline": 888,
+"ratio": 0.181
+},
+{
+"date": "2021-01-25",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 148,
+"baseline": 804,
+"ratio": 0.184
+},
+{
+"date": "2021-01-26",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 181,
+"baseline": 783,
+"ratio": 0.231
+},
+{
+"date": "2021-01-27",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 174,
+"baseline": 681,
+"ratio": 0.255
+},
+{
+"date": "2021-01-28",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 212,
+"baseline": 697,
+"ratio": 0.304
+},
+{
+"date": "2021-01-29",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 121,
+"baseline": 708,
+"ratio": 0.171
+},
+{
+"date": "2021-01-30",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 140,
+"baseline": 749,
+"ratio": 0.187
+},
+{
+"date": "2021-01-31",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 230,
+"baseline": 888,
+"ratio": 0.259
+},
+{
+"date": "2021-02-01",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 183,
+"baseline": 804,
+"ratio": 0.228
+},
+{
+"date": "2021-02-02",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 118,
+"baseline": 783,
+"ratio": 0.151
+},
+{
+"date": "2021-02-03",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 149,
+"baseline": 681,
+"ratio": 0.219
+},
+{
+"date": "2021-02-04",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 203,
+"baseline": 625,
+"ratio": 0.325
+},
+{
+"date": "2021-02-05",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 106,
+"baseline": 675,
+"ratio": 0.157
+},
+{
+"date": "2021-02-06",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 141,
+"baseline": 643,
+"ratio": 0.219
+},
+{
+"date": "2021-02-07",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 204,
+"baseline": 854,
+"ratio": 0.239
+},
+{
+"date": "2021-02-08",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 206,
+"baseline": 656,
+"ratio": 0.314
+},
+{
+"date": "2021-02-09",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 187,
+"baseline": 783,
+"ratio": 0.239
+},
+{
+"date": "2021-02-28",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 604,
+"baseline": 217,
+"ratio": 2.783
+},
+{
+"date": "2021-03-05",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 683,
+"baseline": 175,
+"ratio": 3.892
+},
+{
+"date": "2021-03-06",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1025,
+"baseline": 189,
+"ratio": 5.423
+},
+{
+"date": "2021-03-07",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 952,
+"baseline": 217,
+"ratio": 4.387
+},
+{
+"date": "2021-03-08",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 654,
+"baseline": 225,
+"ratio": 2.9
+},
+{
+"date": "2021-03-09",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 615,
+"baseline": 190,
+"ratio": 3.228
+},
+{
+"date": "2021-03-10",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 569,
+"baseline": 204,
+"ratio": 2.789
+},
+{
+"date": "2021-03-11",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 714,
+"baseline": 276,
+"ratio": 2.587
+},
+{
+"date": "2021-03-12",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1256,
+"baseline": 193,
+"ratio": 6.491
+},
+{
+"date": "2021-03-13",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1300,
+"baseline": 189,
+"ratio": 6.878
+},
+{
+"date": "2021-03-14",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1029,
+"baseline": 217,
+"ratio": 4.742
+},
+{
+"date": "2021-03-15",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 839,
+"baseline": 225,
+"ratio": 3.721
+},
+{
+"date": "2021-03-16",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 617,
+"baseline": 190,
+"ratio": 3.239
+},
+{
+"date": "2021-03-18",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 829,
+"baseline": 276,
+"ratio": 3.004
+},
+{
+"date": "2021-03-19",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1515,
+"baseline": 193,
+"ratio": 7.829
+},
+{
+"date": "2021-03-20",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1861,
+"baseline": 273,
+"ratio": 6.804
+},
+{
+"date": "2021-03-21",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1073,
+"baseline": 350,
+"ratio": 3.066
+},
+{
+"date": "2021-03-23",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 928,
+"baseline": 256,
+"ratio": 3.618
+},
+{
+"date": "2021-03-24",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 655,
+"baseline": 258,
+"ratio": 2.539
+},
+{
+"date": "2021-03-25",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1134,
+"baseline": 360,
+"ratio": 3.15
+},
+{
+"date": "2021-03-26",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1792,
+"baseline": 305,
+"ratio": 5.866
+},
+{
+"date": "2021-03-27",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1959,
+"baseline": 408,
+"ratio": 4.796
+},
+{
+"date": "2021-03-28",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1658,
+"baseline": 537,
+"ratio": 3.088
+},
+{
+"date": "2021-03-29",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1062,
+"baseline": 333,
+"ratio": 3.184
+},
+{
+"date": "2021-03-30",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1302,
+"baseline": 320,
+"ratio": 4.062
+},
+{
+"date": "2021-03-31",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1162,
+"baseline": 307,
+"ratio": 3.785
+},
+{
+"date": "2021-04-01",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1603,
+"baseline": 463,
+"ratio": 3.458
+},
+{
+"date": "2021-04-02",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 2025,
+"baseline": 523,
+"ratio": 3.872
+},
+{
+"date": "2021-04-03",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1947,
+"baseline": 746,
+"ratio": 2.61
+},
+{
+"date": "2021-04-23",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 370,
+"baseline": 1385,
+"ratio": 0.267
+},
+{
+"date": "2021-04-24",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 446,
+"baseline": 1580,
+"ratio": 0.282
+},
+{
+"date": "2021-04-30",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 474,
+"baseline": 1385,
+"ratio": 0.342
+},
+{
+"date": "2021-05-01",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 458,
+"baseline": 1580,
+"ratio": 0.29
+},
+{
+"date": "2021-05-13",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 175,
+"baseline": 797,
+"ratio": 0.219
+},
+{
+"date": "2021-05-14",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 328,
+"baseline": 1048,
+"ratio": 0.313
+},
+{
+"date": "2021-06-01",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 41,
+"baseline": 425,
+"ratio": 0.096
+},
+{
+"date": "2021-06-02",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 37,
+"baseline": 331,
+"ratio": 0.112
+},
+{
+"date": "2021-06-03",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 60,
+"baseline": 462,
+"ratio": 0.13
+},
+{
+"date": "2021-06-04",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 28,
+"baseline": 435,
+"ratio": 0.064
+},
+{
+"date": "2021-06-05",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 52,
+"baseline": 476,
+"ratio": 0.109
+},
+{
+"date": "2021-06-06",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 37,
+"baseline": 599,
+"ratio": 0.062
+},
+{
+"date": "2021-06-07",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 56,
+"baseline": 392,
+"ratio": 0.143
+},
+{
+"date": "2021-06-08",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 80,
+"baseline": 405,
+"ratio": 0.197
+},
+{
+"date": "2021-06-09",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 93,
+"baseline": 316,
+"ratio": 0.294
+},
+{
+"date": "2021-06-10",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 60,
+"baseline": 442,
+"ratio": 0.136
+},
+{
+"date": "2021-06-11",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 51,
+"baseline": 383,
+"ratio": 0.133
+},
+{
+"date": "2021-06-12",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 55,
+"baseline": 452,
+"ratio": 0.122
+},
+{
+"date": "2021-06-13",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 81,
+"baseline": 531,
+"ratio": 0.153
+},
+{
+"date": "2021-06-14",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 101,
+"baseline": 356,
+"ratio": 0.284
+},
+{
+"date": "2021-06-15",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 86,
+"baseline": 363,
+"ratio": 0.237
+},
+{
+"date": "2021-06-16",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 96,
+"baseline": 291,
+"ratio": 0.33
+},
+{
+"date": "2021-06-17",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 87,
+"baseline": 361,
+"ratio": 0.241
+},
+{
+"date": "2021-06-18",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 76,
+"baseline": 349,
+"ratio": 0.218
+},
+{
+"date": "2021-06-19",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 74,
+"baseline": 397,
+"ratio": 0.186
+},
+{
+"date": "2021-06-20",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 103,
+"baseline": 497,
+"ratio": 0.207
+},
+{
+"date": "2021-06-21",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 92,
+"baseline": 355,
+"ratio": 0.259
+},
+{
+"date": "2021-06-22",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 76,
+"baseline": 322,
+"ratio": 0.236
+},
+{
+"date": "2021-06-24",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 65,
+"baseline": 234,
+"ratio": 0.278
+},
+{
+"date": "2021-06-25",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 66,
+"baseline": 262,
+"ratio": 0.251
+},
+{
+"date": "2021-06-26",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 63,
+"baseline": 306,
+"ratio": 0.206
+},
+{
+"date": "2021-06-27",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 74,
+"baseline": 416,
+"ratio": 0.178
+},
+{
+"date": "2021-06-28",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 77,
+"baseline": 327,
+"ratio": 0.235
+},
+{
+"date": "2021-09-11",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 339,
+"baseline": 113,
+"ratio": 2.987
+},
+{
+"date": "2021-09-13",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 325,
+"baseline": 120,
+"ratio": 2.708
+},
+{
+"date": "2021-09-14",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 349,
+"baseline": 125,
+"ratio": 2.781
+},
+{
+"date": "2021-09-15",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 376,
+"baseline": 109,
+"ratio": 3.45
+},
+{
+"date": "2021-09-16",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 490,
+"baseline": 141,
+"ratio": 3.463
+},
+{
+"date": "2021-09-17",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 354,
+"baseline": 132,
+"ratio": 2.682
+},
+{
+"date": "2021-09-18",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 425,
+"baseline": 123,
+"ratio": 3.441
+},
+{
+"date": "2021-09-19",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 386,
+"baseline": 139,
+"ratio": 2.767
+},
+{
+"date": "2021-09-22",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 362,
+"baseline": 129,
+"ratio": 2.795
+},
+{
+"date": "2021-09-23",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 476,
+"baseline": 153,
+"ratio": 3.111
+},
+{
+"date": "2021-09-24",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 761,
+"baseline": 153,
+"ratio": 4.958
+},
+{
+"date": "2021-09-25",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 942,
+"baseline": 162,
+"ratio": 5.815
+},
+{
+"date": "2021-09-26",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 565,
+"baseline": 162,
+"ratio": 3.477
+},
+{
+"date": "2021-09-27",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 597,
+"baseline": 187,
+"ratio": 3.193
+},
+{
+"date": "2021-09-28",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 604,
+"baseline": 179,
+"ratio": 3.365
+},
+{
+"date": "2021-09-29",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 869,
+"baseline": 171,
+"ratio": 5.067
+},
+{
+"date": "2021-09-30",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 868,
+"baseline": 187,
+"ratio": 4.629
+},
+{
+"date": "2021-10-01",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1272,
+"baseline": 190,
+"ratio": 6.695
+},
+{
+"date": "2021-10-02",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1146,
+"baseline": 214,
+"ratio": 5.343
+},
+{
+"date": "2021-10-03",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1006,
+"baseline": 194,
+"ratio": 5.172
+},
+{
+"date": "2021-10-04",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 791,
+"baseline": 198,
+"ratio": 3.985
+},
+{
+"date": "2021-10-05",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 939,
+"baseline": 208,
+"ratio": 4.514
+},
+{
+"date": "2021-10-06",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1249,
+"baseline": 210,
+"ratio": 5.933
+},
+{
+"date": "2021-10-07",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1175,
+"baseline": 238,
+"ratio": 4.937
+},
+{
+"date": "2021-10-08",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1991,
+"baseline": 250,
+"ratio": 7.948
+},
+{
+"date": "2021-10-09",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1924,
+"baseline": 288,
+"ratio": 6.669
+},
+{
+"date": "2021-10-10",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1532,
+"baseline": 244,
+"ratio": 6.266
+},
+{
+"date": "2021-10-11",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1211,
+"baseline": 262,
+"ratio": 4.613
+},
+{
+"date": "2021-10-12",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1106,
+"baseline": 269,
+"ratio": 4.104
+},
+{
+"date": "2021-10-13",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1260,
+"baseline": 291,
+"ratio": 4.322
+},
+{
+"date": "2021-10-14",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1577,
+"baseline": 374,
+"ratio": 4.217
+},
+{
+"date": "2021-10-15",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 2712,
+"baseline": 324,
+"ratio": 8.37
+},
+{
+"date": "2021-10-16",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 2556,
+"baseline": 382,
+"ratio": 6.691
+},
+{
+"date": "2021-10-17",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1986,
+"baseline": 334,
+"ratio": 5.937
+},
+{
+"date": "2021-10-18",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1833,
+"baseline": 325,
+"ratio": 5.64
+},
+{
+"date": "2021-10-19",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 2784,
+"baseline": 336,
+"ratio": 8.286
+},
+{
+"date": "2021-10-20",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1518,
+"baseline": 369,
+"ratio": 4.114
+},
+{
+"date": "2021-10-21",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1808,
+"baseline": 483,
+"ratio": 3.743
+},
+{
+"date": "2021-10-22",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 2560,
+"baseline": 557,
+"ratio": 4.592
+},
+{
+"date": "2021-10-23",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 2982,
+"baseline": 683,
+"ratio": 4.363
+},
+{
+"date": "2021-10-24",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 2143,
+"baseline": 475,
+"ratio": 4.507
+},
+{
+"date": "2021-10-25",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1747,
+"baseline": 461,
+"ratio": 3.79
+},
+{
+"date": "2021-10-26",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1852,
+"baseline": 476,
+"ratio": 3.887
+},
+{
+"date": "2021-10-27",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 2005,
+"baseline": 622,
+"ratio": 3.221
+},
+{
+"date": "2021-10-28",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 2308,
+"baseline": 679,
+"ratio": 3.399
+},
+{
+"date": "2021-10-29",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 3287,
+"baseline": 1016,
+"ratio": 3.234
+},
+{
+"date": "2021-10-30",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 3909,
+"baseline": 1044,
+"ratio": 3.744
+},
+{
+"date": "2021-10-31",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 2221,
+"baseline": 785,
+"ratio": 2.827
+},
+{
+"date": "2021-11-01",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1773,
+"baseline": 694,
+"ratio": 2.555
+},
+{
+"date": "2021-11-02",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 2044,
+"baseline": 771,
+"ratio": 2.649
+},
+{
+"date": "2021-11-03",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 2825,
+"baseline": 1059,
+"ratio": 2.668
+},
+{
+"date": "2021-11-04",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4047,
+"baseline": 1021,
+"ratio": 3.962
+},
+{
+"date": "2021-11-06",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4105,
+"baseline": 1535,
+"ratio": 2.674
+},
+{
+"date": "2022-01-31",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 3660,
+"baseline": 1387,
+"ratio": 2.638
+},
+{
+"date": "2022-02-01",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4538,
+"baseline": 1355,
+"ratio": 3.349
+},
+{
+"date": "2022-02-02",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4300,
+"baseline": 1442,
+"ratio": 2.982
+},
+{
+"date": "2022-04-08",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 869,
+"baseline": 2530,
+"ratio": 0.343
+},
+{
+"date": "2022-05-04",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4266,
+"baseline": 1640,
+"ratio": 2.601
+},
+{
+"date": "2022-05-15",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4442,
+"baseline": 1656,
+"ratio": 2.682
+},
+{
+"date": "2022-06-06",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6904,
+"baseline": 1783,
+"ratio": 3.871
+},
+{
+"date": "2022-06-07",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 5729,
+"baseline": 1436,
+"ratio": 3.988
+},
+{
+"date": "2022-06-08",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 5540,
+"baseline": 1488,
+"ratio": 3.722
+},
+{
+"date": "2022-06-09",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 5850,
+"baseline": 2286,
+"ratio": 2.558
+},
+{
+"date": "2022-07-12",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4998,
+"baseline": 1828,
+"ratio": 2.733
+},
+{
+"date": "2022-08-31",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6002,
+"baseline": 2367,
+"ratio": 2.536
+},
+{
+"date": "2022-09-05",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6412,
+"baseline": 2462,
+"ratio": 2.604
+},
+{
+"date": "2022-09-06",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6219,
+"baseline": 2124,
+"ratio": 2.927
+},
+{
+"date": "2022-09-07",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6745,
+"baseline": 2485,
+"ratio": 2.714
+},
+{
+"date": "2022-10-24",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 7648,
+"baseline": 2712,
+"ratio": 2.82
+},
+{
+"date": "2023-01-24",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6216,
+"baseline": 2096,
+"ratio": 2.966
+},
+{
+"date": "2023-05-01",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6375,
+"baseline": 2370,
+"ratio": 2.69
+},
+{
+"date": "2023-05-29",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 5964,
+"baseline": 2334,
+"ratio": 2.555
+},
+{
+"date": "2023-05-30",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 5815,
+"baseline": 1908,
+"ratio": 3.047
+},
+{
+"date": "2023-05-31",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 5327,
+"baseline": 2042,
+"ratio": 2.609
+},
+{
+"date": "2023-06-05",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6923,
+"baseline": 2695,
+"ratio": 2.568
+},
+{
+"date": "2023-06-28",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 5299,
+"baseline": 2119,
+"ratio": 2.5
+},
+{
+"date": "2023-08-28",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6041,
+"baseline": 2393,
+"ratio": 2.524
+},
+{
+"date": "2023-08-29",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6221,
+"baseline": 2298,
+"ratio": 2.707
+},
+{
+"date": "2023-08-30",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6970,
+"baseline": 2409,
+"ratio": 2.893
+},
+{
+"date": "2023-11-13",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 7495,
+"baseline": 2446,
+"ratio": 3.064
+},
+{
+"date": "2023-12-25",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6569,
+"baseline": 2522,
+"ratio": 2.605
+},
+{
+"date": "2024-02-12",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 7065,
+"baseline": 2482,
+"ratio": 2.846
+},
+{
+"date": "2024-03-20",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 1420,
+"baseline": 4117,
+"ratio": 0.345
+},
+{
+"date": "2024-05-29",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 5985,
+"baseline": 2343,
+"ratio": 2.554
+},
+{
+"date": "2024-06-03",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 7169,
+"baseline": 2261,
+"ratio": 3.17
+},
+{
+"date": "2024-09-16",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 7519,
+"baseline": 2799,
+"ratio": 2.686
+},
+{
+"date": "2024-09-18",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6454,
+"baseline": 2525,
+"ratio": 2.556
+},
+{
+"date": "2024-12-25",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6367,
+"baseline": 2461,
+"ratio": 2.587
+},
+{
+"date": "2025-01-28",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6507,
+"baseline": 2381,
+"ratio": 2.732
+},
+{
+"date": "2025-01-29",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6745,
+"baseline": 2653,
+"ratio": 2.542
+},
+{
+"date": "2025-06-02",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6986,
+"baseline": 2635,
+"ratio": 2.651
+},
+{
+"date": "2025-06-03",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 5962,
+"baseline": 2359,
+"ratio": 2.527
+},
+{
+"date": "2025-06-04",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 5964,
+"baseline": 2251,
+"ratio": 2.649
+},
+{
+"date": "2025-09-15",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 7954,
+"baseline": 2817,
+"ratio": 2.824
+},
+{
+"date": "2025-09-16",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 7374,
+"baseline": 2437,
+"ratio": 3.025
+},
+{
+"date": "2026-02-17",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 5588,
+"baseline": 1633,
+"ratio": 3.422
+},
+{
+"date": "2026-03-17",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 3636,
+"baseline": 1352,
+"ratio": 2.688
+},
+{
+"date": "2026-03-18",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4649,
+"baseline": 1394,
+"ratio": 3.334
+},
+{
+"date": "2026-03-23",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4886,
+"baseline": 1607,
+"ratio": 3.04
+},
+{
+"date": "2026-03-24",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4097,
+"baseline": 1352,
+"ratio": 3.029
+},
+{
+"date": "2026-03-25",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4241,
+"baseline": 1479,
+"ratio": 2.867
+},
+{
+"date": "2026-05-25",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4530,
+"baseline": 1798,
+"ratio": 2.519
+},
+{
+"date": "2026-06-01",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 6008,
+"baseline": 1798,
+"ratio": 3.341
+},
+{
+"date": "2026-06-02",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4770,
+"baseline": 1834,
+"ratio": 2.6
+},
+{
+"date": "2026-06-03",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 4890,
+"baseline": 1727,
+"ratio": 2.831
+}
+]

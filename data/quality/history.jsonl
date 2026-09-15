@@ -1,0 +1,1 @@
+{"run_at": "2026-09-15T11:02:52+00:00", "today": "2026-09-15", "snapshot": "1602e91d534c", "status": "warn", "counts": {"error": 0, "warn": 1, "info": 2, "ok": 8}, "flags": ["freshness"]}

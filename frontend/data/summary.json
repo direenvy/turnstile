@@ -1,0 +1,18 @@
+{
+"first_date": "2019-01-01",
+"latest_date": "2026-07-31",
+"lag_days": 46,
+"rows": 26573,
+"days": 2769,
+"modes": 14,
+"modes_active": 13,
+"latest_month": "2026-07",
+"latest_month_trips": 42923796,
+"latest_month_rail": 34471693,
+"latest_month_bus": 8452103,
+"year_ago_month_trips": 40377505,
+"yoy": 0.0631,
+"busiest_mode": "rail_mrt_kajang",
+"busiest_label": "MRT Kajang",
+"busiest_28d_avg": 277571
+}

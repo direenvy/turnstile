@@ -1,0 +1,95 @@
+{
+  "run_at": "2026-09-15T11:02:52+00:00",
+  "today": "2026-09-15",
+  "snapshot": "1602e91d534c",
+  "status": "warn",
+  "counts": {
+    "error": 0,
+    "warn": 1,
+    "info": 2,
+    "ok": 8
+  },
+  "findings": [
+    {
+      "check": "schema",
+      "severity": "ok",
+      "message": "14 known modes, all numeric",
+      "details": {}
+    },
+    {
+      "check": "date_unique",
+      "severity": "ok",
+      "message": "no duplicate dates",
+      "details": {}
+    },
+    {
+      "check": "date_contiguous",
+      "severity": "ok",
+      "message": "every day present from 2019-01-01 to 2026-07-31",
+      "details": {}
+    },
+    {
+      "check": "no_future",
+      "severity": "ok",
+      "message": "no rows in the future",
+      "details": {}
+    },
+    {
+      "check": "non_negative",
+      "severity": "ok",
+      "message": "no negative counts",
+      "details": {}
+    },
+    {
+      "check": "no_regression",
+      "severity": "ok",
+      "message": "first snapshot; nothing to compare",
+      "details": {}
+    },
+    {
+      "check": "revisions",
+      "severity": "ok",
+      "message": "first snapshot; nothing to compare",
+      "details": {}
+    },
+    {
+      "check": "freshness",
+      "severity": "warn",
+      "message": "latest day is 2026-07-31, 46 days behind 2026-09-15 (warn above 45)",
+      "details": {
+        "latest": "2026-07-31",
+        "lag_days": 46
+      }
+    },
+    {
+      "check": "silent_zero",
+      "severity": "info",
+      "message": "Rapid Bus Kuantan: 0 since 2025-12-15, service retired 2025-12-14 \u2014 expected",
+      "details": {
+        "mode": "bus_rkn",
+        "since": "2025-12-15",
+        "days": 229,
+        "retired": "2025-12-14"
+      }
+    },
+    {
+      "check": "leading_zeros",
+      "severity": "info",
+      "message": "LRT Shah Alam: 30 zero days before first revenue day 2026-06-29 (opening)",
+      "details": {
+        "mode": "rail_lrt_shah_alam",
+        "days": 30,
+        "first_positive": "2026-06-29"
+      }
+    },
+    {
+      "check": "outliers",
+      "severity": "ok",
+      "message": "no outliers in the last 90 days (742 in all history)",
+      "details": {
+        "total": 742,
+        "recent": []
+      }
+    }
+  ]
+}

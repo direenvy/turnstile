@@ -16,6 +16,7 @@ DATA = ROOT / "data"
 RAW = DATA / "raw"
 TIDY = DATA / "tidy"
 MARTS = ROOT / "frontend" / "data"  # the dashboard imports these at build time
+CSV = ROOT / "frontend" / "public" / "ridership.csv"  # the tidy table, downloadable from the dashboard
 QUALITY = DATA / "quality"
 RUNS = DATA / "runs"
 

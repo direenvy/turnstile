@@ -1,8 +1,9 @@
-/* One card per mode: the last 365 days as a sparkline, the 28-day average,
-   and the change against the same window a year earlier. Sign and weight
-   carry direction; there is no red or green. */
+/* One card per mode: the last 365 days as a sparkline with the days the
+   outlier rule flagged marked on it, the 28-day average, and the change
+   against the same window a year earlier. Sign and weight carry direction;
+   there is no red or green. */
 
-import { daily, modes, num, pct, dateName, type Mode } from "@/lib/data";
+import { daily, modes, outliers, num, pct, dateName, type Mode } from "@/lib/data";
 
 const W = 280;
 const H = 64;
@@ -16,10 +17,25 @@ function Spark({ mode }: { mode: Mode }) {
   const d = pts.map((p, i) => `${i === 0 ? "M" : "L"}${x(i).toFixed(1)} ${y(p.trips).toFixed(1)}`).join(" ");
   const area = `${d} L${W} ${H} L0 ${H} Z`;
   const retired = mode.status === "retired";
+  // The outlier rule's hits inside this window: filled below baseline, hollow above.
+  const index = new Map(pts.map((p, i) => [p.date, i]));
+  const marks = outliers.filter((o) => o.mode === mode.key && index.has(o.date)).map((o) => ({ ...o, i: index.get(o.date)! }));
+  const flagged = marks.length;
   return (
-    <svg viewBox={`0 0 ${W} ${H}`} className="w-full" style={{ height: H }} role="img" aria-label={`${mode.label}, daily trips, ${dateName(pts[0].date)} to ${dateName(pts[pts.length - 1].date)}`}>
+    <svg
+      viewBox={`0 0 ${W} ${H}`}
+      className="w-full"
+      style={{ height: H }}
+      role="img"
+      aria-label={`${mode.label}, daily trips, ${dateName(pts[0].date)} to ${dateName(pts[pts.length - 1].date)}${flagged ? `, ${flagged} outlier day${flagged === 1 ? "" : "s"} marked` : ""}`}
+    >
       <path d={area} fill={retired ? "var(--color-ash-mist)" : "#5a769f"} opacity={retired ? 0.12 : 0.16} />
       <path d={d} fill="none" stroke={retired ? "var(--color-ash-mist)" : "var(--color-onyx)"} strokeWidth={1.25} strokeLinejoin="round" />
+      {marks.map((m) => (
+        <circle key={m.date} cx={x(m.i)} cy={y(m.value)} r={3} fill={m.ratio < 1 ? "var(--color-onyx)" : "var(--color-parchment-canvas)"} stroke="var(--color-onyx)" strokeWidth={1.25}>
+          <title>{`${dateName(m.date)}: ${num(m.value)} trips, ${m.ratio.toFixed(2)}× the same-weekday baseline`}</title>
+        </circle>
+      ))}
     </svg>
   );
 }

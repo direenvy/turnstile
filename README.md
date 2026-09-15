@@ -72,7 +72,9 @@ downgrades the finding to *info*, the dashboard marks the mode retired, and the 
 rule stops judging it after that day. Nothing in `validate.py` knows the name of any mode.
 
 **2. Same-weekday baseline, because day-over-day flags every Saturday.**
-Ridership drops 40–45% at weekends. A day-over-day rule would fire twice a week forever;
+Ridership drops by a quarter to a third at weekends — over the last 52 weeks rail runs at 75%
+of a weekday on Saturday and 67% on Sunday, bus at 74% on Saturday; the dashboard's weekday
+chart shows it. A day-over-day rule would fire twice a week forever;
 a rolling mean would smear weekends into weekdays. Each day is instead compared with the
 median of the same weekday over the previous eight weeks, with zeros and gaps not voting.
 That is what let the MRT Putrajaya collapse stand out on a Saturday while the other lines'
@@ -98,8 +100,9 @@ shadow; controls are pills; the footer is the gradient's darkest stop as a solid
 The system is achromatic at the interface level, which a data-quality page has to
 respect deliberately: **status is carried by shape and weight, not hue** — a failed check
 is an Onyx-filled pill, a warning an Onyx-outlined one, passed and noted are grey text.
-Chart marks are Onyx and Slate Veil; the dawn arc's steel blue sits under the rail line as
-a wash, never as a category colour. Direction on the mode cards is sign and weight. Every
+Chart marks are Onyx and Slate Veil; the dawn arc's steel blue sits under the first line as
+a wash, never as a category colour. Where the page compares up to three modes on one chart,
+they are told apart by line texture (solid, dashed, dotted), not hue. Direction on the mode cards is sign and weight. Every
 figure remains readable with the colour removed because there is no colour to remove.
 
 ## Architecture
@@ -138,6 +141,11 @@ python -m pipeline.run                     # live download
 python -m pipeline.run --file some.parquet --today 2026-09-15 --force   # replay
 cd frontend && npm install && npm run dev  # dashboard on :3000
 ```
+
+The dashboard has a range control (since 2019 / 5 years / 3 years / 12 months) that glides
+between windows, a compare-modes view for up to three modes, a weekday profile, outlier
+days marked on every mode's sparkline, and the tidy table as a CSV download
+(`frontend/public/ridership.csv`, written by the pipeline).
 
 The dashboard is on Vercel (root directory `frontend`, no environment variables) at
 https://turnstile-tawny.vercel.app; it rebuilds whenever the pipeline commits.

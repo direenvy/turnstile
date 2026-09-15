@@ -11,7 +11,7 @@ from pathlib import Path
 import duckdb
 import pandas as pd
 
-from .config import MARTS, MODE_BY_KEY, MODE_KEYS, MODES, TIDY
+from .config import CSV, MARTS, MODE_BY_KEY, MODE_KEYS, MODES, TIDY
 from .validate import outliers
 
 TIDY_PARQUET = TIDY / "ridership.parquet"
@@ -28,7 +28,11 @@ def tidy(df: pd.DataFrame) -> pd.DataFrame:
 
 def write_tidy(df: pd.DataFrame) -> Path:
     TIDY.mkdir(parents=True, exist_ok=True)
-    tidy(df).to_parquet(TIDY_PARQUET, index=False)
+    long = tidy(df)
+    long.to_parquet(TIDY_PARQUET, index=False)
+    # The same table as CSV, served by the dashboard under CC BY 4.0.
+    CSV.parent.mkdir(parents=True, exist_ok=True)
+    long.to_csv(CSV, index=False, lineterminator="\n")
     return TIDY_PARQUET
 
 

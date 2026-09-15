@@ -1,6 +1,7 @@
 import ModeGrid from "@/components/ModeGrid";
 import { Findings, OutlierTable, RunHistory } from "@/components/Quality";
 import SystemChart from "@/components/SystemChart";
+import WeekdayChart from "@/components/WeekdayChart";
 import { dateName, monthName, num, pct, quality, runs, summary } from "@/lib/data";
 
 const REPO = "https://github.com/direenvy/turnstile";
@@ -63,9 +64,12 @@ export default function Home() {
           <h1 className="display" style={{ maxWidth: 900 }}>
             Malaysia&rsquo;s public-transport ridership, <span className="dissolve">checked before it&rsquo;s published.</span>
           </h1>
-          <div className="flex flex-wrap items-center gap-x-6 gap-y-2" style={{ marginTop: 24 }}>
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-2" style={{ marginTop: 24 }}>
             <a href="#numbers" className="pill" style={{ paddingLeft: 0 }}>
               The numbers ↓
+            </a>
+            <a href="/ridership.csv" download className="pill">
+              Download the data (CSV)
             </a>
             <span className="body-sm tabular" style={{ color: "var(--text-secondary)" }}>
               Data to {dateName(summary.latest_date)} · last checked {lastRun ? lastRun.run_at.slice(0, 10) : "—"}
@@ -106,7 +110,21 @@ export default function Home() {
           </div>
         </Section>
 
-        <Section id="modes" kicker="Last 365 days" title="Every mode" lede="Daily trips, with the last 28 days against the same 28 days a year earlier. Trips, not passengers: an interchange counts twice.">
+        <Section kicker="Last 52 weeks" title="The shape of a week" lede="Average daily trips by weekday. Saturday is not a broken Friday — which is why the outlier rule compares each day with the same weekday, not the day before.">
+          <div className="card" style={{ padding: "var(--card-padding)" }}>
+            <WeekdayChart />
+          </div>
+        </Section>
+
+        <Section id="modes" kicker="Last 365 days" title="Every mode" lede="Daily trips, with the last 28 days against the same 28 days a year earlier, and the days the outlier rule flagged marked on each line. Trips, not passengers: an interchange counts twice.">
+          <p className="body-sm flex flex-wrap items-center gap-x-5 gap-y-1" style={{ color: "var(--text-secondary)", marginBottom: 16 }}>
+            <span className="flex items-center gap-2">
+              <span aria-hidden="true" style={{ width: 8, height: 8, borderRadius: 99, background: "var(--color-onyx)" }} /> below the same-weekday baseline
+            </span>
+            <span className="flex items-center gap-2">
+              <span aria-hidden="true" style={{ width: 8, height: 8, borderRadius: 99, border: "1.25px solid var(--color-onyx)" }} /> above it
+            </span>
+          </p>
           <ModeGrid />
         </Section>
 
@@ -146,6 +164,9 @@ export default function Home() {
             </a>
             <a href={`${REPO}/actions/workflows/pipeline.yml`} target="_blank" rel="noreferrer" className="pill on-dark" style={{ fontSize: 14 }}>
               Pipeline runs ↗
+            </a>
+            <a href="/ridership.csv" download className="pill on-dark" style={{ fontSize: 14 }}>
+              ridership.csv ↓
             </a>
           </div>
         </div>

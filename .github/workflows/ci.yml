@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches: [main]
-    paths-ignore: ["data/**", "frontend/data/**"]
+    paths-ignore: ["data/**", "frontend/data/**", "frontend/public/ridership.csv"]
   pull_request:
   workflow_dispatch:
 

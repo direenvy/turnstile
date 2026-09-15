@@ -18,6 +18,7 @@ def sandbox(tmp_path, monkeypatch):
     """Point every data path at tmp_path so a test never touches data/."""
     for name in ("DATA", "RAW", "TIDY", "MARTS", "QUALITY", "RUNS"):
         monkeypatch.setattr(config, name, tmp_path / name.lower())
+    monkeypatch.setattr(config, "CSV", tmp_path / "public" / "ridership.csv")
     from pipeline import ingest, run, transform
 
     monkeypatch.setattr(ingest, "RAW", config.RAW)
@@ -25,6 +26,7 @@ def sandbox(tmp_path, monkeypatch):
     monkeypatch.setattr(transform, "TIDY", config.TIDY)
     monkeypatch.setattr(transform, "MARTS", config.MARTS)
     monkeypatch.setattr(transform, "TIDY_PARQUET", config.TIDY / "ridership.parquet")
+    monkeypatch.setattr(transform, "CSV", config.CSV)
     monkeypatch.setattr(run, "QUALITY_LATEST", config.QUALITY / "latest.json")
     monkeypatch.setattr(run, "QUALITY_HISTORY", config.QUALITY / "history.jsonl")
     monkeypatch.setattr(run, "RUN_HISTORY", config.RUNS / "history.jsonl")
@@ -85,6 +87,8 @@ def test_marts_use_whole_months_only_and_report_status(sandbox):
     assert result["summary"]["yoy"] is not None
     tidy = pd.read_parquet(config.TIDY / "ridership.parquet")
     assert set(tidy.columns) == {"date", "mode", "system", "trips"}
+    csv = pd.read_csv(config.CSV)
+    assert len(csv) == len(tidy) and list(csv.columns) == ["date", "mode", "system", "trips"]
 
 
 def test_a_failed_check_blocks_publication_and_is_recorded(sandbox):

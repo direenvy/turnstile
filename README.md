@@ -3,6 +3,8 @@
 [![CI](https://github.com/direenvy/turnstile/actions/workflows/ci.yml/badge.svg)](https://github.com/direenvy/turnstile/actions/workflows/ci.yml)
 [![Pipeline](https://github.com/direenvy/turnstile/actions/workflows/pipeline.yml/badge.svg)](https://github.com/direenvy/turnstile/actions/workflows/pipeline.yml)
 
+**Live:** [turnstile-tawny.vercel.app](https://turnstile-tawny.vercel.app) — rebuilt automatically on every pipeline commit.
+
 Malaysia's public-transport ridership, ingested every morning, checked before it is
 published, and shown on a dashboard that says when it was last checked.
 
@@ -137,8 +139,8 @@ python -m pipeline.run --file some.parquet --today 2026-09-15 --force   # replay
 cd frontend && npm install && npm run dev  # dashboard on :3000
 ```
 
-The dashboard deploys on Vercel with root directory `frontend`; it rebuilds whenever the
-pipeline commits.
+The dashboard is on Vercel (root directory `frontend`, no environment variables) at
+https://turnstile-tawny.vercel.app; it rebuilds whenever the pipeline commits.
 
 ## Limitations
 

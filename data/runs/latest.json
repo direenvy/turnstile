@@ -1,6 +1,6 @@
 {
-  "run_at": "2026-09-15T14:09:13+00:00",
-  "today": "2026-09-15",
+  "run_at": "2026-09-16T07:12:56+00:00",
+  "today": "2026-09-16",
   "sha256": "1602e91d534c",
   "new_snapshot": false,
   "rows": 2769,
@@ -15,8 +15,8 @@
   "flags": [
     "freshness"
   ],
-  "stage": "publish",
-  "published": true,
-  "latest_month": "2026-07",
-  "seconds": 0.3
+  "stage": "validate",
+  "published": false,
+  "message": "no new data; marts unchanged",
+  "seconds": 1.7
 }

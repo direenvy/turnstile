@@ -2816,6 +2816,22 @@
 "ratio": 0.342
 },
 {
+"date": "2026-08-16",
+"mode": "rail_lrt_shah_alam",
+"label": "LRT Shah Alam",
+"value": 24796,
+"baseline": 88081,
+"ratio": 0.282
+},
+{
+"date": "2026-08-23",
+"mode": "rail_lrt_shah_alam",
+"label": "LRT Shah Alam",
+"value": 23680,
+"baseline": 86550,
+"ratio": 0.274
+},
+{
 "date": "2023-09-17",
 "mode": "rail_komuter",
 "label": "KTM Komuter",
@@ -5934,5 +5950,13 @@
 "value": 4890,
 "baseline": 1727,
 "ratio": 2.831
+},
+{
+"date": "2026-08-31",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 5420,
+"baseline": 2032,
+"ratio": 2.667
 }
 ]

@@ -2,491 +2,491 @@
 {
 "mode": "bus_rkl",
 "weekday": 0,
-"trips": 152046
+"trips": 151001
 },
 {
 "mode": "bus_rkl",
 "weekday": 1,
-"trips": 224780
+"trips": 226807
 },
 {
 "mode": "bus_rkl",
 "weekday": 2,
-"trips": 234979
+"trips": 233079
 },
 {
 "mode": "bus_rkl",
 "weekday": 3,
-"trips": 238354
+"trips": 238407
 },
 {
 "mode": "bus_rkl",
 "weekday": 4,
-"trips": 235377
+"trips": 235633
 },
 {
 "mode": "bus_rkl",
 "weekday": 5,
-"trips": 228808
+"trips": 229028
 },
 {
 "mode": "bus_rkl",
 "weekday": 6,
-"trips": 161678
+"trips": 161942
 },
 {
 "mode": "bus_rkn",
 "weekday": 0,
-"trips": 2219
+"trips": 2160
 },
 {
 "mode": "bus_rkn",
 "weekday": 1,
-"trips": 1976
+"trips": 1914
 },
 {
 "mode": "bus_rkn",
 "weekday": 2,
-"trips": 2065
+"trips": 1988
 },
 {
 "mode": "bus_rkn",
 "weekday": 3,
-"trips": 2056
+"trips": 1992
 },
 {
 "mode": "bus_rkn",
 "weekday": 4,
-"trips": 2068
+"trips": 1958
 },
 {
 "mode": "bus_rkn",
 "weekday": 5,
-"trips": 2232
+"trips": 2153
 },
 {
 "mode": "bus_rkn",
 "weekday": 6,
-"trips": 1925
+"trips": 1861
 },
 {
 "mode": "bus_rpn",
 "weekday": 0,
-"trips": 47554
+"trips": 47398
 },
 {
 "mode": "bus_rpn",
 "weekday": 1,
-"trips": 47756
+"trips": 47644
 },
 {
 "mode": "bus_rpn",
 "weekday": 2,
-"trips": 48665
+"trips": 48385
 },
 {
 "mode": "bus_rpn",
 "weekday": 3,
-"trips": 48881
+"trips": 48882
 },
 {
 "mode": "bus_rpn",
 "weekday": 4,
-"trips": 48226
+"trips": 48268
 },
 {
 "mode": "bus_rpn",
 "weekday": 5,
-"trips": 51050
+"trips": 50885
 },
 {
 "mode": "bus_rpn",
 "weekday": 6,
-"trips": 45683
+"trips": 45544
 },
 {
 "mode": "rail_ets",
 "weekday": 0,
-"trips": 17273
+"trips": 18148
 },
 {
 "mode": "rail_ets",
 "weekday": 1,
-"trips": 14495
+"trips": 15135
 },
 {
 "mode": "rail_ets",
 "weekday": 2,
-"trips": 12829
+"trips": 13272
 },
 {
 "mode": "rail_ets",
 "weekday": 3,
-"trips": 12947
+"trips": 13338
 },
 {
 "mode": "rail_ets",
 "weekday": 4,
-"trips": 14398
+"trips": 14806
 },
 {
 "mode": "rail_ets",
 "weekday": 5,
-"trips": 17184
+"trips": 17861
 },
 {
 "mode": "rail_ets",
 "weekday": 6,
-"trips": 16375
+"trips": 17198
 },
 {
 "mode": "rail_intercity",
 "weekday": 0,
-"trips": 4158
+"trips": 4035
 },
 {
 "mode": "rail_intercity",
 "weekday": 1,
-"trips": 2829
+"trips": 2780
 },
 {
 "mode": "rail_intercity",
 "weekday": 2,
-"trips": 2560
+"trips": 2557
 },
 {
 "mode": "rail_intercity",
 "weekday": 3,
-"trips": 2608
+"trips": 2552
 },
 {
 "mode": "rail_intercity",
 "weekday": 4,
-"trips": 3425
+"trips": 3362
 },
 {
 "mode": "rail_intercity",
 "weekday": 5,
-"trips": 4161
+"trips": 4079
 },
 {
 "mode": "rail_intercity",
 "weekday": 6,
-"trips": 4634
+"trips": 4507
 },
 {
 "mode": "rail_komuter",
 "weekday": 0,
-"trips": 19005
+"trips": 18371
 },
 {
 "mode": "rail_komuter",
 "weekday": 1,
-"trips": 27587
+"trips": 26862
 },
 {
 "mode": "rail_komuter",
 "weekday": 2,
-"trips": 27567
+"trips": 26808
 },
 {
 "mode": "rail_komuter",
 "weekday": 3,
-"trips": 28006
+"trips": 27488
 },
 {
 "mode": "rail_komuter",
 "weekday": 4,
-"trips": 28107
+"trips": 27566
 },
 {
 "mode": "rail_komuter",
 "weekday": 5,
-"trips": 29418
+"trips": 28680
 },
 {
 "mode": "rail_komuter",
 "weekday": 6,
-"trips": 18870
+"trips": 18267
 },
 {
 "mode": "rail_komuter_utara",
 "weekday": 0,
-"trips": 19488
+"trips": 19509
 },
 {
 "mode": "rail_komuter_utara",
 "weekday": 1,
-"trips": 16339
+"trips": 16519
 },
 {
 "mode": "rail_komuter_utara",
 "weekday": 2,
-"trips": 14578
+"trips": 14708
 },
 {
 "mode": "rail_komuter_utara",
 "weekday": 3,
-"trips": 14444
+"trips": 14574
 },
 {
 "mode": "rail_komuter_utara",
 "weekday": 4,
-"trips": 17325
+"trips": 17380
 },
 {
 "mode": "rail_komuter_utara",
 "weekday": 5,
-"trips": 19956
+"trips": 19996
 },
 {
 "mode": "rail_komuter_utara",
 "weekday": 6,
-"trips": 17752
+"trips": 17879
 },
 {
 "mode": "rail_lrt_ampang",
 "weekday": 0,
-"trips": 139676
+"trips": 140038
 },
 {
 "mode": "rail_lrt_ampang",
 "weekday": 1,
-"trips": 210254
+"trips": 210907
 },
 {
 "mode": "rail_lrt_ampang",
 "weekday": 2,
-"trips": 219041
+"trips": 217316
 },
 {
 "mode": "rail_lrt_ampang",
 "weekday": 3,
-"trips": 222833
+"trips": 222931
 },
 {
 "mode": "rail_lrt_ampang",
 "weekday": 4,
-"trips": 220628
+"trips": 220732
 },
 {
 "mode": "rail_lrt_ampang",
 "weekday": 5,
-"trips": 220787
+"trips": 220671
 },
 {
 "mode": "rail_lrt_ampang",
 "weekday": 6,
-"trips": 162628
+"trips": 162547
 },
 {
 "mode": "rail_lrt_kj",
 "weekday": 0,
-"trips": 146060
+"trips": 147145
 },
 {
 "mode": "rail_lrt_kj",
 "weekday": 1,
-"trips": 266184
+"trips": 266349
 },
 {
 "mode": "rail_lrt_kj",
 "weekday": 2,
-"trips": 285145
+"trips": 281781
 },
 {
 "mode": "rail_lrt_kj",
 "weekday": 3,
-"trips": 292886
+"trips": 292158
 },
 {
 "mode": "rail_lrt_kj",
 "weekday": 4,
-"trips": 287409
+"trips": 286705
 },
 {
 "mode": "rail_lrt_kj",
 "weekday": 5,
-"trips": 278266
+"trips": 277843
 },
 {
 "mode": "rail_lrt_kj",
 "weekday": 6,
-"trips": 168428
+"trips": 167950
 },
 {
 "mode": "rail_lrt_shah_alam",
 "weekday": 0,
-"trips": 93781
+"trips": 62290
 },
 {
 "mode": "rail_lrt_shah_alam",
 "weekday": 1,
-"trips": 53500
+"trips": 45097
 },
 {
 "mode": "rail_lrt_shah_alam",
 "weekday": 2,
-"trips": 53129
+"trips": 45828
 },
 {
 "mode": "rail_lrt_shah_alam",
 "weekday": 3,
-"trips": 55444
+"trips": 48918
 },
 {
 "mode": "rail_lrt_shah_alam",
 "weekday": 4,
-"trips": 55734
+"trips": 48552
 },
 {
 "mode": "rail_lrt_shah_alam",
 "weekday": 5,
-"trips": 59285
+"trips": 51043
 },
 {
 "mode": "rail_lrt_shah_alam",
 "weekday": 6,
-"trips": 85797
+"trips": 58140
 },
 {
 "mode": "rail_monorail",
 "weekday": 0,
-"trips": 49293
+"trips": 49291
 },
 {
 "mode": "rail_monorail",
 "weekday": 1,
-"trips": 57508
+"trips": 57657
 },
 {
 "mode": "rail_monorail",
 "weekday": 2,
-"trips": 58515
+"trips": 58133
 },
 {
 "mode": "rail_monorail",
 "weekday": 3,
-"trips": 59911
+"trips": 59818
 },
 {
 "mode": "rail_monorail",
 "weekday": 4,
-"trips": 59930
+"trips": 59840
 },
 {
 "mode": "rail_monorail",
 "weekday": 5,
-"trips": 62791
+"trips": 62683
 },
 {
 "mode": "rail_monorail",
 "weekday": 6,
-"trips": 54827
+"trips": 54926
 },
 {
 "mode": "rail_mrt_kajang",
 "weekday": 0,
-"trips": 184517
+"trips": 185690
 },
 {
 "mode": "rail_mrt_kajang",
 "weekday": 1,
-"trips": 271072
+"trips": 272865
 },
 {
 "mode": "rail_mrt_kajang",
 "weekday": 2,
-"trips": 285721
+"trips": 284391
 },
 {
 "mode": "rail_mrt_kajang",
 "weekday": 3,
-"trips": 293509
+"trips": 294265
 },
 {
 "mode": "rail_mrt_kajang",
 "weekday": 4,
-"trips": 290444
+"trips": 291326
 },
 {
 "mode": "rail_mrt_kajang",
 "weekday": 5,
-"trips": 287439
+"trips": 288165
 },
 {
 "mode": "rail_mrt_kajang",
 "weekday": 6,
-"trips": 212075
+"trips": 212286
 },
 {
 "mode": "rail_mrt_pjy",
 "weekday": 0,
-"trips": 97233
+"trips": 98205
 },
 {
 "mode": "rail_mrt_pjy",
 "weekday": 1,
-"trips": 172748
+"trips": 174478
 },
 {
 "mode": "rail_mrt_pjy",
 "weekday": 2,
-"trips": 182161
+"trips": 181072
 },
 {
 "mode": "rail_mrt_pjy",
 "weekday": 3,
-"trips": 186185
+"trips": 186524
 },
 {
 "mode": "rail_mrt_pjy",
 "weekday": 4,
-"trips": 183710
+"trips": 184201
 },
 {
 "mode": "rail_mrt_pjy",
 "weekday": 5,
-"trips": 177675
+"trips": 178229
 },
 {
 "mode": "rail_mrt_pjy",
 "weekday": 6,
-"trips": 112404
+"trips": 112851
 },
 {
 "mode": "rail_tebrau",
 "weekday": 0,
-"trips": 7325
+"trips": 7358
 },
 {
 "mode": "rail_tebrau",
 "weekday": 1,
-"trips": 8502
+"trips": 8508
 },
 {
 "mode": "rail_tebrau",
 "weekday": 2,
-"trips": 8632
+"trips": 8655
 },
 {
 "mode": "rail_tebrau",
 "weekday": 3,
-"trips": 8676
+"trips": 8697
 },
 {
 "mode": "rail_tebrau",
 "weekday": 4,
-"trips": 8725
+"trips": 8717
 },
 {
 "mode": "rail_tebrau",
 "weekday": 5,
-"trips": 9584
+"trips": 9600
 },
 {
 "mode": "rail_tebrau",
 "weekday": 6,
-"trips": 8585
+"trips": 8614
 }
 ]

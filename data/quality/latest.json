@@ -1,7 +1,7 @@
 {
-  "run_at": "2026-09-18T07:02:10+00:00",
-  "today": "2026-09-18",
-  "snapshot": "1602e91d534c",
+  "run_at": "2026-09-19T07:01:30+00:00",
+  "today": "2026-09-19",
+  "snapshot": "7705135fff0a",
   "status": "warn",
   "counts": {
     "error": 0,
@@ -25,7 +25,7 @@
     {
       "check": "date_contiguous",
       "severity": "ok",
-      "message": "every day present from 2019-01-01 to 2026-07-31",
+      "message": "every day present from 2019-01-01 to 2026-08-31",
       "details": {}
     },
     {
@@ -43,22 +43,26 @@
     {
       "check": "no_regression",
       "severity": "ok",
-      "message": "first snapshot; nothing to compare",
+      "message": "31 new rows; latest day 2026-07-31 \u2192 2026-08-31",
       "details": {}
     },
     {
       "check": "revisions",
       "severity": "ok",
-      "message": "first snapshot; nothing to compare",
-      "details": {}
+      "message": "0 of 26,573 previously published cells changed (0.00%)",
+      "details": {
+        "changed": 0,
+        "compared": 26573,
+        "fraction": 0.0
+      }
     },
     {
       "check": "freshness",
-      "severity": "warn",
-      "message": "latest day is 2026-07-31, 49 days behind 2026-09-18 (warn above 45)",
+      "severity": "ok",
+      "message": "latest day is 2026-08-31, 19 days behind 2026-09-19 (warn above 45)",
       "details": {
-        "latest": "2026-07-31",
-        "lag_days": 49
+        "latest": "2026-08-31",
+        "lag_days": 19
       }
     },
     {
@@ -68,7 +72,7 @@
       "details": {
         "mode": "bus_rkn",
         "since": "2025-12-15",
-        "days": 229,
+        "days": 260,
         "retired": "2025-12-14"
       }
     },
@@ -84,11 +88,36 @@
     },
     {
       "check": "outliers",
-      "severity": "ok",
-      "message": "no outliers in the last 90 days (742 in all history)",
+      "severity": "warn",
+      "message": "3 day/mode values outside 35%\u2013250% of their same-weekday baseline in the last 90 days (745 in all history)",
       "details": {
-        "total": 742,
-        "recent": []
+        "total": 745,
+        "recent": [
+          {
+            "date": "2026-08-16",
+            "mode": "rail_lrt_shah_alam",
+            "label": "LRT Shah Alam",
+            "value": 24796,
+            "baseline": 88081,
+            "ratio": 0.282
+          },
+          {
+            "date": "2026-08-23",
+            "mode": "rail_lrt_shah_alam",
+            "label": "LRT Shah Alam",
+            "value": 23680,
+            "baseline": 86550,
+            "ratio": 0.274
+          },
+          {
+            "date": "2026-08-31",
+            "mode": "rail_intercity",
+            "label": "KTM Intercity",
+            "value": 5420,
+            "baseline": 2032,
+            "ratio": 2.667
+          }
+        ]
       }
     }
   ]

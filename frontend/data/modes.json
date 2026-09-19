@@ -9,10 +9,10 @@
 "note": "",
 "first_date": "2019-01-01",
 "first_revenue_date": "2019-01-01",
-"last_date": "2026-07-31",
-"last_28d_avg": 261237,
-"prior_year_28d_avg": 262023,
-"yoy": -0.003
+"last_date": "2026-08-31",
+"last_28d_avg": 252666,
+"prior_year_28d_avg": 267016,
+"yoy": -0.0537
 },
 {
 "key": "rail_lrt_ampang",
@@ -24,10 +24,10 @@
 "note": "",
 "first_date": "2019-01-01",
 "first_revenue_date": "2019-01-01",
-"last_date": "2026-07-31",
-"last_28d_avg": 204054,
-"prior_year_28d_avg": 202958,
-"yoy": 0.0054
+"last_date": "2026-08-31",
+"last_28d_avg": 202347,
+"prior_year_28d_avg": 207975,
+"yoy": -0.0271
 },
 {
 "key": "rail_mrt_kajang",
@@ -39,10 +39,10 @@
 "note": "",
 "first_date": "2019-01-01",
 "first_revenue_date": "2019-01-01",
-"last_date": "2026-07-31",
-"last_28d_avg": 277571,
-"prior_year_28d_avg": 266227,
-"yoy": 0.0426
+"last_date": "2026-08-31",
+"last_28d_avg": 273848,
+"prior_year_28d_avg": 271690,
+"yoy": 0.0079
 },
 {
 "key": "rail_mrt_pjy",
@@ -54,10 +54,10 @@
 "note": "",
 "first_date": "2022-06-16",
 "first_revenue_date": "2022-06-16",
-"last_date": "2026-07-31",
-"last_28d_avg": 167417,
-"prior_year_28d_avg": 162860,
-"yoy": 0.028
+"last_date": "2026-08-31",
+"last_28d_avg": 169016,
+"prior_year_28d_avg": 166740,
+"yoy": 0.0137
 },
 {
 "key": "rail_monorail",
@@ -69,10 +69,10 @@
 "note": "",
 "first_date": "2019-01-01",
 "first_revenue_date": "2019-01-01",
-"last_date": "2026-07-31",
-"last_28d_avg": 57321,
-"prior_year_28d_avg": 59939,
-"yoy": -0.0437
+"last_date": "2026-08-31",
+"last_28d_avg": 59909,
+"prior_year_28d_avg": 61422,
+"yoy": -0.0246
 },
 {
 "key": "rail_lrt_shah_alam",
@@ -84,8 +84,8 @@
 "note": "Opened in stages; the feed carries zeros before the first revenue day.",
 "first_date": "2026-04-01",
 "first_revenue_date": "2026-06-29",
-"last_date": "2026-07-31",
-"last_28d_avg": 64891,
+"last_date": "2026-08-31",
+"last_28d_avg": 37089,
 "prior_year_28d_avg": null,
 "yoy": null
 },
@@ -99,10 +99,10 @@
 "note": "",
 "first_date": "2023-09-10",
 "first_revenue_date": "2023-09-10",
-"last_date": "2026-07-31",
-"last_28d_avg": 20146,
-"prior_year_28d_avg": 27848,
-"yoy": -0.2766
+"last_date": "2026-08-31",
+"last_28d_avg": 19170,
+"prior_year_28d_avg": 27375,
+"yoy": -0.2997
 },
 {
 "key": "rail_komuter_utara",
@@ -114,10 +114,10 @@
 "note": "",
 "first_date": "2020-10-15",
 "first_revenue_date": "2020-10-15",
-"last_date": "2026-07-31",
-"last_28d_avg": 18179,
-"prior_year_28d_avg": 16198,
-"yoy": 0.1223
+"last_date": "2026-08-31",
+"last_28d_avg": 17750,
+"prior_year_28d_avg": 16439,
+"yoy": 0.0798
 },
 {
 "key": "rail_ets",
@@ -129,10 +129,10 @@
 "note": "",
 "first_date": "2020-10-15",
 "first_revenue_date": "2020-10-15",
-"last_date": "2026-07-31",
-"last_28d_avg": 18447,
-"prior_year_28d_avg": 11214,
-"yoy": 0.645
+"last_date": "2026-08-31",
+"last_28d_avg": 18256,
+"prior_year_28d_avg": 11133,
+"yoy": 0.6398
 },
 {
 "key": "rail_intercity",
@@ -144,10 +144,10 @@
 "note": "",
 "first_date": "2020-10-15",
 "first_revenue_date": "2020-10-15",
-"last_date": "2026-07-31",
-"last_28d_avg": 2998,
-"prior_year_28d_avg": 3877,
-"yoy": -0.2268
+"last_date": "2026-08-31",
+"last_28d_avg": 3218,
+"prior_year_28d_avg": 3948,
+"yoy": -0.1849
 },
 {
 "key": "rail_tebrau",
@@ -159,10 +159,10 @@
 "note": "",
 "first_date": "2022-06-19",
 "first_revenue_date": "2022-06-19",
-"last_date": "2026-07-31",
-"last_28d_avg": 8564,
-"prior_year_28d_avg": 8292,
-"yoy": 0.0328
+"last_date": "2026-08-31",
+"last_28d_avg": 8632,
+"prior_year_28d_avg": 8425,
+"yoy": 0.0245
 },
 {
 "key": "bus_rkl",
@@ -174,10 +174,10 @@
 "note": "",
 "first_date": "2022-01-01",
 "first_revenue_date": "2022-01-01",
-"last_date": "2026-07-31",
-"last_28d_avg": 220683,
-"prior_year_28d_avg": 216708,
-"yoy": 0.0183
+"last_date": "2026-08-31",
+"last_28d_avg": 215703,
+"prior_year_28d_avg": 220046,
+"yoy": -0.0197
 },
 {
 "key": "bus_rpn",
@@ -189,10 +189,10 @@
 "note": "",
 "first_date": "2022-01-01",
 "first_revenue_date": "2022-01-01",
-"last_date": "2026-07-31",
-"last_28d_avg": 49433,
-"prior_year_28d_avg": 50033,
-"yoy": -0.012
+"last_date": "2026-08-31",
+"last_28d_avg": 48342,
+"prior_year_28d_avg": 49995,
+"yoy": -0.0331
 },
 {
 "key": "bus_rkn",
@@ -204,9 +204,9 @@
 "note": "Service ended 14 December 2025; replaced by a Sanwa Tours stage-bus service under SBST. The feed reports 0 from 15 December.",
 "first_date": "2022-01-01",
 "first_revenue_date": "2022-01-01",
-"last_date": "2026-07-31",
+"last_date": "2026-08-31",
 "last_28d_avg": 0,
-"prior_year_28d_avg": 2364,
+"prior_year_28d_avg": 2346,
 "yoy": null
 }
 ]

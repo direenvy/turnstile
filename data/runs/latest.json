@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-09-18T07:02:10+00:00",
-  "today": "2026-09-18",
-  "sha256": "1602e91d534c",
-  "new_snapshot": false,
-  "rows": 2769,
-  "max_date": "2026-07-31",
+  "run_at": "2026-09-19T07:01:30+00:00",
+  "today": "2026-09-19",
+  "sha256": "7705135fff0a",
+  "new_snapshot": true,
+  "rows": 2800,
+  "max_date": "2026-08-31",
   "status": "warn",
   "checks": {
     "error": 0,
@@ -13,10 +13,10 @@
     "ok": 8
   },
   "flags": [
-    "freshness"
+    "outliers"
   ],
-  "stage": "validate",
-  "published": false,
-  "message": "no new data; marts unchanged",
-  "seconds": 1.9
+  "stage": "publish",
+  "published": true,
+  "latest_month": "2026-08",
+  "seconds": 2.5
 }

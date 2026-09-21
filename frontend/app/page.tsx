@@ -54,6 +54,9 @@ export default function Home() {
             <a href="#quality" className="pill on-dark" style={{ fontSize: 14 }}>
               Quality
             </a>
+            <a href="/controls" className="pill on-dark hidden sm:inline-flex" style={{ fontSize: 14 }}>
+              Controls
+            </a>
             <span aria-hidden="true" style={{ width: 1, height: 16, background: "rgba(255,255,255,0.35)", margin: "0 8px" }} />
             <a href={REPO} target="_blank" rel="noreferrer" className="pill on-dark" style={{ fontSize: 14 }}>
               Repository
@@ -164,6 +167,9 @@ export default function Home() {
             </a>
             <a href={`${REPO}/actions/workflows/pipeline.yml`} target="_blank" rel="noreferrer" className="pill on-dark" style={{ fontSize: 14 }}>
               Pipeline runs ↗
+            </a>
+            <a href="/controls" className="pill on-dark" style={{ fontSize: 14 }}>
+              Risk and controls
             </a>
             <a href="/ridership.csv" download className="pill on-dark" style={{ fontSize: 14 }}>
               ridership.csv ↓

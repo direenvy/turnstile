@@ -88,6 +88,19 @@ is a rollback; Vercel redeploys the dashboard on the data commit. At this volume
 would add a service to run and nothing to show for it. DuckDB does the aggregation straight
 off the parquet at run time.
 
+## The pipeline as a control environment
+
+[docs/RACM.md](docs/RACM.md), also at [/controls](https://turnstile-tawny.vercel.app/controls),
+reads the pipeline as an auditor would: eleven control objectives (completeness,
+accuracy, timeliness, provenance, the publication gate, operation, change management,
+access, reproducibility, judgement, licence), and for each the risk, the control, its
+evidence, the test, the result against this repository, and the gaps. Eight test
+effective; three carry gaps worth fixing — the unprotected default branch (found by
+[Gatekeeper](https://github.com/direenvy/gatekeeper)), the absence of any monitor
+outside GitHub that would notice the schedule stopping, and a publication gate that
+has been proven only on synthetic data because no production run has failed yet.
+`python -m pipeline.racm` regenerates both from the run history.
+
 ## Interface
 
 The dashboard follows the **New Genre** style reference ([DESIGN.md](DESIGN.md)): a white

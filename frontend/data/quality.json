@@ -1,13 +1,13 @@
 {
-"run_at": "2026-10-15T06:56:59+00:00",
-"today": "2026-10-15",
+"run_at": "2026-10-16T06:43:55+00:00",
+"today": "2026-10-16",
 "snapshot": "7705135fff0a",
 "status": "warn",
 "counts": {
 "error": 0,
-"warn": 1,
+"warn": 2,
 "info": 2,
-"ok": 8
+"ok": 7
 },
 "findings": [
 {
@@ -54,11 +54,11 @@
 },
 {
 "check": "freshness",
-"severity": "ok",
-"message": "latest day is 2026-08-31, 45 days behind 2026-10-15 (warn above 45)",
+"severity": "warn",
+"message": "latest day is 2026-08-31, 46 days behind 2026-10-16 (warn above 45)",
 "details": {
 "latest": "2026-08-31",
-"lag_days": 45
+"lag_days": 46
 }
 },
 {

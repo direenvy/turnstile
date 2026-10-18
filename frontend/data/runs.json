@@ -748,5 +748,28 @@
 "published": false,
 "message": "no new data; marts unchanged",
 "seconds": 2.0
+},
+{
+"run_at": "2026-10-18T06:57:24+00:00",
+"today": "2026-10-18",
+"sha256": "7705135fff0a",
+"new_snapshot": false,
+"rows": 2800,
+"max_date": "2026-08-31",
+"status": "warn",
+"checks": {
+"error": 0,
+"warn": 2,
+"info": 2,
+"ok": 7
+},
+"flags": [
+"freshness",
+"outliers"
+],
+"stage": "validate",
+"published": false,
+"message": "no new data; marts unchanged",
+"seconds": 1.6
 }
 ]

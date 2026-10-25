@@ -1,6 +1,6 @@
 {
-"run_at": "2026-10-24T06:52:13+00:00",
-"today": "2026-10-24",
+"run_at": "2026-10-25T07:16:05+00:00",
+"today": "2026-10-25",
 "snapshot": "7705135fff0a",
 "status": "warn",
 "counts": {
@@ -55,10 +55,10 @@
 {
 "check": "freshness",
 "severity": "warn",
-"message": "latest day is 2026-08-31, 54 days behind 2026-10-24 (warn above 45)",
+"message": "latest day is 2026-08-31, 55 days behind 2026-10-25 (warn above 45)",
 "details": {
 "latest": "2026-08-31",
-"lag_days": 54
+"lag_days": 55
 }
 },
 {

@@ -1,6 +1,6 @@
 {
-  "run_at": "2026-11-12T09:17:11+00:00",
-  "today": "2026-11-12",
+  "run_at": "2026-11-13T09:04:17+00:00",
+  "today": "2026-11-13",
   "sha256": "7705135fff0a",
   "new_snapshot": false,
   "rows": 2800,
@@ -19,5 +19,5 @@
   "stage": "validate",
   "published": false,
   "message": "no new data; marts unchanged",
-  "seconds": 1.9
+  "seconds": 1.6
 }

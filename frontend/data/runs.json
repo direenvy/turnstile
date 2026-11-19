@@ -1,27 +1,5 @@
 [
 {
-"run_at": "2026-09-19T07:01:30+00:00",
-"today": "2026-09-19",
-"sha256": "7705135fff0a",
-"new_snapshot": true,
-"rows": 2800,
-"max_date": "2026-08-31",
-"status": "warn",
-"checks": {
-"error": 0,
-"warn": 1,
-"info": 2,
-"ok": 8
-},
-"flags": [
-"outliers"
-],
-"stage": "publish",
-"published": true,
-"latest_month": "2026-08",
-"seconds": 2.5
-},
-{
 "run_at": "2026-09-20T07:26:34+00:00",
 "today": "2026-09-20",
 "sha256": "7705135fff0a",
@@ -1352,5 +1330,28 @@
 "published": false,
 "message": "no new data; marts unchanged",
 "seconds": 1.7
+},
+{
+"run_at": "2026-11-19T09:52:47+00:00",
+"today": "2026-11-19",
+"sha256": "7705135fff0a",
+"new_snapshot": false,
+"rows": 2800,
+"max_date": "2026-08-31",
+"status": "warn",
+"checks": {
+"error": 0,
+"warn": 2,
+"info": 2,
+"ok": 7
+},
+"flags": [
+"freshness",
+"outliers"
+],
+"stage": "validate",
+"published": false,
+"message": "no new data; marts unchanged",
+"seconds": 1.6
 }
 ]

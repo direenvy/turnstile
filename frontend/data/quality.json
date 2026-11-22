@@ -1,6 +1,6 @@
 {
-"run_at": "2026-11-21T09:12:04+00:00",
-"today": "2026-11-21",
+"run_at": "2026-11-22T09:21:17+00:00",
+"today": "2026-11-22",
 "snapshot": "7705135fff0a",
 "status": "warn",
 "counts": {
@@ -55,10 +55,10 @@
 {
 "check": "freshness",
 "severity": "warn",
-"message": "latest day is 2026-08-31, 82 days behind 2026-11-21 (warn above 45)",
+"message": "latest day is 2026-08-31, 83 days behind 2026-11-22 (warn above 45)",
 "details": {
 "latest": "2026-08-31",
-"lag_days": 82
+"lag_days": 83
 }
 },
 {
@@ -85,18 +85,10 @@
 {
 "check": "outliers",
 "severity": "warn",
-"message": "2 day/mode values outside 35%\u2013250% of their same-weekday baseline in the last 90 days (745 in all history)",
+"message": "1 day/mode values outside 35%\u2013250% of their same-weekday baseline in the last 90 days (745 in all history)",
 "details": {
 "total": 745,
 "recent": [
-{
-"date": "2026-08-23",
-"mode": "rail_lrt_shah_alam",
-"label": "LRT Shah Alam",
-"value": 23680,
-"baseline": 86550,
-"ratio": 0.274
-},
 {
 "date": "2026-08-31",
 "mode": "rail_intercity",

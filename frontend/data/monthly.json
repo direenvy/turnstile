@@ -5113,6 +5113,12 @@
 },
 {
 "month": "2026-06",
+"mode": "rail_lrt_shah_alam",
+"system": "rail",
+"trips": 113575
+},
+{
+"month": "2026-06",
 "mode": "rail_monorail",
 "system": "rail",
 "trips": 1601861
@@ -5302,5 +5308,173 @@
 "mode": "rail_tebrau",
 "system": "rail",
 "trips": 266180
+},
+{
+"month": "2026-09",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 6364458
+},
+{
+"month": "2026-09",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 0
+},
+{
+"month": "2026-09",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1379878
+},
+{
+"month": "2026-09",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 532276
+},
+{
+"month": "2026-09",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 100774
+},
+{
+"month": "2026-09",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 565531
+},
+{
+"month": "2026-09",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 520989
+},
+{
+"month": "2026-09",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 5931537
+},
+{
+"month": "2026-09",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7401399
+},
+{
+"month": "2026-09",
+"mode": "rail_lrt_shah_alam",
+"system": "rail",
+"trips": 909579
+},
+{
+"month": "2026-09",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1697967
+},
+{
+"month": "2026-09",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 8051067
+},
+{
+"month": "2026-09",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 5119285
+},
+{
+"month": "2026-09",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 258540
+},
+{
+"month": "2026-10",
+"mode": "bus_rkl",
+"system": "bus",
+"trips": 7111409
+},
+{
+"month": "2026-10",
+"mode": "bus_rkn",
+"system": "bus",
+"trips": 0
+},
+{
+"month": "2026-10",
+"mode": "bus_rpn",
+"system": "bus",
+"trips": 1493837
+},
+{
+"month": "2026-10",
+"mode": "rail_ets",
+"system": "rail",
+"trips": 532932
+},
+{
+"month": "2026-10",
+"mode": "rail_intercity",
+"system": "rail",
+"trips": 86416
+},
+{
+"month": "2026-10",
+"mode": "rail_komuter",
+"system": "rail",
+"trips": 613161
+},
+{
+"month": "2026-10",
+"mode": "rail_komuter_utara",
+"system": "rail",
+"trips": 568721
+},
+{
+"month": "2026-10",
+"mode": "rail_lrt_ampang",
+"system": "rail",
+"trips": 6303447
+},
+{
+"month": "2026-10",
+"mode": "rail_lrt_kj",
+"system": "rail",
+"trips": 7731700
+},
+{
+"month": "2026-10",
+"mode": "rail_lrt_shah_alam",
+"system": "rail",
+"trips": 1004534
+},
+{
+"month": "2026-10",
+"mode": "rail_monorail",
+"system": "rail",
+"trips": 1786983
+},
+{
+"month": "2026-10",
+"mode": "rail_mrt_kajang",
+"system": "rail",
+"trips": 8441134
+},
+{
+"month": "2026-10",
+"mode": "rail_mrt_pjy",
+"system": "rail",
+"trips": 5330440
+},
+{
+"month": "2026-10",
+"mode": "rail_tebrau",
+"system": "rail",
+"trips": 261401
 }
 ]

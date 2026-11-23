@@ -1,310 +1,5 @@
 [
 {
-"date": "2025-09-01",
-"mode": "bus_rkl",
-"trips": 134280
-},
-{
-"date": "2025-09-02",
-"mode": "bus_rkl",
-"trips": 237253
-},
-{
-"date": "2025-09-03",
-"mode": "bus_rkl",
-"trips": 239293
-},
-{
-"date": "2025-09-04",
-"mode": "bus_rkl",
-"trips": 233814
-},
-{
-"date": "2025-09-05",
-"mode": "bus_rkl",
-"trips": 159350
-},
-{
-"date": "2025-09-06",
-"mode": "bus_rkl",
-"trips": 164190
-},
-{
-"date": "2025-09-07",
-"mode": "bus_rkl",
-"trips": 153228
-},
-{
-"date": "2025-09-08",
-"mode": "bus_rkl",
-"trips": 236861
-},
-{
-"date": "2025-09-09",
-"mode": "bus_rkl",
-"trips": 241557
-},
-{
-"date": "2025-09-10",
-"mode": "bus_rkl",
-"trips": 241420
-},
-{
-"date": "2025-09-11",
-"mode": "bus_rkl",
-"trips": 237668
-},
-{
-"date": "2025-09-12",
-"mode": "bus_rkl",
-"trips": 234462
-},
-{
-"date": "2025-09-13",
-"mode": "bus_rkl",
-"trips": 150120
-},
-{
-"date": "2025-09-14",
-"mode": "bus_rkl",
-"trips": 150298
-},
-{
-"date": "2025-09-15",
-"mode": "bus_rkl",
-"trips": 136339
-},
-{
-"date": "2025-09-16",
-"mode": "bus_rkl",
-"trips": 133078
-},
-{
-"date": "2025-09-17",
-"mode": "bus_rkl",
-"trips": 222482
-},
-{
-"date": "2025-09-18",
-"mode": "bus_rkl",
-"trips": 223008
-},
-{
-"date": "2025-09-19",
-"mode": "bus_rkl",
-"trips": 217859
-},
-{
-"date": "2025-09-20",
-"mode": "bus_rkl",
-"trips": 145740
-},
-{
-"date": "2025-09-21",
-"mode": "bus_rkl",
-"trips": 135673
-},
-{
-"date": "2025-09-22",
-"mode": "bus_rkl",
-"trips": 229795
-},
-{
-"date": "2025-09-23",
-"mode": "bus_rkl",
-"trips": 237220
-},
-{
-"date": "2025-09-24",
-"mode": "bus_rkl",
-"trips": 240584
-},
-{
-"date": "2025-09-25",
-"mode": "bus_rkl",
-"trips": 239376
-},
-{
-"date": "2025-09-26",
-"mode": "bus_rkl",
-"trips": 229992
-},
-{
-"date": "2025-09-27",
-"mode": "bus_rkl",
-"trips": 151888
-},
-{
-"date": "2025-09-28",
-"mode": "bus_rkl",
-"trips": 136404
-},
-{
-"date": "2025-09-29",
-"mode": "bus_rkl",
-"trips": 227626
-},
-{
-"date": "2025-09-30",
-"mode": "bus_rkl",
-"trips": 233880
-},
-{
-"date": "2025-10-01",
-"mode": "bus_rkl",
-"trips": 239630
-},
-{
-"date": "2025-10-02",
-"mode": "bus_rkl",
-"trips": 237219
-},
-{
-"date": "2025-10-03",
-"mode": "bus_rkl",
-"trips": 231488
-},
-{
-"date": "2025-10-04",
-"mode": "bus_rkl",
-"trips": 162231
-},
-{
-"date": "2025-10-05",
-"mode": "bus_rkl",
-"trips": 152078
-},
-{
-"date": "2025-10-06",
-"mode": "bus_rkl",
-"trips": 239578
-},
-{
-"date": "2025-10-07",
-"mode": "bus_rkl",
-"trips": 250367
-},
-{
-"date": "2025-10-08",
-"mode": "bus_rkl",
-"trips": 253525
-},
-{
-"date": "2025-10-09",
-"mode": "bus_rkl",
-"trips": 251341
-},
-{
-"date": "2025-10-10",
-"mode": "bus_rkl",
-"trips": 249783
-},
-{
-"date": "2025-10-11",
-"mode": "bus_rkl",
-"trips": 175113
-},
-{
-"date": "2025-10-12",
-"mode": "bus_rkl",
-"trips": 150219
-},
-{
-"date": "2025-10-13",
-"mode": "bus_rkl",
-"trips": 246945
-},
-{
-"date": "2025-10-14",
-"mode": "bus_rkl",
-"trips": 248547
-},
-{
-"date": "2025-10-15",
-"mode": "bus_rkl",
-"trips": 256931
-},
-{
-"date": "2025-10-16",
-"mode": "bus_rkl",
-"trips": 255596
-},
-{
-"date": "2025-10-17",
-"mode": "bus_rkl",
-"trips": 241531
-},
-{
-"date": "2025-10-18",
-"mode": "bus_rkl",
-"trips": 159135
-},
-{
-"date": "2025-10-19",
-"mode": "bus_rkl",
-"trips": 152094
-},
-{
-"date": "2025-10-20",
-"mode": "bus_rkl",
-"trips": 134001
-},
-{
-"date": "2025-10-21",
-"mode": "bus_rkl",
-"trips": 207940
-},
-{
-"date": "2025-10-22",
-"mode": "bus_rkl",
-"trips": 213521
-},
-{
-"date": "2025-10-23",
-"mode": "bus_rkl",
-"trips": 218529
-},
-{
-"date": "2025-10-24",
-"mode": "bus_rkl",
-"trips": 221938
-},
-{
-"date": "2025-10-25",
-"mode": "bus_rkl",
-"trips": 165576
-},
-{
-"date": "2025-10-26",
-"mode": "bus_rkl",
-"trips": 152308
-},
-{
-"date": "2025-10-27",
-"mode": "bus_rkl",
-"trips": 217637
-},
-{
-"date": "2025-10-28",
-"mode": "bus_rkl",
-"trips": 226834
-},
-{
-"date": "2025-10-29",
-"mode": "bus_rkl",
-"trips": 246232
-},
-{
-"date": "2025-10-30",
-"mode": "bus_rkl",
-"trips": 243114
-},
-{
-"date": "2025-10-31",
-"mode": "bus_rkl",
-"trips": 239690
-},
-{
 "date": "2025-11-01",
 "mode": "bus_rkl",
 "trips": 165766
@@ -1825,309 +1520,309 @@
 "trips": 238158
 },
 {
-"date": "2025-09-01",
-"mode": "bus_rkn",
-"trips": 1629
+"date": "2026-09-01",
+"mode": "bus_rkl",
+"trips": 213968
 },
 {
-"date": "2025-09-02",
-"mode": "bus_rkn",
-"trips": 2325
+"date": "2026-09-02",
+"mode": "bus_rkl",
+"trips": 246831
 },
 {
-"date": "2025-09-03",
-"mode": "bus_rkn",
-"trips": 2401
+"date": "2026-09-03",
+"mode": "bus_rkl",
+"trips": 242871
 },
 {
-"date": "2025-09-04",
-"mode": "bus_rkn",
-"trips": 2502
+"date": "2026-09-04",
+"mode": "bus_rkl",
+"trips": 250709
 },
 {
-"date": "2025-09-05",
-"mode": "bus_rkn",
-"trips": 2693
+"date": "2026-09-05",
+"mode": "bus_rkl",
+"trips": 196399
 },
 {
-"date": "2025-09-06",
-"mode": "bus_rkn",
-"trips": 2287
+"date": "2026-09-06",
+"mode": "bus_rkl",
+"trips": 178487
 },
 {
-"date": "2025-09-07",
-"mode": "bus_rkn",
-"trips": 2646
+"date": "2026-09-07",
+"mode": "bus_rkl",
+"trips": 238522
 },
 {
-"date": "2025-09-08",
-"mode": "bus_rkn",
-"trips": 2198
+"date": "2026-09-08",
+"mode": "bus_rkl",
+"trips": 244812
 },
 {
-"date": "2025-09-09",
-"mode": "bus_rkn",
-"trips": 2513
+"date": "2026-09-09",
+"mode": "bus_rkl",
+"trips": 242796
 },
 {
-"date": "2025-09-10",
-"mode": "bus_rkn",
-"trips": 2437
+"date": "2026-09-10",
+"mode": "bus_rkl",
+"trips": 242172
 },
 {
-"date": "2025-09-11",
-"mode": "bus_rkn",
-"trips": 2402
+"date": "2026-09-11",
+"mode": "bus_rkl",
+"trips": 236950
 },
 {
-"date": "2025-09-12",
-"mode": "bus_rkn",
-"trips": 2387
+"date": "2026-09-12",
+"mode": "bus_rkl",
+"trips": 159542
 },
 {
-"date": "2025-09-13",
-"mode": "bus_rkn",
-"trips": 1927
+"date": "2026-09-13",
+"mode": "bus_rkl",
+"trips": 142624
 },
 {
-"date": "2025-09-14",
-"mode": "bus_rkn",
-"trips": 2331
+"date": "2026-09-14",
+"mode": "bus_rkl",
+"trips": 234126
 },
 {
-"date": "2025-09-15",
-"mode": "bus_rkn",
-"trips": 1788
+"date": "2026-09-15",
+"mode": "bus_rkl",
+"trips": 240268
 },
 {
-"date": "2025-09-16",
-"mode": "bus_rkn",
-"trips": 1750
+"date": "2026-09-16",
+"mode": "bus_rkl",
+"trips": 134934
 },
 {
-"date": "2025-09-17",
-"mode": "bus_rkn",
-"trips": 2014
+"date": "2026-09-17",
+"mode": "bus_rkl",
+"trips": 234030
 },
 {
-"date": "2025-09-18",
-"mode": "bus_rkn",
-"trips": 1780
+"date": "2026-09-18",
+"mode": "bus_rkl",
+"trips": 224365
 },
 {
-"date": "2025-09-19",
-"mode": "bus_rkn",
-"trips": 1853
+"date": "2026-09-19",
+"mode": "bus_rkl",
+"trips": 144525
 },
 {
-"date": "2025-09-20",
-"mode": "bus_rkn",
-"trips": 1772
+"date": "2026-09-20",
+"mode": "bus_rkl",
+"trips": 122425
 },
 {
-"date": "2025-09-21",
-"mode": "bus_rkn",
-"trips": 2017
+"date": "2026-09-21",
+"mode": "bus_rkl",
+"trips": 228370
 },
 {
-"date": "2025-09-22",
-"mode": "bus_rkn",
-"trips": 2334
+"date": "2026-09-22",
+"mode": "bus_rkl",
+"trips": 232876
 },
 {
-"date": "2025-09-23",
-"mode": "bus_rkn",
-"trips": 2169
+"date": "2026-09-23",
+"mode": "bus_rkl",
+"trips": 239279
 },
 {
-"date": "2025-09-24",
-"mode": "bus_rkn",
-"trips": 2172
+"date": "2026-09-24",
+"mode": "bus_rkl",
+"trips": 236019
 },
 {
-"date": "2025-09-25",
-"mode": "bus_rkn",
-"trips": 2123
+"date": "2026-09-25",
+"mode": "bus_rkl",
+"trips": 232512
 },
 {
-"date": "2025-09-26",
-"mode": "bus_rkn",
-"trips": 2238
+"date": "2026-09-26",
+"mode": "bus_rkl",
+"trips": 153851
 },
 {
-"date": "2025-09-27",
-"mode": "bus_rkn",
-"trips": 1958
+"date": "2026-09-27",
+"mode": "bus_rkl",
+"trips": 136880
 },
 {
-"date": "2025-09-28",
-"mode": "bus_rkn",
-"trips": 2151
+"date": "2026-09-28",
+"mode": "bus_rkl",
+"trips": 242427
 },
 {
-"date": "2025-09-29",
-"mode": "bus_rkn",
-"trips": 2187
+"date": "2026-09-29",
+"mode": "bus_rkl",
+"trips": 244284
 },
 {
-"date": "2025-09-30",
-"mode": "bus_rkn",
-"trips": 2277
+"date": "2026-09-30",
+"mode": "bus_rkl",
+"trips": 246604
 },
 {
-"date": "2025-10-01",
-"mode": "bus_rkn",
-"trips": 2346
+"date": "2026-10-01",
+"mode": "bus_rkl",
+"trips": 249755
 },
 {
-"date": "2025-10-02",
-"mode": "bus_rkn",
-"trips": 2206
+"date": "2026-10-02",
+"mode": "bus_rkl",
+"trips": 346109
 },
 {
-"date": "2025-10-03",
-"mode": "bus_rkn",
-"trips": 2226
+"date": "2026-10-03",
+"mode": "bus_rkl",
+"trips": 306182
 },
 {
-"date": "2025-10-04",
-"mode": "bus_rkn",
-"trips": 2088
+"date": "2026-10-04",
+"mode": "bus_rkl",
+"trips": 276160
 },
 {
-"date": "2025-10-05",
-"mode": "bus_rkn",
-"trips": 2679
+"date": "2026-10-05",
+"mode": "bus_rkl",
+"trips": 252263
 },
 {
-"date": "2025-10-06",
-"mode": "bus_rkn",
-"trips": 2200
+"date": "2026-10-06",
+"mode": "bus_rkl",
+"trips": 256911
 },
 {
-"date": "2025-10-07",
-"mode": "bus_rkn",
-"trips": 2650
+"date": "2026-10-07",
+"mode": "bus_rkl",
+"trips": 260801
 },
 {
-"date": "2025-10-08",
-"mode": "bus_rkn",
-"trips": 2423
+"date": "2026-10-08",
+"mode": "bus_rkl",
+"trips": 254931
 },
 {
-"date": "2025-10-09",
-"mode": "bus_rkn",
-"trips": 2055
+"date": "2026-10-09",
+"mode": "bus_rkl",
+"trips": 229389
 },
 {
-"date": "2025-10-10",
-"mode": "bus_rkn",
-"trips": 2319
+"date": "2026-10-10",
+"mode": "bus_rkl",
+"trips": 156895
 },
 {
-"date": "2025-10-11",
-"mode": "bus_rkn",
-"trips": 1924
+"date": "2026-10-11",
+"mode": "bus_rkl",
+"trips": 146938
 },
 {
-"date": "2025-10-12",
-"mode": "bus_rkn",
-"trips": 2374
+"date": "2026-10-12",
+"mode": "bus_rkl",
+"trips": 232498
 },
 {
-"date": "2025-10-13",
-"mode": "bus_rkn",
-"trips": 2002
+"date": "2026-10-13",
+"mode": "bus_rkl",
+"trips": 242159
 },
 {
-"date": "2025-10-14",
-"mode": "bus_rkn",
-"trips": 2144
+"date": "2026-10-14",
+"mode": "bus_rkl",
+"trips": 248607
 },
 {
-"date": "2025-10-15",
-"mode": "bus_rkn",
-"trips": 2178
+"date": "2026-10-15",
+"mode": "bus_rkl",
+"trips": 249754
 },
 {
-"date": "2025-10-16",
-"mode": "bus_rkn",
-"trips": 2221
+"date": "2026-10-16",
+"mode": "bus_rkl",
+"trips": 229361
 },
 {
-"date": "2025-10-17",
-"mode": "bus_rkn",
-"trips": 2602
+"date": "2026-10-17",
+"mode": "bus_rkl",
+"trips": 154166
 },
 {
-"date": "2025-10-18",
-"mode": "bus_rkn",
-"trips": 1930
+"date": "2026-10-18",
+"mode": "bus_rkl",
+"trips": 141888
 },
 {
-"date": "2025-10-19",
-"mode": "bus_rkn",
-"trips": 2264
+"date": "2026-10-19",
+"mode": "bus_rkl",
+"trips": 242469
 },
 {
-"date": "2025-10-20",
-"mode": "bus_rkn",
-"trips": 1623
+"date": "2026-10-20",
+"mode": "bus_rkl",
+"trips": 245221
 },
 {
-"date": "2025-10-21",
-"mode": "bus_rkn",
-"trips": 1862
+"date": "2026-10-21",
+"mode": "bus_rkl",
+"trips": 247785
 },
 {
-"date": "2025-10-22",
-"mode": "bus_rkn",
-"trips": 1686
+"date": "2026-10-22",
+"mode": "bus_rkl",
+"trips": 241925
 },
 {
-"date": "2025-10-23",
-"mode": "bus_rkn",
-"trips": 2178
+"date": "2026-10-23",
+"mode": "bus_rkl",
+"trips": 238368
 },
 {
-"date": "2025-10-24",
-"mode": "bus_rkn",
-"trips": 2190
+"date": "2026-10-24",
+"mode": "bus_rkl",
+"trips": 156411
 },
 {
-"date": "2025-10-25",
-"mode": "bus_rkn",
-"trips": 1902
+"date": "2026-10-25",
+"mode": "bus_rkl",
+"trips": 141070
 },
 {
-"date": "2025-10-26",
-"mode": "bus_rkn",
-"trips": 2049
+"date": "2026-10-26",
+"mode": "bus_rkl",
+"trips": 193581
 },
 {
-"date": "2025-10-27",
-"mode": "bus_rkn",
-"trips": 2197
+"date": "2026-10-27",
+"mode": "bus_rkl",
+"trips": 242291
 },
 {
-"date": "2025-10-28",
-"mode": "bus_rkn",
-"trips": 2191
+"date": "2026-10-28",
+"mode": "bus_rkl",
+"trips": 243507
 },
 {
-"date": "2025-10-29",
-"mode": "bus_rkn",
-"trips": 2020
+"date": "2026-10-29",
+"mode": "bus_rkl",
+"trips": 241515
 },
 {
-"date": "2025-10-30",
-"mode": "bus_rkn",
-"trips": 2092
+"date": "2026-10-30",
+"mode": "bus_rkl",
+"trips": 252141
 },
 {
-"date": "2025-10-31",
-"mode": "bus_rkn",
-"trips": 2191
+"date": "2026-10-31",
+"mode": "bus_rkl",
+"trips": 190358
 },
 {
 "date": "2025-11-01",
@@ -3650,309 +3345,309 @@
 "trips": 0
 },
 {
-"date": "2025-09-01",
-"mode": "bus_rpn",
-"trips": 45176
+"date": "2026-09-01",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-02",
-"mode": "bus_rpn",
-"trips": 50580
+"date": "2026-09-02",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-03",
-"mode": "bus_rpn",
-"trips": 47180
+"date": "2026-09-03",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-04",
-"mode": "bus_rpn",
-"trips": 48292
+"date": "2026-09-04",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-05",
-"mode": "bus_rpn",
-"trips": 43452
+"date": "2026-09-05",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-06",
-"mode": "bus_rpn",
-"trips": 43408
+"date": "2026-09-06",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-07",
-"mode": "bus_rpn",
-"trips": 44976
+"date": "2026-09-07",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-08",
-"mode": "bus_rpn",
-"trips": 49545
+"date": "2026-09-08",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-09",
-"mode": "bus_rpn",
-"trips": 49067
+"date": "2026-09-09",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-10",
-"mode": "bus_rpn",
-"trips": 50810
+"date": "2026-09-10",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-11",
-"mode": "bus_rpn",
-"trips": 49430
+"date": "2026-09-11",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-12",
-"mode": "bus_rpn",
-"trips": 50480
+"date": "2026-09-12",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-13",
-"mode": "bus_rpn",
-"trips": 44301
+"date": "2026-09-13",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-14",
-"mode": "bus_rpn",
-"trips": 50099
+"date": "2026-09-14",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-15",
-"mode": "bus_rpn",
-"trips": 39497
+"date": "2026-09-15",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-16",
-"mode": "bus_rpn",
-"trips": 45173
+"date": "2026-09-16",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-17",
-"mode": "bus_rpn",
-"trips": 48311
+"date": "2026-09-17",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-18",
-"mode": "bus_rpn",
-"trips": 47009
+"date": "2026-09-18",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-19",
-"mode": "bus_rpn",
-"trips": 47678
+"date": "2026-09-19",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-20",
-"mode": "bus_rpn",
-"trips": 43021
+"date": "2026-09-20",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-21",
-"mode": "bus_rpn",
-"trips": 44352
+"date": "2026-09-21",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-22",
-"mode": "bus_rpn",
-"trips": 48536
+"date": "2026-09-22",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-23",
-"mode": "bus_rpn",
-"trips": 48674
+"date": "2026-09-23",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-24",
-"mode": "bus_rpn",
-"trips": 48710
+"date": "2026-09-24",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-25",
-"mode": "bus_rpn",
-"trips": 47606
+"date": "2026-09-25",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-26",
-"mode": "bus_rpn",
-"trips": 50860
+"date": "2026-09-26",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-27",
-"mode": "bus_rpn",
-"trips": 44306
+"date": "2026-09-27",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-28",
-"mode": "bus_rpn",
-"trips": 40682
+"date": "2026-09-28",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-29",
-"mode": "bus_rpn",
-"trips": 48667
+"date": "2026-09-29",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-09-30",
-"mode": "bus_rpn",
-"trips": 50587
+"date": "2026-09-30",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-01",
-"mode": "bus_rpn",
-"trips": 48930
+"date": "2026-10-01",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-02",
-"mode": "bus_rpn",
-"trips": 50876
+"date": "2026-10-02",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-03",
-"mode": "bus_rpn",
-"trips": 52716
+"date": "2026-10-03",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-04",
-"mode": "bus_rpn",
-"trips": 49696
+"date": "2026-10-04",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-05",
-"mode": "bus_rpn",
-"trips": 52603
+"date": "2026-10-05",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-06",
-"mode": "bus_rpn",
-"trips": 52874
+"date": "2026-10-06",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-07",
-"mode": "bus_rpn",
-"trips": 49673
+"date": "2026-10-07",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-08",
-"mode": "bus_rpn",
-"trips": 51730
+"date": "2026-10-08",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-09",
-"mode": "bus_rpn",
-"trips": 48940
+"date": "2026-10-09",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-10",
-"mode": "bus_rpn",
-"trips": 54605
+"date": "2026-10-10",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-11",
-"mode": "bus_rpn",
-"trips": 45634
+"date": "2026-10-11",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-12",
-"mode": "bus_rpn",
-"trips": 48000
+"date": "2026-10-12",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-13",
-"mode": "bus_rpn",
-"trips": 49795
+"date": "2026-10-13",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-14",
-"mode": "bus_rpn",
-"trips": 49132
+"date": "2026-10-14",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-15",
-"mode": "bus_rpn",
-"trips": 50250
+"date": "2026-10-15",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-16",
-"mode": "bus_rpn",
-"trips": 48705
+"date": "2026-10-16",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-17",
-"mode": "bus_rpn",
-"trips": 53239
+"date": "2026-10-17",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-18",
-"mode": "bus_rpn",
-"trips": 46669
+"date": "2026-10-18",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-19",
-"mode": "bus_rpn",
-"trips": 49755
+"date": "2026-10-19",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-20",
-"mode": "bus_rpn",
-"trips": 38431
+"date": "2026-10-20",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-21",
-"mode": "bus_rpn",
-"trips": 44310
+"date": "2026-10-21",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-22",
-"mode": "bus_rpn",
-"trips": 42040
+"date": "2026-10-22",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-23",
-"mode": "bus_rpn",
-"trips": 45372
+"date": "2026-10-23",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-24",
-"mode": "bus_rpn",
-"trips": 47760
+"date": "2026-10-24",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-25",
-"mode": "bus_rpn",
-"trips": 41197
+"date": "2026-10-25",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-26",
-"mode": "bus_rpn",
-"trips": 45218
+"date": "2026-10-26",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-27",
-"mode": "bus_rpn",
-"trips": 49849
+"date": "2026-10-27",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-28",
-"mode": "bus_rpn",
-"trips": 50391
+"date": "2026-10-28",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-29",
-"mode": "bus_rpn",
-"trips": 49316
+"date": "2026-10-29",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-30",
-"mode": "bus_rpn",
-"trips": 46269
+"date": "2026-10-30",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
-"date": "2025-10-31",
-"mode": "bus_rpn",
-"trips": 51477
+"date": "2026-10-31",
+"mode": "bus_rkn",
+"trips": 0
 },
 {
 "date": "2025-11-01",
@@ -5475,309 +5170,309 @@
 "trips": 42372
 },
 {
-"date": "2025-09-01",
-"mode": "rail_ets",
-"trips": 13708
+"date": "2026-09-01",
+"mode": "bus_rpn",
+"trips": 46519
 },
 {
-"date": "2025-09-02",
-"mode": "rail_ets",
-"trips": 11015
+"date": "2026-09-02",
+"mode": "bus_rpn",
+"trips": 46179
 },
 {
-"date": "2025-09-03",
-"mode": "rail_ets",
-"trips": 9894
+"date": "2026-09-03",
+"mode": "bus_rpn",
+"trips": 45132
 },
 {
-"date": "2025-09-04",
-"mode": "rail_ets",
-"trips": 11355
+"date": "2026-09-04",
+"mode": "bus_rpn",
+"trips": 45927
 },
 {
-"date": "2025-09-05",
-"mode": "rail_ets",
-"trips": 12623
+"date": "2026-09-05",
+"mode": "bus_rpn",
+"trips": 41506
 },
 {
-"date": "2025-09-06",
-"mode": "rail_ets",
-"trips": 12174
+"date": "2026-09-06",
+"mode": "bus_rpn",
+"trips": 44173
 },
 {
-"date": "2025-09-07",
-"mode": "rail_ets",
-"trips": 13326
+"date": "2026-09-07",
+"mode": "bus_rpn",
+"trips": 47492
 },
 {
-"date": "2025-09-08",
-"mode": "rail_ets",
-"trips": 10920
+"date": "2026-09-08",
+"mode": "bus_rpn",
+"trips": 47306
 },
 {
-"date": "2025-09-09",
-"mode": "rail_ets",
-"trips": 9077
+"date": "2026-09-09",
+"mode": "bus_rpn",
+"trips": 48850
 },
 {
-"date": "2025-09-10",
-"mode": "rail_ets",
-"trips": 10187
+"date": "2026-09-10",
+"mode": "bus_rpn",
+"trips": 46423
 },
 {
-"date": "2025-09-11",
-"mode": "rail_ets",
-"trips": 11659
+"date": "2026-09-11",
+"mode": "bus_rpn",
+"trips": 48673
 },
 {
-"date": "2025-09-12",
-"mode": "rail_ets",
-"trips": 13789
+"date": "2026-09-12",
+"mode": "bus_rpn",
+"trips": 42053
 },
 {
-"date": "2025-09-13",
-"mode": "rail_ets",
-"trips": 13634
+"date": "2026-09-13",
+"mode": "bus_rpn",
+"trips": 44361
 },
 {
-"date": "2025-09-14",
-"mode": "rail_ets",
-"trips": 13712
+"date": "2026-09-14",
+"mode": "bus_rpn",
+"trips": 47454
 },
 {
-"date": "2025-09-15",
-"mode": "rail_ets",
-"trips": 13411
+"date": "2026-09-15",
+"mode": "bus_rpn",
+"trips": 49257
 },
 {
-"date": "2025-09-16",
-"mode": "rail_ets",
-"trips": 13733
+"date": "2026-09-16",
+"mode": "bus_rpn",
+"trips": 43276
 },
 {
-"date": "2025-09-17",
-"mode": "rail_ets",
-"trips": 13092
+"date": "2026-09-17",
+"mode": "bus_rpn",
+"trips": 47663
 },
 {
-"date": "2025-09-18",
-"mode": "rail_ets",
-"trips": 12836
+"date": "2026-09-18",
+"mode": "bus_rpn",
+"trips": 46041
 },
 {
-"date": "2025-09-19",
-"mode": "rail_ets",
-"trips": 13064
+"date": "2026-09-19",
+"mode": "bus_rpn",
+"trips": 41589
 },
 {
-"date": "2025-09-20",
-"mode": "rail_ets",
-"trips": 12916
+"date": "2026-09-20",
+"mode": "bus_rpn",
+"trips": 38684
 },
 {
-"date": "2025-09-21",
-"mode": "rail_ets",
-"trips": 13398
+"date": "2026-09-21",
+"mode": "bus_rpn",
+"trips": 48357
 },
 {
-"date": "2025-09-22",
-"mode": "rail_ets",
-"trips": 11229
+"date": "2026-09-22",
+"mode": "bus_rpn",
+"trips": 47073
 },
 {
-"date": "2025-09-23",
-"mode": "rail_ets",
-"trips": 9294
+"date": "2026-09-23",
+"mode": "bus_rpn",
+"trips": 48365
 },
 {
-"date": "2025-09-24",
-"mode": "rail_ets",
-"trips": 9288
+"date": "2026-09-24",
+"mode": "bus_rpn",
+"trips": 48418
 },
 {
-"date": "2025-09-25",
-"mode": "rail_ets",
-"trips": 10565
+"date": "2026-09-25",
+"mode": "bus_rpn",
+"trips": 48670
 },
 {
-"date": "2025-09-26",
-"mode": "rail_ets",
-"trips": 12032
+"date": "2026-09-26",
+"mode": "bus_rpn",
+"trips": 42328
 },
 {
-"date": "2025-09-27",
-"mode": "rail_ets",
-"trips": 11867
+"date": "2026-09-27",
+"mode": "bus_rpn",
+"trips": 43372
 },
 {
-"date": "2025-09-28",
-"mode": "rail_ets",
-"trips": 12251
+"date": "2026-09-28",
+"mode": "bus_rpn",
+"trips": 48728
 },
 {
-"date": "2025-09-29",
-"mode": "rail_ets",
-"trips": 10575
+"date": "2026-09-29",
+"mode": "bus_rpn",
+"trips": 48138
 },
 {
-"date": "2025-09-30",
-"mode": "rail_ets",
-"trips": 9015
+"date": "2026-09-30",
+"mode": "bus_rpn",
+"trips": 47871
 },
 {
-"date": "2025-10-01",
-"mode": "rail_ets",
-"trips": 8819
+"date": "2026-10-01",
+"mode": "bus_rpn",
+"trips": 51159
 },
 {
-"date": "2025-10-02",
-"mode": "rail_ets",
-"trips": 10587
+"date": "2026-10-02",
+"mode": "bus_rpn",
+"trips": 52591
 },
 {
-"date": "2025-10-03",
-"mode": "rail_ets",
-"trips": 12369
+"date": "2026-10-03",
+"mode": "bus_rpn",
+"trips": 47443
 },
 {
-"date": "2025-10-04",
-"mode": "rail_ets",
-"trips": 11993
+"date": "2026-10-04",
+"mode": "bus_rpn",
+"trips": 44742
 },
 {
-"date": "2025-10-05",
-"mode": "rail_ets",
-"trips": 12446
+"date": "2026-10-05",
+"mode": "bus_rpn",
+"trips": 51338
 },
 {
-"date": "2025-10-06",
-"mode": "rail_ets",
-"trips": 11152
+"date": "2026-10-06",
+"mode": "bus_rpn",
+"trips": 51141
 },
 {
-"date": "2025-10-07",
-"mode": "rail_ets",
-"trips": 9727
+"date": "2026-10-07",
+"mode": "bus_rpn",
+"trips": 51328
 },
 {
-"date": "2025-10-08",
-"mode": "rail_ets",
-"trips": 9273
+"date": "2026-10-08",
+"mode": "bus_rpn",
+"trips": 50667
 },
 {
-"date": "2025-10-09",
-"mode": "rail_ets",
-"trips": 10620
+"date": "2026-10-09",
+"mode": "bus_rpn",
+"trips": 52880
 },
 {
-"date": "2025-10-10",
-"mode": "rail_ets",
-"trips": 12432
+"date": "2026-10-10",
+"mode": "bus_rpn",
+"trips": 44856
 },
 {
-"date": "2025-10-11",
-"mode": "rail_ets",
-"trips": 11980
+"date": "2026-10-11",
+"mode": "bus_rpn",
+"trips": 46951
 },
 {
-"date": "2025-10-12",
-"mode": "rail_ets",
-"trips": 12301
+"date": "2026-10-12",
+"mode": "bus_rpn",
+"trips": 47154
 },
 {
-"date": "2025-10-13",
-"mode": "rail_ets",
-"trips": 10685
+"date": "2026-10-13",
+"mode": "bus_rpn",
+"trips": 50826
 },
 {
-"date": "2025-10-14",
-"mode": "rail_ets",
-"trips": 8707
+"date": "2026-10-14",
+"mode": "bus_rpn",
+"trips": 49104
 },
 {
-"date": "2025-10-15",
-"mode": "rail_ets",
-"trips": 10162
+"date": "2026-10-15",
+"mode": "bus_rpn",
+"trips": 49697
 },
 {
-"date": "2025-10-16",
-"mode": "rail_ets",
-"trips": 12035
+"date": "2026-10-16",
+"mode": "bus_rpn",
+"trips": 51620
 },
 {
-"date": "2025-10-17",
-"mode": "rail_ets",
-"trips": 14708
+"date": "2026-10-17",
+"mode": "bus_rpn",
+"trips": 43438
 },
 {
-"date": "2025-10-18",
-"mode": "rail_ets",
-"trips": 14031
+"date": "2026-10-18",
+"mode": "bus_rpn",
+"trips": 44388
 },
 {
-"date": "2025-10-19",
-"mode": "rail_ets",
-"trips": 13477
+"date": "2026-10-19",
+"mode": "bus_rpn",
+"trips": 48875
 },
 {
-"date": "2025-10-20",
-"mode": "rail_ets",
-"trips": 13931
+"date": "2026-10-20",
+"mode": "bus_rpn",
+"trips": 48553
 },
 {
-"date": "2025-10-21",
-"mode": "rail_ets",
-"trips": 13339
+"date": "2026-10-21",
+"mode": "bus_rpn",
+"trips": 51175
 },
 {
-"date": "2025-10-22",
-"mode": "rail_ets",
-"trips": 13123
+"date": "2026-10-22",
+"mode": "bus_rpn",
+"trips": 47845
 },
 {
-"date": "2025-10-23",
-"mode": "rail_ets",
-"trips": 11754
+"date": "2026-10-23",
+"mode": "bus_rpn",
+"trips": 51332
 },
 {
-"date": "2025-10-24",
-"mode": "rail_ets",
-"trips": 12389
+"date": "2026-10-24",
+"mode": "bus_rpn",
+"trips": 43157
 },
 {
-"date": "2025-10-25",
-"mode": "rail_ets",
-"trips": 12324
+"date": "2026-10-25",
+"mode": "bus_rpn",
+"trips": 38130
 },
 {
-"date": "2025-10-26",
-"mode": "rail_ets",
-"trips": 12863
+"date": "2026-10-26",
+"mode": "bus_rpn",
+"trips": 44633
 },
 {
-"date": "2025-10-27",
-"mode": "rail_ets",
-"trips": 10911
+"date": "2026-10-27",
+"mode": "bus_rpn",
+"trips": 46530
 },
 {
-"date": "2025-10-28",
-"mode": "rail_ets",
-"trips": 9319
+"date": "2026-10-28",
+"mode": "bus_rpn",
+"trips": 48739
 },
 {
-"date": "2025-10-29",
-"mode": "rail_ets",
-"trips": 9064
+"date": "2026-10-29",
+"mode": "bus_rpn",
+"trips": 45120
 },
 {
-"date": "2025-10-30",
-"mode": "rail_ets",
-"trips": 10331
+"date": "2026-10-30",
+"mode": "bus_rpn",
+"trips": 52712
 },
 {
-"date": "2025-10-31",
-"mode": "rail_ets",
-"trips": 12280
+"date": "2026-10-31",
+"mode": "bus_rpn",
+"trips": 45713
 },
 {
 "date": "2025-11-01",
@@ -7300,309 +6995,309 @@
 "trips": 22144
 },
 {
-"date": "2025-09-01",
-"mode": "rail_intercity",
-"trips": 5371
+"date": "2026-09-01",
+"mode": "rail_ets",
+"trips": 18412
 },
 {
-"date": "2025-09-02",
-"mode": "rail_intercity",
-"trips": 2331
+"date": "2026-09-02",
+"mode": "rail_ets",
+"trips": 17827
 },
 {
-"date": "2025-09-03",
-"mode": "rail_intercity",
-"trips": 2345
+"date": "2026-09-03",
+"mode": "rail_ets",
+"trips": 17807
 },
 {
-"date": "2025-09-04",
-"mode": "rail_intercity",
-"trips": 4176
+"date": "2026-09-04",
+"mode": "rail_ets",
+"trips": 21352
 },
 {
-"date": "2025-09-05",
-"mode": "rail_intercity",
-"trips": 5633
+"date": "2026-09-05",
+"mode": "rail_ets",
+"trips": 21265
 },
 {
-"date": "2025-09-06",
-"mode": "rail_intercity",
-"trips": 5767
+"date": "2026-09-06",
+"mode": "rail_ets",
+"trips": 24025
 },
 {
-"date": "2025-09-07",
-"mode": "rail_intercity",
-"trips": 4736
+"date": "2026-09-07",
+"mode": "rail_ets",
+"trips": 16530
 },
 {
-"date": "2025-09-08",
-"mode": "rail_intercity",
-"trips": 2801
+"date": "2026-09-08",
+"mode": "rail_ets",
+"trips": 13909
 },
 {
-"date": "2025-09-09",
-"mode": "rail_intercity",
-"trips": 2735
+"date": "2026-09-09",
+"mode": "rail_ets",
+"trips": 14031
 },
 {
-"date": "2025-09-10",
-"mode": "rail_intercity",
-"trips": 2989
+"date": "2026-09-10",
+"mode": "rail_ets",
+"trips": 16126
 },
 {
-"date": "2025-09-11",
-"mode": "rail_intercity",
-"trips": 4434
+"date": "2026-09-11",
+"mode": "rail_ets",
+"trips": 19583
 },
 {
-"date": "2025-09-12",
-"mode": "rail_intercity",
-"trips": 6086
+"date": "2026-09-12",
+"mode": "rail_ets",
+"trips": 19006
 },
 {
-"date": "2025-09-13",
-"mode": "rail_intercity",
-"trips": 7294
+"date": "2026-09-13",
+"mode": "rail_ets",
+"trips": 20206
 },
 {
-"date": "2025-09-14",
-"mode": "rail_intercity",
-"trips": 7049
+"date": "2026-09-14",
+"mode": "rail_ets",
+"trips": 16063
 },
 {
-"date": "2025-09-15",
-"mode": "rail_intercity",
-"trips": 7954
+"date": "2026-09-15",
+"mode": "rail_ets",
+"trips": 16248
 },
 {
-"date": "2025-09-16",
-"mode": "rail_intercity",
-"trips": 7374
+"date": "2026-09-16",
+"mode": "rail_ets",
+"trips": 17295
 },
 {
-"date": "2025-09-17",
-"mode": "rail_intercity",
-"trips": 6614
+"date": "2026-09-17",
+"mode": "rail_ets",
+"trips": 15844
 },
 {
-"date": "2025-09-18",
-"mode": "rail_intercity",
-"trips": 6515
+"date": "2026-09-18",
+"mode": "rail_ets",
+"trips": 19547
 },
 {
-"date": "2025-09-19",
-"mode": "rail_intercity",
-"trips": 6355
+"date": "2026-09-19",
+"mode": "rail_ets",
+"trips": 18752
 },
 {
-"date": "2025-09-20",
-"mode": "rail_intercity",
-"trips": 6399
+"date": "2026-09-20",
+"mode": "rail_ets",
+"trips": 20335
 },
 {
-"date": "2025-09-21",
-"mode": "rail_intercity",
-"trips": 5175
+"date": "2026-09-21",
+"mode": "rail_ets",
+"trips": 16434
 },
 {
-"date": "2025-09-22",
-"mode": "rail_intercity",
-"trips": 2607
+"date": "2026-09-22",
+"mode": "rail_ets",
+"trips": 13815
 },
 {
-"date": "2025-09-23",
-"mode": "rail_intercity",
-"trips": 2497
+"date": "2026-09-23",
+"mode": "rail_ets",
+"trips": 13957
 },
 {
-"date": "2025-09-24",
-"mode": "rail_intercity",
-"trips": 2802
+"date": "2026-09-24",
+"mode": "rail_ets",
+"trips": 16763
 },
 {
-"date": "2025-09-25",
-"mode": "rail_intercity",
-"trips": 4240
+"date": "2026-09-25",
+"mode": "rail_ets",
+"trips": 20998
 },
 {
-"date": "2025-09-26",
-"mode": "rail_intercity",
-"trips": 4705
+"date": "2026-09-26",
+"mode": "rail_ets",
+"trips": 20264
 },
 {
-"date": "2025-09-27",
-"mode": "rail_intercity",
-"trips": 5642
+"date": "2026-09-27",
+"mode": "rail_ets",
+"trips": 22072
 },
 {
-"date": "2025-09-28",
-"mode": "rail_intercity",
-"trips": 6210
+"date": "2026-09-28",
+"mode": "rail_ets",
+"trips": 16452
 },
 {
-"date": "2025-09-29",
-"mode": "rail_intercity",
-"trips": 4025
+"date": "2026-09-29",
+"mode": "rail_ets",
+"trips": 13612
 },
 {
-"date": "2025-09-30",
-"mode": "rail_intercity",
-"trips": 3971
+"date": "2026-09-30",
+"mode": "rail_ets",
+"trips": 13746
 },
 {
-"date": "2025-10-01",
-"mode": "rail_intercity",
-"trips": 2453
+"date": "2026-10-01",
+"mode": "rail_ets",
+"trips": 16088
 },
 {
-"date": "2025-10-02",
-"mode": "rail_intercity",
-"trips": 3532
+"date": "2026-10-02",
+"mode": "rail_ets",
+"trips": 20575
 },
 {
-"date": "2025-10-03",
-"mode": "rail_intercity",
-"trips": 4620
+"date": "2026-10-03",
+"mode": "rail_ets",
+"trips": 19857
 },
 {
-"date": "2025-10-04",
-"mode": "rail_intercity",
-"trips": 6005
+"date": "2026-10-04",
+"mode": "rail_ets",
+"trips": 21576
 },
 {
-"date": "2025-10-05",
-"mode": "rail_intercity",
-"trips": 5247
+"date": "2026-10-05",
+"mode": "rail_ets",
+"trips": 16624
 },
 {
-"date": "2025-10-06",
-"mode": "rail_intercity",
-"trips": 3143
+"date": "2026-10-06",
+"mode": "rail_ets",
+"trips": 13603
 },
 {
-"date": "2025-10-07",
-"mode": "rail_intercity",
-"trips": 2831
+"date": "2026-10-07",
+"mode": "rail_ets",
+"trips": 13599
 },
 {
-"date": "2025-10-08",
-"mode": "rail_intercity",
-"trips": 2611
+"date": "2026-10-08",
+"mode": "rail_ets",
+"trips": 16766
 },
 {
-"date": "2025-10-09",
-"mode": "rail_intercity",
-"trips": 3727
+"date": "2026-10-09",
+"mode": "rail_ets",
+"trips": 20783
 },
 {
-"date": "2025-10-10",
-"mode": "rail_intercity",
-"trips": 5008
+"date": "2026-10-10",
+"mode": "rail_ets",
+"trips": 19865
 },
 {
-"date": "2025-10-11",
-"mode": "rail_intercity",
-"trips": 5620
+"date": "2026-10-11",
+"mode": "rail_ets",
+"trips": 20850
 },
 {
-"date": "2025-10-12",
-"mode": "rail_intercity",
-"trips": 4963
+"date": "2026-10-12",
+"mode": "rail_ets",
+"trips": 16979
 },
 {
-"date": "2025-10-13",
-"mode": "rail_intercity",
-"trips": 2866
+"date": "2026-10-13",
+"mode": "rail_ets",
+"trips": 13702
 },
 {
-"date": "2025-10-14",
-"mode": "rail_intercity",
-"trips": 2467
+"date": "2026-10-14",
+"mode": "rail_ets",
+"trips": 13845
 },
 {
-"date": "2025-10-15",
-"mode": "rail_intercity",
-"trips": 2681
+"date": "2026-10-15",
+"mode": "rail_ets",
+"trips": 15630
 },
 {
-"date": "2025-10-16",
-"mode": "rail_intercity",
-"trips": 4329
+"date": "2026-10-16",
+"mode": "rail_ets",
+"trips": 19615
 },
 {
-"date": "2025-10-17",
-"mode": "rail_intercity",
-"trips": 6076
+"date": "2026-10-17",
+"mode": "rail_ets",
+"trips": 19147
 },
 {
-"date": "2025-10-18",
-"mode": "rail_intercity",
-"trips": 6649
+"date": "2026-10-18",
+"mode": "rail_ets",
+"trips": 21050
 },
 {
-"date": "2025-10-19",
-"mode": "rail_intercity",
-"trips": 6716
+"date": "2026-10-19",
+"mode": "rail_ets",
+"trips": 16382
 },
 {
-"date": "2025-10-20",
-"mode": "rail_intercity",
-"trips": 7330
+"date": "2026-10-20",
+"mode": "rail_ets",
+"trips": 13048
 },
 {
-"date": "2025-10-21",
-"mode": "rail_intercity",
-"trips": 6046
+"date": "2026-10-21",
+"mode": "rail_ets",
+"trips": 12932
 },
 {
-"date": "2025-10-22",
-"mode": "rail_intercity",
-"trips": 4381
+"date": "2026-10-22",
+"mode": "rail_ets",
+"trips": 15785
 },
 {
-"date": "2025-10-23",
-"mode": "rail_intercity",
-"trips": 3648
+"date": "2026-10-23",
+"mode": "rail_ets",
+"trips": 19633
 },
 {
-"date": "2025-10-24",
-"mode": "rail_intercity",
-"trips": 5082
+"date": "2026-10-24",
+"mode": "rail_ets",
+"trips": 19046
 },
 {
-"date": "2025-10-25",
-"mode": "rail_intercity",
-"trips": 5627
+"date": "2026-10-25",
+"mode": "rail_ets",
+"trips": 20340
 },
 {
-"date": "2025-10-26",
-"mode": "rail_intercity",
-"trips": 4788
+"date": "2026-10-26",
+"mode": "rail_ets",
+"trips": 16611
 },
 {
-"date": "2025-10-27",
-"mode": "rail_intercity",
-"trips": 3012
+"date": "2026-10-27",
+"mode": "rail_ets",
+"trips": 13296
 },
 {
-"date": "2025-10-28",
-"mode": "rail_intercity",
-"trips": 2756
+"date": "2026-10-28",
+"mode": "rail_ets",
+"trips": 13235
 },
 {
-"date": "2025-10-29",
-"mode": "rail_intercity",
-"trips": 2281
+"date": "2026-10-29",
+"mode": "rail_ets",
+"trips": 14396
 },
 {
-"date": "2025-10-30",
-"mode": "rail_intercity",
-"trips": 4181
+"date": "2026-10-30",
+"mode": "rail_ets",
+"trips": 19567
 },
 {
-"date": "2025-10-31",
-"mode": "rail_intercity",
-"trips": 4374
+"date": "2026-10-31",
+"mode": "rail_ets",
+"trips": 18507
 },
 {
 "date": "2025-11-01",
@@ -9125,309 +8820,309 @@
 "trips": 5420
 },
 {
-"date": "2025-09-01",
-"mode": "rail_komuter",
-"trips": 20801
+"date": "2026-09-01",
+"mode": "rail_intercity",
+"trips": 5151
 },
 {
-"date": "2025-09-02",
-"mode": "rail_komuter",
-"trips": 29056
+"date": "2026-09-02",
+"mode": "rail_intercity",
+"trips": 5048
 },
 {
-"date": "2025-09-03",
-"mode": "rail_komuter",
-"trips": 28782
+"date": "2026-09-03",
+"mode": "rail_intercity",
+"trips": 5212
 },
 {
-"date": "2025-09-04",
-"mode": "rail_komuter",
-"trips": 31950
+"date": "2026-09-04",
+"mode": "rail_intercity",
+"trips": 5331
 },
 {
-"date": "2025-09-05",
-"mode": "rail_komuter",
-"trips": 18511
+"date": "2026-09-05",
+"mode": "rail_intercity",
+"trips": 5170
 },
 {
-"date": "2025-09-06",
-"mode": "rail_komuter",
-"trips": 16833
+"date": "2026-09-06",
+"mode": "rail_intercity",
+"trips": 4074
 },
 {
-"date": "2025-09-07",
-"mode": "rail_komuter",
-"trips": 18783
+"date": "2026-09-07",
+"mode": "rail_intercity",
+"trips": 2217
 },
 {
-"date": "2025-09-08",
-"mode": "rail_komuter",
-"trips": 29013
+"date": "2026-09-08",
+"mode": "rail_intercity",
+"trips": 2013
 },
 {
-"date": "2025-09-09",
-"mode": "rail_komuter",
-"trips": 29168
+"date": "2026-09-09",
+"mode": "rail_intercity",
+"trips": 2139
 },
 {
-"date": "2025-09-10",
-"mode": "rail_komuter",
-"trips": 29581
+"date": "2026-09-10",
+"mode": "rail_intercity",
+"trips": 2466
 },
 {
-"date": "2025-09-11",
-"mode": "rail_komuter",
-"trips": 29757
+"date": "2026-09-11",
+"mode": "rail_intercity",
+"trips": 3343
 },
 {
-"date": "2025-09-12",
-"mode": "rail_komuter",
-"trips": 36339
+"date": "2026-09-12",
+"mode": "rail_intercity",
+"trips": 4110
 },
 {
-"date": "2025-09-13",
-"mode": "rail_komuter",
-"trips": 23340
+"date": "2026-09-13",
+"mode": "rail_intercity",
+"trips": 3632
 },
 {
-"date": "2025-09-14",
-"mode": "rail_komuter",
-"trips": 21022
+"date": "2026-09-14",
+"mode": "rail_intercity",
+"trips": 1877
 },
 {
-"date": "2025-09-15",
-"mode": "rail_komuter",
-"trips": 22029
+"date": "2026-09-15",
+"mode": "rail_intercity",
+"trips": 2183
 },
 {
-"date": "2025-09-16",
-"mode": "rail_komuter",
-"trips": 21962
+"date": "2026-09-16",
+"mode": "rail_intercity",
+"trips": 4315
 },
 {
-"date": "2025-09-17",
-"mode": "rail_komuter",
-"trips": 31822
+"date": "2026-09-17",
+"mode": "rail_intercity",
+"trips": 2765
 },
 {
-"date": "2025-09-18",
-"mode": "rail_komuter",
-"trips": 30555
+"date": "2026-09-18",
+"mode": "rail_intercity",
+"trips": 3580
 },
 {
-"date": "2025-09-19",
-"mode": "rail_komuter",
-"trips": 28988
+"date": "2026-09-19",
+"mode": "rail_intercity",
+"trips": 4028
 },
 {
-"date": "2025-09-20",
-"mode": "rail_komuter",
-"trips": 17769
+"date": "2026-09-20",
+"mode": "rail_intercity",
+"trips": 3451
 },
 {
-"date": "2025-09-21",
-"mode": "rail_komuter",
-"trips": 16667
+"date": "2026-09-21",
+"mode": "rail_intercity",
+"trips": 1750
 },
 {
-"date": "2025-09-22",
-"mode": "rail_komuter",
-"trips": 27726
+"date": "2026-09-22",
+"mode": "rail_intercity",
+"trips": 1584
 },
 {
-"date": "2025-09-23",
-"mode": "rail_komuter",
-"trips": 28285
+"date": "2026-09-23",
+"mode": "rail_intercity",
+"trips": 1838
 },
 {
-"date": "2025-09-24",
-"mode": "rail_komuter",
-"trips": 28614
+"date": "2026-09-24",
+"mode": "rail_intercity",
+"trips": 2762
 },
 {
-"date": "2025-09-25",
-"mode": "rail_komuter",
-"trips": 29092
+"date": "2026-09-25",
+"mode": "rail_intercity",
+"trips": 3339
 },
 {
-"date": "2025-09-26",
-"mode": "rail_komuter",
-"trips": 29900
+"date": "2026-09-26",
+"mode": "rail_intercity",
+"trips": 4003
 },
 {
-"date": "2025-09-27",
-"mode": "rail_komuter",
-"trips": 18147
+"date": "2026-09-27",
+"mode": "rail_intercity",
+"trips": 3197
 },
 {
-"date": "2025-09-28",
-"mode": "rail_komuter",
-"trips": 16730
+"date": "2026-09-28",
+"mode": "rail_intercity",
+"trips": 3611
 },
 {
-"date": "2025-09-29",
-"mode": "rail_komuter",
-"trips": 28476
+"date": "2026-09-29",
+"mode": "rail_intercity",
+"trips": 3242
 },
 {
-"date": "2025-09-30",
-"mode": "rail_komuter",
-"trips": 28167
+"date": "2026-09-30",
+"mode": "rail_intercity",
+"trips": 3343
 },
 {
-"date": "2025-10-01",
-"mode": "rail_komuter",
-"trips": 28858
+"date": "2026-10-01",
+"mode": "rail_intercity",
+"trips": 3290
 },
 {
-"date": "2025-10-02",
-"mode": "rail_komuter",
-"trips": 30040
+"date": "2026-10-02",
+"mode": "rail_intercity",
+"trips": 3716
 },
 {
-"date": "2025-10-03",
-"mode": "rail_komuter",
-"trips": 32597
+"date": "2026-10-03",
+"mode": "rail_intercity",
+"trips": 4136
 },
 {
-"date": "2025-10-04",
-"mode": "rail_komuter",
-"trips": 21355
+"date": "2026-10-04",
+"mode": "rail_intercity",
+"trips": 3418
 },
 {
-"date": "2025-10-05",
-"mode": "rail_komuter",
-"trips": 20641
+"date": "2026-10-05",
+"mode": "rail_intercity",
+"trips": 1923
 },
 {
-"date": "2025-10-06",
-"mode": "rail_komuter",
-"trips": 29375
+"date": "2026-10-06",
+"mode": "rail_intercity",
+"trips": 1711
 },
 {
-"date": "2025-10-07",
-"mode": "rail_komuter",
-"trips": 30087
+"date": "2026-10-07",
+"mode": "rail_intercity",
+"trips": 1634
 },
 {
-"date": "2025-10-08",
-"mode": "rail_komuter",
-"trips": 29840
+"date": "2026-10-08",
+"mode": "rail_intercity",
+"trips": 2831
 },
 {
-"date": "2025-10-09",
-"mode": "rail_komuter",
-"trips": 31926
+"date": "2026-10-09",
+"mode": "rail_intercity",
+"trips": 3602
 },
 {
-"date": "2025-10-10",
-"mode": "rail_komuter",
-"trips": 32326
+"date": "2026-10-10",
+"mode": "rail_intercity",
+"trips": 3252
 },
 {
-"date": "2025-10-11",
-"mode": "rail_komuter",
-"trips": 20241
+"date": "2026-10-11",
+"mode": "rail_intercity",
+"trips": 3599
 },
 {
-"date": "2025-10-12",
-"mode": "rail_komuter",
-"trips": 19294
+"date": "2026-10-12",
+"mode": "rail_intercity",
+"trips": 2158
 },
 {
-"date": "2025-10-13",
-"mode": "rail_komuter",
-"trips": 29545
+"date": "2026-10-13",
+"mode": "rail_intercity",
+"trips": 1640
 },
 {
-"date": "2025-10-14",
-"mode": "rail_komuter",
-"trips": 28708
+"date": "2026-10-14",
+"mode": "rail_intercity",
+"trips": 1616
 },
 {
-"date": "2025-10-15",
-"mode": "rail_komuter",
-"trips": 29088
+"date": "2026-10-15",
+"mode": "rail_intercity",
+"trips": 2906
 },
 {
-"date": "2025-10-16",
-"mode": "rail_komuter",
-"trips": 33015
+"date": "2026-10-16",
+"mode": "rail_intercity",
+"trips": 2989
 },
 {
-"date": "2025-10-17",
-"mode": "rail_komuter",
-"trips": 40014
+"date": "2026-10-17",
+"mode": "rail_intercity",
+"trips": 3713
 },
 {
-"date": "2025-10-18",
-"mode": "rail_komuter",
-"trips": 24921
+"date": "2026-10-18",
+"mode": "rail_intercity",
+"trips": 3175
 },
 {
-"date": "2025-10-19",
-"mode": "rail_komuter",
-"trips": 22371
+"date": "2026-10-19",
+"mode": "rail_intercity",
+"trips": 1688
 },
 {
-"date": "2025-10-20",
-"mode": "rail_komuter",
-"trips": 27034
+"date": "2026-10-20",
+"mode": "rail_intercity",
+"trips": 1513
 },
 {
-"date": "2025-10-21",
-"mode": "rail_komuter",
-"trips": 30290
+"date": "2026-10-21",
+"mode": "rail_intercity",
+"trips": 1827
 },
 {
-"date": "2025-10-22",
-"mode": "rail_komuter",
-"trips": 29581
+"date": "2026-10-22",
+"mode": "rail_intercity",
+"trips": 2859
 },
 {
-"date": "2025-10-23",
-"mode": "rail_komuter",
-"trips": 27027
+"date": "2026-10-23",
+"mode": "rail_intercity",
+"trips": 3256
 },
 {
-"date": "2025-10-24",
-"mode": "rail_komuter",
-"trips": 28116
+"date": "2026-10-24",
+"mode": "rail_intercity",
+"trips": 3948
 },
 {
-"date": "2025-10-25",
-"mode": "rail_komuter",
-"trips": 19562
+"date": "2026-10-25",
+"mode": "rail_intercity",
+"trips": 3003
 },
 {
-"date": "2025-10-26",
-"mode": "rail_komuter",
-"trips": 19656
+"date": "2026-10-26",
+"mode": "rail_intercity",
+"trips": 2275
 },
 {
-"date": "2025-10-27",
-"mode": "rail_komuter",
-"trips": 26992
+"date": "2026-10-27",
+"mode": "rail_intercity",
+"trips": 1910
 },
 {
-"date": "2025-10-28",
-"mode": "rail_komuter",
-"trips": 25535
+"date": "2026-10-28",
+"mode": "rail_intercity",
+"trips": 1702
 },
 {
-"date": "2025-10-29",
-"mode": "rail_komuter",
-"trips": 28387
+"date": "2026-10-29",
+"mode": "rail_intercity",
+"trips": 3496
 },
 {
-"date": "2025-10-30",
-"mode": "rail_komuter",
-"trips": 29029
+"date": "2026-10-30",
+"mode": "rail_intercity",
+"trips": 3348
 },
 {
-"date": "2025-10-31",
-"mode": "rail_komuter",
-"trips": 31787
+"date": "2026-10-31",
+"mode": "rail_intercity",
+"trips": 4282
 },
 {
 "date": "2025-11-01",
@@ -10950,309 +10645,309 @@
 "trips": 12498
 },
 {
-"date": "2025-09-01",
-"mode": "rail_komuter_utara",
-"trips": 21731
+"date": "2026-09-01",
+"mode": "rail_komuter",
+"trips": 20306
 },
 {
-"date": "2025-09-02",
-"mode": "rail_komuter_utara",
-"trips": 14619
+"date": "2026-09-02",
+"mode": "rail_komuter",
+"trips": 23540
 },
 {
-"date": "2025-09-03",
-"mode": "rail_komuter_utara",
-"trips": 12907
+"date": "2026-09-03",
+"mode": "rail_komuter",
+"trips": 21932
 },
 {
-"date": "2025-09-04",
-"mode": "rail_komuter_utara",
-"trips": 21053
+"date": "2026-09-04",
+"mode": "rail_komuter",
+"trips": 21476
 },
 {
-"date": "2025-09-05",
-"mode": "rail_komuter_utara",
-"trips": 16499
+"date": "2026-09-05",
+"mode": "rail_komuter",
+"trips": 10925
 },
 {
-"date": "2025-09-06",
-"mode": "rail_komuter_utara",
-"trips": 15766
+"date": "2026-09-06",
+"mode": "rail_komuter",
+"trips": 10239
 },
 {
-"date": "2025-09-07",
-"mode": "rail_komuter_utara",
-"trips": 21344
+"date": "2026-09-07",
+"mode": "rail_komuter",
+"trips": 22604
 },
 {
-"date": "2025-09-08",
-"mode": "rail_komuter_utara",
-"trips": 14488
+"date": "2026-09-08",
+"mode": "rail_komuter",
+"trips": 23285
 },
 {
-"date": "2025-09-09",
-"mode": "rail_komuter_utara",
-"trips": 12985
+"date": "2026-09-09",
+"mode": "rail_komuter",
+"trips": 22994
 },
 {
-"date": "2025-09-10",
-"mode": "rail_komuter_utara",
-"trips": 13032
+"date": "2026-09-10",
+"mode": "rail_komuter",
+"trips": 22299
 },
 {
-"date": "2025-09-11",
-"mode": "rail_komuter_utara",
-"trips": 18765
+"date": "2026-09-11",
+"mode": "rail_komuter",
+"trips": 22468
 },
 {
-"date": "2025-09-12",
-"mode": "rail_komuter_utara",
-"trips": 23664
+"date": "2026-09-12",
+"mode": "rail_komuter",
+"trips": 10742
 },
 {
-"date": "2025-09-13",
-"mode": "rail_komuter_utara",
-"trips": 21918
+"date": "2026-09-13",
+"mode": "rail_komuter",
+"trips": 10306
 },
 {
-"date": "2025-09-14",
-"mode": "rail_komuter_utara",
-"trips": 19991
+"date": "2026-09-14",
+"mode": "rail_komuter",
+"trips": 22342
 },
 {
-"date": "2025-09-15",
-"mode": "rail_komuter_utara",
-"trips": 20557
+"date": "2026-09-15",
+"mode": "rail_komuter",
+"trips": 22001
 },
 {
-"date": "2025-09-16",
-"mode": "rail_komuter_utara",
-"trips": 23475
+"date": "2026-09-16",
+"mode": "rail_komuter",
+"trips": 10805
 },
 {
-"date": "2025-09-17",
-"mode": "rail_komuter_utara",
-"trips": 19219
+"date": "2026-09-17",
+"mode": "rail_komuter",
+"trips": 21379
 },
 {
-"date": "2025-09-18",
-"mode": "rail_komuter_utara",
-"trips": 18507
+"date": "2026-09-18",
+"mode": "rail_komuter",
+"trips": 21356
 },
 {
-"date": "2025-09-19",
-"mode": "rail_komuter_utara",
-"trips": 18664
+"date": "2026-09-19",
+"mode": "rail_komuter",
+"trips": 10427
 },
 {
-"date": "2025-09-20",
-"mode": "rail_komuter_utara",
-"trips": 18209
+"date": "2026-09-20",
+"mode": "rail_komuter",
+"trips": 9173
 },
 {
-"date": "2025-09-21",
-"mode": "rail_komuter_utara",
-"trips": 18618
+"date": "2026-09-21",
+"mode": "rail_komuter",
+"trips": 22506
 },
 {
-"date": "2025-09-22",
-"mode": "rail_komuter_utara",
-"trips": 14347
+"date": "2026-09-22",
+"mode": "rail_komuter",
+"trips": 22899
 },
 {
-"date": "2025-09-23",
-"mode": "rail_komuter_utara",
-"trips": 12930
+"date": "2026-09-23",
+"mode": "rail_komuter",
+"trips": 22884
 },
 {
-"date": "2025-09-24",
-"mode": "rail_komuter_utara",
-"trips": 13144
+"date": "2026-09-24",
+"mode": "rail_komuter",
+"trips": 23025
 },
 {
-"date": "2025-09-25",
-"mode": "rail_komuter_utara",
-"trips": 15025
+"date": "2026-09-25",
+"mode": "rail_komuter",
+"trips": 23463
 },
 {
-"date": "2025-09-26",
-"mode": "rail_komuter_utara",
-"trips": 18444
+"date": "2026-09-26",
+"mode": "rail_komuter",
+"trips": 12372
 },
 {
-"date": "2025-09-27",
-"mode": "rail_komuter_utara",
-"trips": 16278
+"date": "2026-09-27",
+"mode": "rail_komuter",
+"trips": 10901
 },
 {
-"date": "2025-09-28",
-"mode": "rail_komuter_utara",
-"trips": 17129
+"date": "2026-09-28",
+"mode": "rail_komuter",
+"trips": 23356
 },
 {
-"date": "2025-09-29",
-"mode": "rail_komuter_utara",
-"trips": 14264
+"date": "2026-09-29",
+"mode": "rail_komuter",
+"trips": 23185
 },
 {
-"date": "2025-09-30",
-"mode": "rail_komuter_utara",
-"trips": 12522
+"date": "2026-09-30",
+"mode": "rail_komuter",
+"trips": 20341
 },
 {
-"date": "2025-10-01",
-"mode": "rail_komuter_utara",
-"trips": 13121
+"date": "2026-10-01",
+"mode": "rail_komuter",
+"trips": 22824
 },
 {
-"date": "2025-10-02",
-"mode": "rail_komuter_utara",
-"trips": 16978
+"date": "2026-10-02",
+"mode": "rail_komuter",
+"trips": 24923
 },
 {
-"date": "2025-10-03",
-"mode": "rail_komuter_utara",
-"trips": 20628
+"date": "2026-10-03",
+"mode": "rail_komuter",
+"trips": 13743
 },
 {
-"date": "2025-10-04",
-"mode": "rail_komuter_utara",
-"trips": 18249
+"date": "2026-10-04",
+"mode": "rail_komuter",
+"trips": 12082
 },
 {
-"date": "2025-10-05",
-"mode": "rail_komuter_utara",
-"trips": 20254
+"date": "2026-10-05",
+"mode": "rail_komuter",
+"trips": 23668
 },
 {
-"date": "2025-10-06",
-"mode": "rail_komuter_utara",
-"trips": 14853
+"date": "2026-10-06",
+"mode": "rail_komuter",
+"trips": 24153
 },
 {
-"date": "2025-10-07",
-"mode": "rail_komuter_utara",
-"trips": 12940
+"date": "2026-10-07",
+"mode": "rail_komuter",
+"trips": 23713
 },
 {
-"date": "2025-10-08",
-"mode": "rail_komuter_utara",
-"trips": 12895
+"date": "2026-10-08",
+"mode": "rail_komuter",
+"trips": 24314
 },
 {
-"date": "2025-10-09",
-"mode": "rail_komuter_utara",
-"trips": 17364
+"date": "2026-10-09",
+"mode": "rail_komuter",
+"trips": 24332
 },
 {
-"date": "2025-10-10",
-"mode": "rail_komuter_utara",
-"trips": 21389
+"date": "2026-10-10",
+"mode": "rail_komuter",
+"trips": 12465
 },
 {
-"date": "2025-10-11",
-"mode": "rail_komuter_utara",
-"trips": 18928
+"date": "2026-10-11",
+"mode": "rail_komuter",
+"trips": 11430
 },
 {
-"date": "2025-10-12",
-"mode": "rail_komuter_utara",
-"trips": 20276
+"date": "2026-10-12",
+"mode": "rail_komuter",
+"trips": 22698
 },
 {
-"date": "2025-10-13",
-"mode": "rail_komuter_utara",
-"trips": 15917
+"date": "2026-10-13",
+"mode": "rail_komuter",
+"trips": 23140
 },
 {
-"date": "2025-10-14",
-"mode": "rail_komuter_utara",
-"trips": 13148
+"date": "2026-10-14",
+"mode": "rail_komuter",
+"trips": 23069
 },
 {
-"date": "2025-10-15",
-"mode": "rail_komuter_utara",
-"trips": 14946
+"date": "2026-10-15",
+"mode": "rail_komuter",
+"trips": 23075
 },
 {
-"date": "2025-10-16",
-"mode": "rail_komuter_utara",
-"trips": 23591
+"date": "2026-10-16",
+"mode": "rail_komuter",
+"trips": 22728
 },
 {
-"date": "2025-10-17",
-"mode": "rail_komuter_utara",
-"trips": 27250
+"date": "2026-10-17",
+"mode": "rail_komuter",
+"trips": 11584
 },
 {
-"date": "2025-10-18",
-"mode": "rail_komuter_utara",
-"trips": 20555
+"date": "2026-10-18",
+"mode": "rail_komuter",
+"trips": 10369
 },
 {
-"date": "2025-10-19",
-"mode": "rail_komuter_utara",
-"trips": 17355
+"date": "2026-10-19",
+"mode": "rail_komuter",
+"trips": 22950
 },
 {
-"date": "2025-10-20",
-"mode": "rail_komuter_utara",
-"trips": 21331
+"date": "2026-10-20",
+"mode": "rail_komuter",
+"trips": 23575
 },
 {
-"date": "2025-10-21",
-"mode": "rail_komuter_utara",
-"trips": 18953
+"date": "2026-10-21",
+"mode": "rail_komuter",
+"trips": 23106
 },
 {
-"date": "2025-10-22",
-"mode": "rail_komuter_utara",
-"trips": 16660
+"date": "2026-10-22",
+"mode": "rail_komuter",
+"trips": 23007
 },
 {
-"date": "2025-10-23",
-"mode": "rail_komuter_utara",
-"trips": 15949
+"date": "2026-10-23",
+"mode": "rail_komuter",
+"trips": 22942
 },
 {
-"date": "2025-10-24",
-"mode": "rail_komuter_utara",
-"trips": 18358
+"date": "2026-10-24",
+"mode": "rail_komuter",
+"trips": 11112
 },
 {
-"date": "2025-10-25",
-"mode": "rail_komuter_utara",
-"trips": 17389
+"date": "2026-10-25",
+"mode": "rail_komuter",
+"trips": 10150
 },
 {
-"date": "2025-10-26",
-"mode": "rail_komuter_utara",
-"trips": 19044
+"date": "2026-10-26",
+"mode": "rail_komuter",
+"trips": 19838
 },
 {
-"date": "2025-10-27",
-"mode": "rail_komuter_utara",
-"trips": 14783
+"date": "2026-10-27",
+"mode": "rail_komuter",
+"trips": 21934
 },
 {
-"date": "2025-10-28",
-"mode": "rail_komuter_utara",
-"trips": 13030
+"date": "2026-10-28",
+"mode": "rail_komuter",
+"trips": 22964
 },
 {
-"date": "2025-10-29",
-"mode": "rail_komuter_utara",
-"trips": 12713
+"date": "2026-10-29",
+"mode": "rail_komuter",
+"trips": 22819
 },
 {
-"date": "2025-10-30",
-"mode": "rail_komuter_utara",
-"trips": 16771
+"date": "2026-10-30",
+"mode": "rail_komuter",
+"trips": 22717
 },
 {
-"date": "2025-10-31",
-"mode": "rail_komuter_utara",
-"trips": 20177
+"date": "2026-10-31",
+"mode": "rail_komuter",
+"trips": 11737
 },
 {
 "date": "2025-11-01",
@@ -12775,309 +12470,309 @@
 "trips": 23467
 },
 {
-"date": "2025-09-01",
-"mode": "rail_lrt_ampang",
-"trips": 123590
+"date": "2026-09-01",
+"mode": "rail_komuter_utara",
+"trips": 19563
 },
 {
-"date": "2025-09-02",
-"mode": "rail_lrt_ampang",
-"trips": 221172
+"date": "2026-09-02",
+"mode": "rail_komuter_utara",
+"trips": 17869
 },
 {
-"date": "2025-09-03",
-"mode": "rail_lrt_ampang",
-"trips": 222752
+"date": "2026-09-03",
+"mode": "rail_komuter_utara",
+"trips": 19294
 },
 {
-"date": "2025-09-04",
-"mode": "rail_lrt_ampang",
-"trips": 236328
+"date": "2026-09-04",
+"mode": "rail_komuter_utara",
+"trips": 20347
 },
 {
-"date": "2025-09-05",
-"mode": "rail_lrt_ampang",
-"trips": 137357
+"date": "2026-09-05",
+"mode": "rail_komuter_utara",
+"trips": 18640
 },
 {
-"date": "2025-09-06",
-"mode": "rail_lrt_ampang",
-"trips": 139337
+"date": "2026-09-06",
+"mode": "rail_komuter_utara",
+"trips": 20479
 },
 {
-"date": "2025-09-07",
-"mode": "rail_lrt_ampang",
-"trips": 126849
+"date": "2026-09-07",
+"mode": "rail_komuter_utara",
+"trips": 16298
 },
 {
-"date": "2025-09-08",
-"mode": "rail_lrt_ampang",
-"trips": 218944
+"date": "2026-09-08",
+"mode": "rail_komuter_utara",
+"trips": 14079
 },
 {
-"date": "2025-09-09",
-"mode": "rail_lrt_ampang",
-"trips": 226285
+"date": "2026-09-09",
+"mode": "rail_komuter_utara",
+"trips": 14009
 },
 {
-"date": "2025-09-10",
-"mode": "rail_lrt_ampang",
-"trips": 226766
+"date": "2026-09-10",
+"mode": "rail_komuter_utara",
+"trips": 16093
 },
 {
-"date": "2025-09-11",
-"mode": "rail_lrt_ampang",
-"trips": 226085
+"date": "2026-09-11",
+"mode": "rail_komuter_utara",
+"trips": 19888
 },
 {
-"date": "2025-09-12",
-"mode": "rail_lrt_ampang",
-"trips": 232658
+"date": "2026-09-12",
+"mode": "rail_komuter_utara",
+"trips": 17671
 },
 {
-"date": "2025-09-13",
-"mode": "rail_lrt_ampang",
-"trips": 159119
+"date": "2026-09-13",
+"mode": "rail_komuter_utara",
+"trips": 18701
 },
 {
-"date": "2025-09-14",
-"mode": "rail_lrt_ampang",
-"trips": 150123
+"date": "2026-09-14",
+"mode": "rail_komuter_utara",
+"trips": 16377
 },
 {
-"date": "2025-09-15",
-"mode": "rail_lrt_ampang",
-"trips": 140930
+"date": "2026-09-15",
+"mode": "rail_komuter_utara",
+"trips": 17546
 },
 {
-"date": "2025-09-16",
-"mode": "rail_lrt_ampang",
-"trips": 131435
+"date": "2026-09-16",
+"mode": "rail_komuter_utara",
+"trips": 18789
 },
 {
-"date": "2025-09-17",
-"mode": "rail_lrt_ampang",
-"trips": 217719
+"date": "2026-09-17",
+"mode": "rail_komuter_utara",
+"trips": 17816
 },
 {
-"date": "2025-09-18",
-"mode": "rail_lrt_ampang",
-"trips": 217539
+"date": "2026-09-18",
+"mode": "rail_komuter_utara",
+"trips": 20840
 },
 {
-"date": "2025-09-19",
-"mode": "rail_lrt_ampang",
-"trips": 212612
+"date": "2026-09-19",
+"mode": "rail_komuter_utara",
+"trips": 17600
 },
 {
-"date": "2025-09-20",
-"mode": "rail_lrt_ampang",
-"trips": 145668
+"date": "2026-09-20",
+"mode": "rail_komuter_utara",
+"trips": 18527
 },
 {
-"date": "2025-09-21",
-"mode": "rail_lrt_ampang",
-"trips": 123434
+"date": "2026-09-21",
+"mode": "rail_komuter_utara",
+"trips": 15920
 },
 {
-"date": "2025-09-22",
-"mode": "rail_lrt_ampang",
-"trips": 217704
+"date": "2026-09-22",
+"mode": "rail_komuter_utara",
+"trips": 13617
 },
 {
-"date": "2025-09-23",
-"mode": "rail_lrt_ampang",
-"trips": 222617
+"date": "2026-09-23",
+"mode": "rail_komuter_utara",
+"trips": 13812
 },
 {
-"date": "2025-09-24",
-"mode": "rail_lrt_ampang",
-"trips": 224543
+"date": "2026-09-24",
+"mode": "rail_komuter_utara",
+"trips": 16796
 },
 {
-"date": "2025-09-25",
-"mode": "rail_lrt_ampang",
-"trips": 223720
+"date": "2026-09-25",
+"mode": "rail_komuter_utara",
+"trips": 20451
 },
 {
-"date": "2025-09-26",
-"mode": "rail_lrt_ampang",
-"trips": 223056
+"date": "2026-09-26",
+"mode": "rail_komuter_utara",
+"trips": 17678
 },
 {
-"date": "2025-09-27",
-"mode": "rail_lrt_ampang",
-"trips": 148294
+"date": "2026-09-27",
+"mode": "rail_komuter_utara",
+"trips": 18621
 },
 {
-"date": "2025-09-28",
-"mode": "rail_lrt_ampang",
-"trips": 129909
+"date": "2026-09-28",
+"mode": "rail_komuter_utara",
+"trips": 16039
 },
 {
-"date": "2025-09-29",
-"mode": "rail_lrt_ampang",
-"trips": 215741
+"date": "2026-09-29",
+"mode": "rail_komuter_utara",
+"trips": 13505
 },
 {
-"date": "2025-09-30",
-"mode": "rail_lrt_ampang",
-"trips": 222353
+"date": "2026-09-30",
+"mode": "rail_komuter_utara",
+"trips": 14124
 },
 {
-"date": "2025-10-01",
-"mode": "rail_lrt_ampang",
-"trips": 226351
+"date": "2026-10-01",
+"mode": "rail_komuter_utara",
+"trips": 18937
 },
 {
-"date": "2025-10-02",
-"mode": "rail_lrt_ampang",
-"trips": 225735
+"date": "2026-10-02",
+"mode": "rail_komuter_utara",
+"trips": 23757
 },
 {
-"date": "2025-10-03",
-"mode": "rail_lrt_ampang",
-"trips": 231505
+"date": "2026-10-03",
+"mode": "rail_komuter_utara",
+"trips": 19886
 },
 {
-"date": "2025-10-04",
-"mode": "rail_lrt_ampang",
-"trips": 177261
+"date": "2026-10-04",
+"mode": "rail_komuter_utara",
+"trips": 21525
 },
 {
-"date": "2025-10-05",
-"mode": "rail_lrt_ampang",
-"trips": 151404
+"date": "2026-10-05",
+"mode": "rail_komuter_utara",
+"trips": 16834
 },
 {
-"date": "2025-10-06",
-"mode": "rail_lrt_ampang",
-"trips": 220172
+"date": "2026-10-06",
+"mode": "rail_komuter_utara",
+"trips": 14064
 },
 {
-"date": "2025-10-07",
-"mode": "rail_lrt_ampang",
-"trips": 231301
+"date": "2026-10-07",
+"mode": "rail_komuter_utara",
+"trips": 14491
 },
 {
-"date": "2025-10-08",
-"mode": "rail_lrt_ampang",
-"trips": 236636
+"date": "2026-10-08",
+"mode": "rail_komuter_utara",
+"trips": 19541
 },
 {
-"date": "2025-10-09",
-"mode": "rail_lrt_ampang",
-"trips": 226763
+"date": "2026-10-09",
+"mode": "rail_komuter_utara",
+"trips": 24372
 },
 {
-"date": "2025-10-10",
-"mode": "rail_lrt_ampang",
-"trips": 233265
+"date": "2026-10-10",
+"mode": "rail_komuter_utara",
+"trips": 20318
 },
 {
-"date": "2025-10-11",
-"mode": "rail_lrt_ampang",
-"trips": 156549
+"date": "2026-10-11",
+"mode": "rail_komuter_utara",
+"trips": 21237
 },
 {
-"date": "2025-10-12",
-"mode": "rail_lrt_ampang",
-"trips": 137030
+"date": "2026-10-12",
+"mode": "rail_komuter_utara",
+"trips": 17861
 },
 {
-"date": "2025-10-13",
-"mode": "rail_lrt_ampang",
-"trips": 221130
+"date": "2026-10-13",
+"mode": "rail_komuter_utara",
+"trips": 15591
 },
 {
-"date": "2025-10-14",
-"mode": "rail_lrt_ampang",
-"trips": 236420
+"date": "2026-10-14",
+"mode": "rail_komuter_utara",
+"trips": 14900
 },
 {
-"date": "2025-10-15",
-"mode": "rail_lrt_ampang",
-"trips": 230576
+"date": "2026-10-15",
+"mode": "rail_komuter_utara",
+"trips": 18369
 },
 {
-"date": "2025-10-16",
-"mode": "rail_lrt_ampang",
-"trips": 229042
+"date": "2026-10-16",
+"mode": "rail_komuter_utara",
+"trips": 21879
 },
 {
-"date": "2025-10-17",
-"mode": "rail_lrt_ampang",
-"trips": 232219
+"date": "2026-10-17",
+"mode": "rail_komuter_utara",
+"trips": 19251
 },
 {
-"date": "2025-10-18",
-"mode": "rail_lrt_ampang",
-"trips": 158967
+"date": "2026-10-18",
+"mode": "rail_komuter_utara",
+"trips": 20992
 },
 {
-"date": "2025-10-19",
-"mode": "rail_lrt_ampang",
-"trips": 147909
+"date": "2026-10-19",
+"mode": "rail_komuter_utara",
+"trips": 17040
 },
 {
-"date": "2025-10-20",
-"mode": "rail_lrt_ampang",
-"trips": 130003
+"date": "2026-10-20",
+"mode": "rail_komuter_utara",
+"trips": 14508
 },
 {
-"date": "2025-10-21",
-"mode": "rail_lrt_ampang",
-"trips": 202409
+"date": "2026-10-21",
+"mode": "rail_komuter_utara",
+"trips": 14014
 },
 {
-"date": "2025-10-22",
-"mode": "rail_lrt_ampang",
-"trips": 207047
+"date": "2026-10-22",
+"mode": "rail_komuter_utara",
+"trips": 17890
 },
 {
-"date": "2025-10-23",
-"mode": "rail_lrt_ampang",
-"trips": 205376
+"date": "2026-10-23",
+"mode": "rail_komuter_utara",
+"trips": 22701
 },
 {
-"date": "2025-10-24",
-"mode": "rail_lrt_ampang",
-"trips": 210983
+"date": "2026-10-24",
+"mode": "rail_komuter_utara",
+"trips": 18862
 },
 {
-"date": "2025-10-25",
-"mode": "rail_lrt_ampang",
-"trips": 172917
+"date": "2026-10-25",
+"mode": "rail_komuter_utara",
+"trips": 20044
 },
 {
-"date": "2025-10-26",
-"mode": "rail_lrt_ampang",
-"trips": 124217
+"date": "2026-10-26",
+"mode": "rail_komuter_utara",
+"trips": 16387
 },
 {
-"date": "2025-10-27",
-"mode": "rail_lrt_ampang",
-"trips": 188362
+"date": "2026-10-27",
+"mode": "rail_komuter_utara",
+"trips": 14120
 },
 {
-"date": "2025-10-28",
-"mode": "rail_lrt_ampang",
-"trips": 191938
+"date": "2026-10-28",
+"mode": "rail_komuter_utara",
+"trips": 14073
 },
 {
-"date": "2025-10-29",
-"mode": "rail_lrt_ampang",
-"trips": 218432
+"date": "2026-10-29",
+"mode": "rail_komuter_utara",
+"trips": 16715
 },
 {
-"date": "2025-10-30",
-"mode": "rail_lrt_ampang",
-"trips": 217969
+"date": "2026-10-30",
+"mode": "rail_komuter_utara",
+"trips": 20034
 },
 {
-"date": "2025-10-31",
-"mode": "rail_lrt_ampang",
-"trips": 225355
+"date": "2026-10-31",
+"mode": "rail_komuter_utara",
+"trips": 18528
 },
 {
 "date": "2025-11-01",
@@ -14600,309 +14295,309 @@
 "trips": 148823
 },
 {
-"date": "2025-09-01",
-"mode": "rail_lrt_kj",
-"trips": 136334
+"date": "2026-09-01",
+"mode": "rail_lrt_ampang",
+"trips": 202024
 },
 {
-"date": "2025-09-02",
-"mode": "rail_lrt_kj",
-"trips": 292560
+"date": "2026-09-02",
+"mode": "rail_lrt_ampang",
+"trips": 226663
 },
 {
-"date": "2025-09-03",
-"mode": "rail_lrt_kj",
-"trips": 298834
+"date": "2026-09-03",
+"mode": "rail_lrt_ampang",
+"trips": 221050
 },
 {
-"date": "2025-09-04",
-"mode": "rail_lrt_kj",
-"trips": 301093
+"date": "2026-09-04",
+"mode": "rail_lrt_ampang",
+"trips": 217901
 },
 {
-"date": "2025-09-05",
-"mode": "rail_lrt_kj",
-"trips": 157325
+"date": "2026-09-05",
+"mode": "rail_lrt_ampang",
+"trips": 154891
 },
 {
-"date": "2025-09-06",
-"mode": "rail_lrt_kj",
-"trips": 154070
+"date": "2026-09-06",
+"mode": "rail_lrt_ampang",
+"trips": 133323
 },
 {
-"date": "2025-09-07",
-"mode": "rail_lrt_kj",
-"trips": 135055
+"date": "2026-09-07",
+"mode": "rail_lrt_ampang",
+"trips": 221998
 },
 {
-"date": "2025-09-08",
-"mode": "rail_lrt_kj",
-"trips": 286375
+"date": "2026-09-08",
+"mode": "rail_lrt_ampang",
+"trips": 227975
 },
 {
-"date": "2025-09-09",
-"mode": "rail_lrt_kj",
-"trips": 304164
+"date": "2026-09-09",
+"mode": "rail_lrt_ampang",
+"trips": 228195
 },
 {
-"date": "2025-09-10",
-"mode": "rail_lrt_kj",
-"trips": 307969
+"date": "2026-09-10",
+"mode": "rail_lrt_ampang",
+"trips": 226408
 },
 {
-"date": "2025-09-11",
-"mode": "rail_lrt_kj",
-"trips": 301812
+"date": "2026-09-11",
+"mode": "rail_lrt_ampang",
+"trips": 228068
 },
 {
-"date": "2025-09-12",
-"mode": "rail_lrt_kj",
-"trips": 289356
+"date": "2026-09-12",
+"mode": "rail_lrt_ampang",
+"trips": 158837
 },
 {
-"date": "2025-09-13",
-"mode": "rail_lrt_kj",
-"trips": 169814
+"date": "2026-09-13",
+"mode": "rail_lrt_ampang",
+"trips": 135733
 },
 {
-"date": "2025-09-14",
-"mode": "rail_lrt_kj",
-"trips": 160941
+"date": "2026-09-14",
+"mode": "rail_lrt_ampang",
+"trips": 219102
 },
 {
-"date": "2025-09-15",
-"mode": "rail_lrt_kj",
-"trips": 162054
+"date": "2026-09-15",
+"mode": "rail_lrt_ampang",
+"trips": 222017
 },
 {
-"date": "2025-09-16",
-"mode": "rail_lrt_kj",
-"trips": 144887
+"date": "2026-09-16",
+"mode": "rail_lrt_ampang",
+"trips": 134369
 },
 {
-"date": "2025-09-17",
-"mode": "rail_lrt_kj",
-"trips": 294225
+"date": "2026-09-17",
+"mode": "rail_lrt_ampang",
+"trips": 215906
 },
 {
-"date": "2025-09-18",
-"mode": "rail_lrt_kj",
-"trips": 296587
+"date": "2026-09-18",
+"mode": "rail_lrt_ampang",
+"trips": 215265
 },
 {
-"date": "2025-09-19",
-"mode": "rail_lrt_kj",
-"trips": 283308
+"date": "2026-09-19",
+"mode": "rail_lrt_ampang",
+"trips": 145691
 },
 {
-"date": "2025-09-20",
-"mode": "rail_lrt_kj",
-"trips": 174407
+"date": "2026-09-20",
+"mode": "rail_lrt_ampang",
+"trips": 116769
 },
 {
-"date": "2025-09-21",
-"mode": "rail_lrt_kj",
-"trips": 128084
+"date": "2026-09-21",
+"mode": "rail_lrt_ampang",
+"trips": 218679
 },
 {
-"date": "2025-09-22",
-"mode": "rail_lrt_kj",
-"trips": 284721
+"date": "2026-09-22",
+"mode": "rail_lrt_ampang",
+"trips": 224879
 },
 {
-"date": "2025-09-23",
-"mode": "rail_lrt_kj",
-"trips": 302287
+"date": "2026-09-23",
+"mode": "rail_lrt_ampang",
+"trips": 225558
 },
 {
-"date": "2025-09-24",
-"mode": "rail_lrt_kj",
-"trips": 305537
+"date": "2026-09-24",
+"mode": "rail_lrt_ampang",
+"trips": 223739
 },
 {
-"date": "2025-09-25",
-"mode": "rail_lrt_kj",
-"trips": 302035
+"date": "2026-09-25",
+"mode": "rail_lrt_ampang",
+"trips": 224567
 },
 {
-"date": "2025-09-26",
-"mode": "rail_lrt_kj",
-"trips": 291930
+"date": "2026-09-26",
+"mode": "rail_lrt_ampang",
+"trips": 156733
 },
 {
-"date": "2025-09-27",
-"mode": "rail_lrt_kj",
-"trips": 159919
+"date": "2026-09-27",
+"mode": "rail_lrt_ampang",
+"trips": 134730
 },
 {
-"date": "2025-09-28",
-"mode": "rail_lrt_kj",
-"trips": 138535
+"date": "2026-09-28",
+"mode": "rail_lrt_ampang",
+"trips": 220668
 },
 {
-"date": "2025-09-29",
-"mode": "rail_lrt_kj",
-"trips": 280914
+"date": "2026-09-29",
+"mode": "rail_lrt_ampang",
+"trips": 222684
 },
 {
-"date": "2025-09-30",
-"mode": "rail_lrt_kj",
-"trips": 298226
+"date": "2026-09-30",
+"mode": "rail_lrt_ampang",
+"trips": 227115
 },
 {
-"date": "2025-10-01",
-"mode": "rail_lrt_kj",
-"trips": 304843
+"date": "2026-10-01",
+"mode": "rail_lrt_ampang",
+"trips": 228896
 },
 {
-"date": "2025-10-02",
-"mode": "rail_lrt_kj",
-"trips": 307655
+"date": "2026-10-02",
+"mode": "rail_lrt_ampang",
+"trips": 241023
 },
 {
-"date": "2025-10-03",
-"mode": "rail_lrt_kj",
-"trips": 305441
+"date": "2026-10-03",
+"mode": "rail_lrt_ampang",
+"trips": 181185
 },
 {
-"date": "2025-10-04",
-"mode": "rail_lrt_kj",
-"trips": 189878
+"date": "2026-10-04",
+"mode": "rail_lrt_ampang",
+"trips": 145827
 },
 {
-"date": "2025-10-05",
-"mode": "rail_lrt_kj",
-"trips": 157004
+"date": "2026-10-05",
+"mode": "rail_lrt_ampang",
+"trips": 227519
 },
 {
-"date": "2025-10-06",
-"mode": "rail_lrt_kj",
-"trips": 287228
+"date": "2026-10-06",
+"mode": "rail_lrt_ampang",
+"trips": 230272
 },
 {
-"date": "2025-10-07",
-"mode": "rail_lrt_kj",
-"trips": 307158
+"date": "2026-10-07",
+"mode": "rail_lrt_ampang",
+"trips": 230897
 },
 {
-"date": "2025-10-08",
-"mode": "rail_lrt_kj",
-"trips": 312054
+"date": "2026-10-08",
+"mode": "rail_lrt_ampang",
+"trips": 229713
 },
 {
-"date": "2025-10-09",
-"mode": "rail_lrt_kj",
-"trips": 283659
+"date": "2026-10-09",
+"mode": "rail_lrt_ampang",
+"trips": 220662
 },
 {
-"date": "2025-10-10",
-"mode": "rail_lrt_kj",
-"trips": 298490
+"date": "2026-10-10",
+"mode": "rail_lrt_ampang",
+"trips": 151657
 },
 {
-"date": "2025-10-11",
-"mode": "rail_lrt_kj",
-"trips": 163444
+"date": "2026-10-11",
+"mode": "rail_lrt_ampang",
+"trips": 134960
 },
 {
-"date": "2025-10-12",
-"mode": "rail_lrt_kj",
-"trips": 140958
+"date": "2026-10-12",
+"mode": "rail_lrt_ampang",
+"trips": 214890
 },
 {
-"date": "2025-10-13",
-"mode": "rail_lrt_kj",
-"trips": 286253
+"date": "2026-10-13",
+"mode": "rail_lrt_ampang",
+"trips": 225177
 },
 {
-"date": "2025-10-14",
-"mode": "rail_lrt_kj",
-"trips": 300359
+"date": "2026-10-14",
+"mode": "rail_lrt_ampang",
+"trips": 225770
 },
 {
-"date": "2025-10-15",
-"mode": "rail_lrt_kj",
-"trips": 305230
+"date": "2026-10-15",
+"mode": "rail_lrt_ampang",
+"trips": 223868
 },
 {
-"date": "2025-10-16",
-"mode": "rail_lrt_kj",
-"trips": 303578
+"date": "2026-10-16",
+"mode": "rail_lrt_ampang",
+"trips": 223537
 },
 {
-"date": "2025-10-17",
-"mode": "rail_lrt_kj",
-"trips": 291550
+"date": "2026-10-17",
+"mode": "rail_lrt_ampang",
+"trips": 207722
 },
 {
-"date": "2025-10-18",
-"mode": "rail_lrt_kj",
-"trips": 168833
+"date": "2026-10-18",
+"mode": "rail_lrt_ampang",
+"trips": 138528
 },
 {
-"date": "2025-10-19",
-"mode": "rail_lrt_kj",
-"trips": 164476
+"date": "2026-10-19",
+"mode": "rail_lrt_ampang",
+"trips": 216591
 },
 {
-"date": "2025-10-20",
-"mode": "rail_lrt_kj",
-"trips": 146421
+"date": "2026-10-20",
+"mode": "rail_lrt_ampang",
+"trips": 220877
 },
 {
-"date": "2025-10-21",
-"mode": "rail_lrt_kj",
-"trips": 266553
+"date": "2026-10-21",
+"mode": "rail_lrt_ampang",
+"trips": 221396
 },
 {
-"date": "2025-10-22",
-"mode": "rail_lrt_kj",
-"trips": 276730
+"date": "2026-10-22",
+"mode": "rail_lrt_ampang",
+"trips": 218766
 },
 {
-"date": "2025-10-23",
-"mode": "rail_lrt_kj",
-"trips": 262787
+"date": "2026-10-23",
+"mode": "rail_lrt_ampang",
+"trips": 220144
 },
 {
-"date": "2025-10-24",
-"mode": "rail_lrt_kj",
-"trips": 261888
+"date": "2026-10-24",
+"mode": "rail_lrt_ampang",
+"trips": 150619
 },
 {
-"date": "2025-10-25",
-"mode": "rail_lrt_kj",
-"trips": 170045
+"date": "2026-10-25",
+"mode": "rail_lrt_ampang",
+"trips": 132824
 },
 {
-"date": "2025-10-26",
-"mode": "rail_lrt_kj",
-"trips": 136719
+"date": "2026-10-26",
+"mode": "rail_lrt_ampang",
+"trips": 195490
 },
 {
-"date": "2025-10-27",
-"mode": "rail_lrt_kj",
-"trips": 239243
+"date": "2026-10-27",
+"mode": "rail_lrt_ampang",
+"trips": 217151
 },
 {
-"date": "2025-10-28",
-"mode": "rail_lrt_kj",
-"trips": 236369
+"date": "2026-10-28",
+"mode": "rail_lrt_ampang",
+"trips": 222828
 },
 {
-"date": "2025-10-29",
-"mode": "rail_lrt_kj",
-"trips": 289345
+"date": "2026-10-29",
+"mode": "rail_lrt_ampang",
+"trips": 221406
 },
 {
-"date": "2025-10-30",
-"mode": "rail_lrt_kj",
-"trips": 290912
+"date": "2026-10-30",
+"mode": "rail_lrt_ampang",
+"trips": 223969
 },
 {
-"date": "2025-10-31",
-"mode": "rail_lrt_kj",
-"trips": 284278
+"date": "2026-10-31",
+"mode": "rail_lrt_ampang",
+"trips": 159283
 },
 {
 "date": "2025-11-01",
@@ -16425,6 +16120,311 @@
 "trips": 165188
 },
 {
+"date": "2026-09-01",
+"mode": "rail_lrt_kj",
+"trips": 252470
+},
+{
+"date": "2026-09-02",
+"mode": "rail_lrt_kj",
+"trips": 306661
+},
+{
+"date": "2026-09-03",
+"mode": "rail_lrt_kj",
+"trips": 298277
+},
+{
+"date": "2026-09-04",
+"mode": "rail_lrt_kj",
+"trips": 287156
+},
+{
+"date": "2026-09-05",
+"mode": "rail_lrt_kj",
+"trips": 173171
+},
+{
+"date": "2026-09-06",
+"mode": "rail_lrt_kj",
+"trips": 142442
+},
+{
+"date": "2026-09-07",
+"mode": "rail_lrt_kj",
+"trips": 281904
+},
+{
+"date": "2026-09-08",
+"mode": "rail_lrt_kj",
+"trips": 295168
+},
+{
+"date": "2026-09-09",
+"mode": "rail_lrt_kj",
+"trips": 297253
+},
+{
+"date": "2026-09-10",
+"mode": "rail_lrt_kj",
+"trips": 290900
+},
+{
+"date": "2026-09-11",
+"mode": "rail_lrt_kj",
+"trips": 284024
+},
+{
+"date": "2026-09-12",
+"mode": "rail_lrt_kj",
+"trips": 184501
+},
+{
+"date": "2026-09-13",
+"mode": "rail_lrt_kj",
+"trips": 148024
+},
+{
+"date": "2026-09-14",
+"mode": "rail_lrt_kj",
+"trips": 276769
+},
+{
+"date": "2026-09-15",
+"mode": "rail_lrt_kj",
+"trips": 287213
+},
+{
+"date": "2026-09-16",
+"mode": "rail_lrt_kj",
+"trips": 153657
+},
+{
+"date": "2026-09-17",
+"mode": "rail_lrt_kj",
+"trips": 273044
+},
+{
+"date": "2026-09-18",
+"mode": "rail_lrt_kj",
+"trips": 270076
+},
+{
+"date": "2026-09-19",
+"mode": "rail_lrt_kj",
+"trips": 170236
+},
+{
+"date": "2026-09-20",
+"mode": "rail_lrt_kj",
+"trips": 125291
+},
+{
+"date": "2026-09-21",
+"mode": "rail_lrt_kj",
+"trips": 274251
+},
+{
+"date": "2026-09-22",
+"mode": "rail_lrt_kj",
+"trips": 290744
+},
+{
+"date": "2026-09-23",
+"mode": "rail_lrt_kj",
+"trips": 292989
+},
+{
+"date": "2026-09-24",
+"mode": "rail_lrt_kj",
+"trips": 287638
+},
+{
+"date": "2026-09-25",
+"mode": "rail_lrt_kj",
+"trips": 284502
+},
+{
+"date": "2026-09-26",
+"mode": "rail_lrt_kj",
+"trips": 165755
+},
+{
+"date": "2026-09-27",
+"mode": "rail_lrt_kj",
+"trips": 142312
+},
+{
+"date": "2026-09-28",
+"mode": "rail_lrt_kj",
+"trips": 278222
+},
+{
+"date": "2026-09-29",
+"mode": "rail_lrt_kj",
+"trips": 288544
+},
+{
+"date": "2026-09-30",
+"mode": "rail_lrt_kj",
+"trips": 298205
+},
+{
+"date": "2026-10-01",
+"mode": "rail_lrt_kj",
+"trips": 297227
+},
+{
+"date": "2026-10-02",
+"mode": "rail_lrt_kj",
+"trips": 303674
+},
+{
+"date": "2026-10-03",
+"mode": "rail_lrt_kj",
+"trips": 202038
+},
+{
+"date": "2026-10-04",
+"mode": "rail_lrt_kj",
+"trips": 162379
+},
+{
+"date": "2026-10-05",
+"mode": "rail_lrt_kj",
+"trips": 287480
+},
+{
+"date": "2026-10-06",
+"mode": "rail_lrt_kj",
+"trips": 296387
+},
+{
+"date": "2026-10-07",
+"mode": "rail_lrt_kj",
+"trips": 296078
+},
+{
+"date": "2026-10-08",
+"mode": "rail_lrt_kj",
+"trips": 291713
+},
+{
+"date": "2026-10-09",
+"mode": "rail_lrt_kj",
+"trips": 276437
+},
+{
+"date": "2026-10-10",
+"mode": "rail_lrt_kj",
+"trips": 162802
+},
+{
+"date": "2026-10-11",
+"mode": "rail_lrt_kj",
+"trips": 141627
+},
+{
+"date": "2026-10-12",
+"mode": "rail_lrt_kj",
+"trips": 275323
+},
+{
+"date": "2026-10-13",
+"mode": "rail_lrt_kj",
+"trips": 287968
+},
+{
+"date": "2026-10-14",
+"mode": "rail_lrt_kj",
+"trips": 292218
+},
+{
+"date": "2026-10-15",
+"mode": "rail_lrt_kj",
+"trips": 288198
+},
+{
+"date": "2026-10-16",
+"mode": "rail_lrt_kj",
+"trips": 278275
+},
+{
+"date": "2026-10-17",
+"mode": "rail_lrt_kj",
+"trips": 166214
+},
+{
+"date": "2026-10-18",
+"mode": "rail_lrt_kj",
+"trips": 138384
+},
+{
+"date": "2026-10-19",
+"mode": "rail_lrt_kj",
+"trips": 271485
+},
+{
+"date": "2026-10-20",
+"mode": "rail_lrt_kj",
+"trips": 288015
+},
+{
+"date": "2026-10-21",
+"mode": "rail_lrt_kj",
+"trips": 286665
+},
+{
+"date": "2026-10-22",
+"mode": "rail_lrt_kj",
+"trips": 285826
+},
+{
+"date": "2026-10-23",
+"mode": "rail_lrt_kj",
+"trips": 279165
+},
+{
+"date": "2026-10-24",
+"mode": "rail_lrt_kj",
+"trips": 161480
+},
+{
+"date": "2026-10-25",
+"mode": "rail_lrt_kj",
+"trips": 139912
+},
+{
+"date": "2026-10-26",
+"mode": "rail_lrt_kj",
+"trips": 239202
+},
+{
+"date": "2026-10-27",
+"mode": "rail_lrt_kj",
+"trips": 284322
+},
+{
+"date": "2026-10-28",
+"mode": "rail_lrt_kj",
+"trips": 295236
+},
+{
+"date": "2026-10-29",
+"mode": "rail_lrt_kj",
+"trips": 291615
+},
+{
+"date": "2026-10-30",
+"mode": "rail_lrt_kj",
+"trips": 287246
+},
+{
+"date": "2026-10-31",
+"mode": "rail_lrt_kj",
+"trips": 177109
+},
+{
 "date": "2026-04-01",
 "mode": "rail_lrt_shah_alam",
 "trips": 0
@@ -16571,6 +16571,146 @@
 },
 {
 "date": "2026-04-30",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-01",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-02",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-03",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-04",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-05",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-06",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-07",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-08",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-09",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-10",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-11",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-12",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-13",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-14",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-15",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-16",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-17",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-18",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-19",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-20",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-21",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-22",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-23",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-24",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-25",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-26",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-27",
+"mode": "rail_lrt_shah_alam",
+"trips": 0
+},
+{
+"date": "2026-06-28",
 "mode": "rail_lrt_shah_alam",
 "trips": 0
 },
@@ -16895,309 +17035,309 @@
 "trips": 29485
 },
 {
-"date": "2025-09-01",
-"mode": "rail_monorail",
-"trips": 44882
+"date": "2026-09-01",
+"mode": "rail_lrt_shah_alam",
+"trips": 28012
 },
 {
-"date": "2025-09-02",
-"mode": "rail_monorail",
-"trips": 57960
+"date": "2026-09-02",
+"mode": "rail_lrt_shah_alam",
+"trips": 34933
 },
 {
-"date": "2025-09-03",
-"mode": "rail_monorail",
-"trips": 57851
+"date": "2026-09-03",
+"mode": "rail_lrt_shah_alam",
+"trips": 35066
 },
 {
-"date": "2025-09-04",
-"mode": "rail_monorail",
-"trips": 60603
+"date": "2026-09-04",
+"mode": "rail_lrt_shah_alam",
+"trips": 32526
 },
 {
-"date": "2025-09-05",
-"mode": "rail_monorail",
-"trips": 50714
+"date": "2026-09-05",
+"mode": "rail_lrt_shah_alam",
+"trips": 24769
 },
 {
-"date": "2025-09-06",
-"mode": "rail_monorail",
-"trips": 50608
+"date": "2026-09-06",
+"mode": "rail_lrt_shah_alam",
+"trips": 21695
 },
 {
-"date": "2025-09-07",
-"mode": "rail_monorail",
-"trips": 45146
+"date": "2026-09-07",
+"mode": "rail_lrt_shah_alam",
+"trips": 33065
 },
 {
-"date": "2025-09-08",
-"mode": "rail_monorail",
-"trips": 56645
+"date": "2026-09-08",
+"mode": "rail_lrt_shah_alam",
+"trips": 33540
 },
 {
-"date": "2025-09-09",
-"mode": "rail_monorail",
-"trips": 57465
+"date": "2026-09-09",
+"mode": "rail_lrt_shah_alam",
+"trips": 34126
 },
 {
-"date": "2025-09-10",
-"mode": "rail_monorail",
-"trips": 57519
+"date": "2026-09-10",
+"mode": "rail_lrt_shah_alam",
+"trips": 33162
 },
 {
-"date": "2025-09-11",
-"mode": "rail_monorail",
-"trips": 58157
+"date": "2026-09-11",
+"mode": "rail_lrt_shah_alam",
+"trips": 33022
 },
 {
-"date": "2025-09-12",
-"mode": "rail_monorail",
-"trips": 61309
+"date": "2026-09-12",
+"mode": "rail_lrt_shah_alam",
+"trips": 23329
 },
 {
-"date": "2025-09-13",
-"mode": "rail_monorail",
-"trips": 51508
+"date": "2026-09-13",
+"mode": "rail_lrt_shah_alam",
+"trips": 21309
 },
 {
-"date": "2025-09-14",
-"mode": "rail_monorail",
-"trips": 62401
+"date": "2026-09-14",
+"mode": "rail_lrt_shah_alam",
+"trips": 31911
 },
 {
-"date": "2025-09-15",
-"mode": "rail_monorail",
-"trips": 61584
+"date": "2026-09-15",
+"mode": "rail_lrt_shah_alam",
+"trips": 33992
 },
 {
-"date": "2025-09-16",
-"mode": "rail_monorail",
-"trips": 49201
+"date": "2026-09-16",
+"mode": "rail_lrt_shah_alam",
+"trips": 25143
 },
 {
-"date": "2025-09-17",
-"mode": "rail_monorail",
-"trips": 60027
+"date": "2026-09-17",
+"mode": "rail_lrt_shah_alam",
+"trips": 33180
 },
 {
-"date": "2025-09-18",
-"mode": "rail_monorail",
-"trips": 60301
+"date": "2026-09-18",
+"mode": "rail_lrt_shah_alam",
+"trips": 31960
 },
 {
-"date": "2025-09-19",
-"mode": "rail_monorail",
-"trips": 60219
+"date": "2026-09-19",
+"mode": "rail_lrt_shah_alam",
+"trips": 22673
 },
 {
-"date": "2025-09-20",
-"mode": "rail_monorail",
-"trips": 49608
+"date": "2026-09-20",
+"mode": "rail_lrt_shah_alam",
+"trips": 18566
 },
 {
-"date": "2025-09-21",
-"mode": "rail_monorail",
-"trips": 41658
+"date": "2026-09-21",
+"mode": "rail_lrt_shah_alam",
+"trips": 33145
 },
 {
-"date": "2025-09-22",
-"mode": "rail_monorail",
-"trips": 54440
+"date": "2026-09-22",
+"mode": "rail_lrt_shah_alam",
+"trips": 34543
 },
 {
-"date": "2025-09-23",
-"mode": "rail_monorail",
-"trips": 56780
+"date": "2026-09-23",
+"mode": "rail_lrt_shah_alam",
+"trips": 35142
 },
 {
-"date": "2025-09-24",
-"mode": "rail_monorail",
-"trips": 56166
+"date": "2026-09-24",
+"mode": "rail_lrt_shah_alam",
+"trips": 35242
 },
 {
-"date": "2025-09-25",
-"mode": "rail_monorail",
-"trips": 58379
+"date": "2026-09-25",
+"mode": "rail_lrt_shah_alam",
+"trips": 34152
 },
 {
-"date": "2025-09-26",
-"mode": "rail_monorail",
-"trips": 62650
+"date": "2026-09-26",
+"mode": "rail_lrt_shah_alam",
+"trips": 22978
 },
 {
-"date": "2025-09-27",
-"mode": "rail_monorail",
-"trips": 53706
+"date": "2026-09-27",
+"mode": "rail_lrt_shah_alam",
+"trips": 20854
 },
 {
-"date": "2025-09-28",
-"mode": "rail_monorail",
-"trips": 46389
+"date": "2026-09-28",
+"mode": "rail_lrt_shah_alam",
+"trips": 34810
 },
 {
-"date": "2025-09-29",
-"mode": "rail_monorail",
-"trips": 56746
+"date": "2026-09-29",
+"mode": "rail_lrt_shah_alam",
+"trips": 36147
 },
 {
-"date": "2025-09-30",
-"mode": "rail_monorail",
-"trips": 56872
+"date": "2026-09-30",
+"mode": "rail_lrt_shah_alam",
+"trips": 36587
 },
 {
-"date": "2025-10-01",
-"mode": "rail_monorail",
-"trips": 58411
+"date": "2026-10-01",
+"mode": "rail_lrt_shah_alam",
+"trips": 36965
 },
 {
-"date": "2025-10-02",
-"mode": "rail_monorail",
-"trips": 59703
+"date": "2026-10-02",
+"mode": "rail_lrt_shah_alam",
+"trips": 38707
 },
 {
-"date": "2025-10-03",
-"mode": "rail_monorail",
-"trips": 67939
+"date": "2026-10-03",
+"mode": "rail_lrt_shah_alam",
+"trips": 28317
 },
 {
-"date": "2025-10-04",
-"mode": "rail_monorail",
-"trips": 66778
+"date": "2026-10-04",
+"mode": "rail_lrt_shah_alam",
+"trips": 23327
 },
 {
-"date": "2025-10-05",
-"mode": "rail_monorail",
-"trips": 60600
+"date": "2026-10-05",
+"mode": "rail_lrt_shah_alam",
+"trips": 35966
 },
 {
-"date": "2025-10-06",
-"mode": "rail_monorail",
-"trips": 60047
+"date": "2026-10-06",
+"mode": "rail_lrt_shah_alam",
+"trips": 37196
 },
 {
-"date": "2025-10-07",
-"mode": "rail_monorail",
-"trips": 60882
+"date": "2026-10-07",
+"mode": "rail_lrt_shah_alam",
+"trips": 37635
 },
 {
-"date": "2025-10-08",
-"mode": "rail_monorail",
-"trips": 62854
+"date": "2026-10-08",
+"mode": "rail_lrt_shah_alam",
+"trips": 37539
 },
 {
-"date": "2025-10-09",
-"mode": "rail_monorail",
-"trips": 63414
+"date": "2026-10-09",
+"mode": "rail_lrt_shah_alam",
+"trips": 36169
 },
 {
-"date": "2025-10-10",
-"mode": "rail_monorail",
-"trips": 70707
+"date": "2026-10-10",
+"mode": "rail_lrt_shah_alam",
+"trips": 24071
 },
 {
-"date": "2025-10-11",
-"mode": "rail_monorail",
-"trips": 60885
+"date": "2026-10-11",
+"mode": "rail_lrt_shah_alam",
+"trips": 22425
 },
 {
-"date": "2025-10-12",
-"mode": "rail_monorail",
-"trips": 50828
+"date": "2026-10-12",
+"mode": "rail_lrt_shah_alam",
+"trips": 34791
 },
 {
-"date": "2025-10-13",
-"mode": "rail_monorail",
-"trips": 61014
+"date": "2026-10-13",
+"mode": "rail_lrt_shah_alam",
+"trips": 36254
 },
 {
-"date": "2025-10-14",
-"mode": "rail_monorail",
-"trips": 60826
+"date": "2026-10-14",
+"mode": "rail_lrt_shah_alam",
+"trips": 36527
 },
 {
-"date": "2025-10-15",
-"mode": "rail_monorail",
-"trips": 60737
+"date": "2026-10-15",
+"mode": "rail_lrt_shah_alam",
+"trips": 36260
 },
 {
-"date": "2025-10-16",
-"mode": "rail_monorail",
-"trips": 61006
+"date": "2026-10-16",
+"mode": "rail_lrt_shah_alam",
+"trips": 34558
 },
 {
-"date": "2025-10-17",
-"mode": "rail_monorail",
-"trips": 63450
+"date": "2026-10-17",
+"mode": "rail_lrt_shah_alam",
+"trips": 24732
 },
 {
-"date": "2025-10-18",
-"mode": "rail_monorail",
-"trips": 55167
+"date": "2026-10-18",
+"mode": "rail_lrt_shah_alam",
+"trips": 21333
 },
 {
-"date": "2025-10-19",
-"mode": "rail_monorail",
-"trips": 62648
+"date": "2026-10-19",
+"mode": "rail_lrt_shah_alam",
+"trips": 34965
 },
 {
-"date": "2025-10-20",
-"mode": "rail_monorail",
-"trips": 51383
+"date": "2026-10-20",
+"mode": "rail_lrt_shah_alam",
+"trips": 36223
 },
 {
-"date": "2025-10-21",
-"mode": "rail_monorail",
-"trips": 57738
+"date": "2026-10-21",
+"mode": "rail_lrt_shah_alam",
+"trips": 36180
 },
 {
-"date": "2025-10-22",
-"mode": "rail_monorail",
-"trips": 57957
+"date": "2026-10-22",
+"mode": "rail_lrt_shah_alam",
+"trips": 36041
 },
 {
-"date": "2025-10-23",
-"mode": "rail_monorail",
-"trips": 54939
+"date": "2026-10-23",
+"mode": "rail_lrt_shah_alam",
+"trips": 35658
 },
 {
-"date": "2025-10-24",
-"mode": "rail_monorail",
-"trips": 60204
+"date": "2026-10-24",
+"mode": "rail_lrt_shah_alam",
+"trips": 23535
 },
 {
-"date": "2025-10-25",
-"mode": "rail_monorail",
-"trips": 59288
+"date": "2026-10-25",
+"mode": "rail_lrt_shah_alam",
+"trips": 21172
 },
 {
-"date": "2025-10-26",
-"mode": "rail_monorail",
-"trips": 53266
+"date": "2026-10-26",
+"mode": "rail_lrt_shah_alam",
+"trips": 25858
 },
 {
-"date": "2025-10-27",
-"mode": "rail_monorail",
-"trips": 52155
+"date": "2026-10-27",
+"mode": "rail_lrt_shah_alam",
+"trips": 35926
 },
 {
-"date": "2025-10-28",
-"mode": "rail_monorail",
-"trips": 50478
+"date": "2026-10-28",
+"mode": "rail_lrt_shah_alam",
+"trips": 37365
 },
 {
-"date": "2025-10-29",
-"mode": "rail_monorail",
-"trips": 59506
+"date": "2026-10-29",
+"mode": "rail_lrt_shah_alam",
+"trips": 36650
 },
 {
-"date": "2025-10-30",
-"mode": "rail_monorail",
-"trips": 59012
+"date": "2026-10-30",
+"mode": "rail_lrt_shah_alam",
+"trips": 36719
 },
 {
-"date": "2025-10-31",
-"mode": "rail_monorail",
-"trips": 62927
+"date": "2026-10-31",
+"mode": "rail_lrt_shah_alam",
+"trips": 25470
 },
 {
 "date": "2025-11-01",
@@ -18720,309 +18860,309 @@
 "trips": 56419
 },
 {
-"date": "2025-09-01",
-"mode": "rail_mrt_kajang",
-"trips": 173532
+"date": "2026-09-01",
+"mode": "rail_monorail",
+"trips": 61520
 },
 {
-"date": "2025-09-02",
-"mode": "rail_mrt_kajang",
-"trips": 280970
+"date": "2026-09-02",
+"mode": "rail_monorail",
+"trips": 65327
 },
 {
-"date": "2025-09-03",
-"mode": "rail_mrt_kajang",
-"trips": 287976
+"date": "2026-09-03",
+"mode": "rail_monorail",
+"trips": 63148
 },
 {
-"date": "2025-09-04",
-"mode": "rail_mrt_kajang",
-"trips": 293304
+"date": "2026-09-04",
+"mode": "rail_monorail",
+"trips": 63532
 },
 {
-"date": "2025-09-05",
-"mode": "rail_mrt_kajang",
-"trips": 196656
+"date": "2026-09-05",
+"mode": "rail_monorail",
+"trips": 52948
 },
 {
-"date": "2025-09-06",
-"mode": "rail_mrt_kajang",
-"trips": 203072
+"date": "2026-09-06",
+"mode": "rail_monorail",
+"trips": 44043
 },
 {
-"date": "2025-09-07",
-"mode": "rail_mrt_kajang",
-"trips": 168499
+"date": "2026-09-07",
+"mode": "rail_monorail",
+"trips": 58960
 },
 {
-"date": "2025-09-08",
-"mode": "rail_mrt_kajang",
-"trips": 280364
+"date": "2026-09-08",
+"mode": "rail_monorail",
+"trips": 61662
 },
 {
-"date": "2025-09-09",
-"mode": "rail_mrt_kajang",
-"trips": 295291
+"date": "2026-09-09",
+"mode": "rail_monorail",
+"trips": 61594
 },
 {
-"date": "2025-09-10",
-"mode": "rail_mrt_kajang",
-"trips": 298665
+"date": "2026-09-10",
+"mode": "rail_monorail",
+"trips": 60251
 },
 {
-"date": "2025-09-11",
-"mode": "rail_mrt_kajang",
-"trips": 291716
+"date": "2026-09-11",
+"mode": "rail_monorail",
+"trips": 63181
 },
 {
-"date": "2025-09-12",
-"mode": "rail_mrt_kajang",
-"trips": 287415
+"date": "2026-09-12",
+"mode": "rail_monorail",
+"trips": 53525
 },
 {
-"date": "2025-09-13",
-"mode": "rail_mrt_kajang",
-"trips": 222694
+"date": "2026-09-13",
+"mode": "rail_monorail",
+"trips": 45040
 },
 {
-"date": "2025-09-14",
-"mode": "rail_mrt_kajang",
-"trips": 211539
+"date": "2026-09-14",
+"mode": "rail_monorail",
+"trips": 56040
 },
 {
-"date": "2025-09-15",
-"mode": "rail_mrt_kajang",
-"trips": 219663
+"date": "2026-09-15",
+"mode": "rail_monorail",
+"trips": 58335
 },
 {
-"date": "2025-09-16",
-"mode": "rail_mrt_kajang",
-"trips": 188728
+"date": "2026-09-16",
+"mode": "rail_monorail",
+"trips": 44632
 },
 {
-"date": "2025-09-17",
-"mode": "rail_mrt_kajang",
-"trips": 294289
+"date": "2026-09-17",
+"mode": "rail_monorail",
+"trips": 56369
 },
 {
-"date": "2025-09-18",
-"mode": "rail_mrt_kajang",
-"trips": 295426
+"date": "2026-09-18",
+"mode": "rail_monorail",
+"trips": 59122
 },
 {
-"date": "2025-09-19",
-"mode": "rail_mrt_kajang",
-"trips": 286752
+"date": "2026-09-19",
+"mode": "rail_monorail",
+"trips": 51632
 },
 {
-"date": "2025-09-20",
-"mode": "rail_mrt_kajang",
-"trips": 203266
+"date": "2026-09-20",
+"mode": "rail_monorail",
+"trips": 38954
 },
 {
-"date": "2025-09-21",
-"mode": "rail_mrt_kajang",
-"trips": 166076
+"date": "2026-09-21",
+"mode": "rail_monorail",
+"trips": 57327
 },
 {
-"date": "2025-09-22",
-"mode": "rail_mrt_kajang",
-"trips": 276528
+"date": "2026-09-22",
+"mode": "rail_monorail",
+"trips": 58490
 },
 {
-"date": "2025-09-23",
-"mode": "rail_mrt_kajang",
-"trips": 288690
+"date": "2026-09-23",
+"mode": "rail_monorail",
+"trips": 58211
 },
 {
-"date": "2025-09-24",
-"mode": "rail_mrt_kajang",
-"trips": 292211
+"date": "2026-09-24",
+"mode": "rail_monorail",
+"trips": 58722
 },
 {
-"date": "2025-09-25",
-"mode": "rail_mrt_kajang",
-"trips": 287722
+"date": "2026-09-25",
+"mode": "rail_monorail",
+"trips": 65264
 },
 {
-"date": "2025-09-26",
-"mode": "rail_mrt_kajang",
-"trips": 287774
+"date": "2026-09-26",
+"mode": "rail_monorail",
+"trips": 54939
 },
 {
-"date": "2025-09-27",
-"mode": "rail_mrt_kajang",
-"trips": 207324
+"date": "2026-09-27",
+"mode": "rail_monorail",
+"trips": 49095
 },
 {
-"date": "2025-09-28",
-"mode": "rail_mrt_kajang",
-"trips": 173865
+"date": "2026-09-28",
+"mode": "rail_monorail",
+"trips": 57991
 },
 {
-"date": "2025-09-29",
-"mode": "rail_mrt_kajang",
-"trips": 278409
+"date": "2026-09-29",
+"mode": "rail_monorail",
+"trips": 58213
 },
 {
-"date": "2025-09-30",
-"mode": "rail_mrt_kajang",
-"trips": 291732
+"date": "2026-09-30",
+"mode": "rail_monorail",
+"trips": 59900
 },
 {
-"date": "2025-10-01",
-"mode": "rail_mrt_kajang",
-"trips": 298481
+"date": "2026-10-01",
+"mode": "rail_monorail",
+"trips": 61394
 },
 {
-"date": "2025-10-02",
-"mode": "rail_mrt_kajang",
-"trips": 296695
+"date": "2026-10-02",
+"mode": "rail_monorail",
+"trips": 68284
 },
 {
-"date": "2025-10-03",
-"mode": "rail_mrt_kajang",
-"trips": 298867
+"date": "2026-10-03",
+"mode": "rail_monorail",
+"trips": 62297
 },
 {
-"date": "2025-10-04",
-"mode": "rail_mrt_kajang",
-"trips": 229671
+"date": "2026-10-04",
+"mode": "rail_monorail",
+"trips": 52017
 },
 {
-"date": "2025-10-05",
-"mode": "rail_mrt_kajang",
-"trips": 192533
+"date": "2026-10-05",
+"mode": "rail_monorail",
+"trips": 61797
 },
 {
-"date": "2025-10-06",
-"mode": "rail_mrt_kajang",
-"trips": 281281
+"date": "2026-10-06",
+"mode": "rail_monorail",
+"trips": 60529
 },
 {
-"date": "2025-10-07",
-"mode": "rail_mrt_kajang",
-"trips": 297647
+"date": "2026-10-07",
+"mode": "rail_monorail",
+"trips": 60412
 },
 {
-"date": "2025-10-08",
-"mode": "rail_mrt_kajang",
-"trips": 302164
+"date": "2026-10-08",
+"mode": "rail_monorail",
+"trips": 61392
 },
 {
-"date": "2025-10-09",
-"mode": "rail_mrt_kajang",
-"trips": 293812
+"date": "2026-10-09",
+"mode": "rail_monorail",
+"trips": 61740
 },
 {
-"date": "2025-10-10",
-"mode": "rail_mrt_kajang",
-"trips": 299326
+"date": "2026-10-10",
+"mode": "rail_monorail",
+"trips": 51840
 },
 {
-"date": "2025-10-11",
-"mode": "rail_mrt_kajang",
-"trips": 215774
+"date": "2026-10-11",
+"mode": "rail_monorail",
+"trips": 46584
 },
 {
-"date": "2025-10-12",
-"mode": "rail_mrt_kajang",
-"trips": 177986
+"date": "2026-10-12",
+"mode": "rail_monorail",
+"trips": 57123
 },
 {
-"date": "2025-10-13",
-"mode": "rail_mrt_kajang",
-"trips": 280976
+"date": "2026-10-13",
+"mode": "rail_monorail",
+"trips": 59847
 },
 {
-"date": "2025-10-14",
-"mode": "rail_mrt_kajang",
-"trips": 292162
+"date": "2026-10-14",
+"mode": "rail_monorail",
+"trips": 59801
 },
 {
-"date": "2025-10-15",
-"mode": "rail_mrt_kajang",
-"trips": 298312
+"date": "2026-10-15",
+"mode": "rail_monorail",
+"trips": 58470
 },
 {
-"date": "2025-10-16",
-"mode": "rail_mrt_kajang",
-"trips": 291517
+"date": "2026-10-16",
+"mode": "rail_monorail",
+"trips": 62371
 },
 {
-"date": "2025-10-17",
-"mode": "rail_mrt_kajang",
-"trips": 291845
+"date": "2026-10-17",
+"mode": "rail_monorail",
+"trips": 54599
 },
 {
-"date": "2025-10-18",
-"mode": "rail_mrt_kajang",
-"trips": 215371
+"date": "2026-10-18",
+"mode": "rail_monorail",
+"trips": 46990
 },
 {
-"date": "2025-10-19",
-"mode": "rail_mrt_kajang",
-"trips": 213829
+"date": "2026-10-19",
+"mode": "rail_monorail",
+"trips": 54466
 },
 {
-"date": "2025-10-20",
-"mode": "rail_mrt_kajang",
-"trips": 184709
+"date": "2026-10-20",
+"mode": "rail_monorail",
+"trips": 58914
 },
 {
-"date": "2025-10-21",
-"mode": "rail_mrt_kajang",
-"trips": 273640
+"date": "2026-10-21",
+"mode": "rail_monorail",
+"trips": 55901
 },
 {
-"date": "2025-10-22",
-"mode": "rail_mrt_kajang",
-"trips": 266397
+"date": "2026-10-22",
+"mode": "rail_monorail",
+"trips": 58181
 },
 {
-"date": "2025-10-23",
-"mode": "rail_mrt_kajang",
-"trips": 262866
+"date": "2026-10-23",
+"mode": "rail_monorail",
+"trips": 59972
 },
 {
-"date": "2025-10-24",
-"mode": "rail_mrt_kajang",
-"trips": 270853
+"date": "2026-10-24",
+"mode": "rail_monorail",
+"trips": 51945
 },
 {
-"date": "2025-10-25",
-"mode": "rail_mrt_kajang",
-"trips": 196452
+"date": "2026-10-25",
+"mode": "rail_monorail",
+"trips": 45249
 },
 {
-"date": "2025-10-26",
-"mode": "rail_mrt_kajang",
-"trips": 151304
+"date": "2026-10-26",
+"mode": "rail_monorail",
+"trips": 58520
 },
 {
-"date": "2025-10-27",
-"mode": "rail_mrt_kajang",
-"trips": 231694
+"date": "2026-10-27",
+"mode": "rail_monorail",
+"trips": 57583
 },
 {
-"date": "2025-10-28",
-"mode": "rail_mrt_kajang",
-"trips": 246254
+"date": "2026-10-28",
+"mode": "rail_monorail",
+"trips": 61006
 },
 {
-"date": "2025-10-29",
-"mode": "rail_mrt_kajang",
-"trips": 285680
+"date": "2026-10-29",
+"mode": "rail_monorail",
+"trips": 60364
 },
 {
-"date": "2025-10-30",
-"mode": "rail_mrt_kajang",
-"trips": 285702
+"date": "2026-10-30",
+"mode": "rail_monorail",
+"trips": 63312
 },
 {
-"date": "2025-10-31",
-"mode": "rail_mrt_kajang",
-"trips": 291628
+"date": "2026-10-31",
+"mode": "rail_monorail",
+"trips": 54083
 },
 {
 "date": "2025-11-01",
@@ -20545,309 +20685,309 @@
 "trips": 214462
 },
 {
-"date": "2025-09-01",
-"mode": "rail_mrt_pjy",
-"trips": 91120
+"date": "2026-09-01",
+"mode": "rail_mrt_kajang",
+"trips": 276438
 },
 {
-"date": "2025-09-02",
-"mode": "rail_mrt_pjy",
-"trips": 184088
+"date": "2026-09-02",
+"mode": "rail_mrt_kajang",
+"trips": 310654
 },
 {
-"date": "2025-09-03",
-"mode": "rail_mrt_pjy",
-"trips": 186270
+"date": "2026-09-03",
+"mode": "rail_mrt_kajang",
+"trips": 308282
 },
 {
-"date": "2025-09-04",
-"mode": "rail_mrt_pjy",
-"trips": 187599
+"date": "2026-09-04",
+"mode": "rail_mrt_kajang",
+"trips": 300069
 },
 {
-"date": "2025-09-05",
-"mode": "rail_mrt_pjy",
-"trips": 102477
+"date": "2026-09-05",
+"mode": "rail_mrt_kajang",
+"trips": 214245
 },
 {
-"date": "2025-09-06",
-"mode": "rail_mrt_pjy",
-"trips": 103677
+"date": "2026-09-06",
+"mode": "rail_mrt_kajang",
+"trips": 177205
 },
 {
-"date": "2025-09-07",
-"mode": "rail_mrt_pjy",
-"trips": 89315
+"date": "2026-09-07",
+"mode": "rail_mrt_kajang",
+"trips": 291296
 },
 {
-"date": "2025-09-08",
-"mode": "rail_mrt_pjy",
-"trips": 182747
+"date": "2026-09-08",
+"mode": "rail_mrt_kajang",
+"trips": 304941
 },
 {
-"date": "2025-09-09",
-"mode": "rail_mrt_pjy",
-"trips": 190356
+"date": "2026-09-09",
+"mode": "rail_mrt_kajang",
+"trips": 307431
 },
 {
-"date": "2025-09-10",
-"mode": "rail_mrt_pjy",
-"trips": 191250
+"date": "2026-09-10",
+"mode": "rail_mrt_kajang",
+"trips": 300612
 },
 {
-"date": "2025-09-11",
-"mode": "rail_mrt_pjy",
-"trips": 186692
+"date": "2026-09-11",
+"mode": "rail_mrt_kajang",
+"trips": 298324
 },
 {
-"date": "2025-09-12",
-"mode": "rail_mrt_pjy",
-"trips": 183427
+"date": "2026-09-12",
+"mode": "rail_mrt_kajang",
+"trips": 217370
 },
 {
-"date": "2025-09-13",
-"mode": "rail_mrt_pjy",
-"trips": 118074
+"date": "2026-09-13",
+"mode": "rail_mrt_kajang",
+"trips": 184865
 },
 {
-"date": "2025-09-14",
-"mode": "rail_mrt_pjy",
-"trips": 109702
+"date": "2026-09-14",
+"mode": "rail_mrt_kajang",
+"trips": 286974
 },
 {
-"date": "2025-09-15",
-"mode": "rail_mrt_pjy",
-"trips": 115703
+"date": "2026-09-15",
+"mode": "rail_mrt_kajang",
+"trips": 300413
 },
 {
-"date": "2025-09-16",
-"mode": "rail_mrt_pjy",
-"trips": 103683
+"date": "2026-09-16",
+"mode": "rail_mrt_kajang",
+"trips": 224232
 },
 {
-"date": "2025-09-17",
-"mode": "rail_mrt_pjy",
-"trips": 181640
+"date": "2026-09-17",
+"mode": "rail_mrt_kajang",
+"trips": 289645
 },
 {
-"date": "2025-09-18",
-"mode": "rail_mrt_pjy",
-"trips": 183632
+"date": "2026-09-18",
+"mode": "rail_mrt_kajang",
+"trips": 287094
 },
 {
-"date": "2025-09-19",
-"mode": "rail_mrt_pjy",
-"trips": 176788
+"date": "2026-09-19",
+"mode": "rail_mrt_kajang",
+"trips": 207096
 },
 {
-"date": "2025-09-20",
-"mode": "rail_mrt_pjy",
-"trips": 110892
+"date": "2026-09-20",
+"mode": "rail_mrt_kajang",
+"trips": 160952
 },
 {
-"date": "2025-09-21",
-"mode": "rail_mrt_pjy",
-"trips": 88104
+"date": "2026-09-21",
+"mode": "rail_mrt_kajang",
+"trips": 288386
 },
 {
-"date": "2025-09-22",
-"mode": "rail_mrt_pjy",
-"trips": 180590
+"date": "2026-09-22",
+"mode": "rail_mrt_kajang",
+"trips": 301020
 },
 {
-"date": "2025-09-23",
-"mode": "rail_mrt_pjy",
-"trips": 180239
+"date": "2026-09-23",
+"mode": "rail_mrt_kajang",
+"trips": 304291
 },
 {
-"date": "2025-09-24",
-"mode": "rail_mrt_pjy",
-"trips": 186069
+"date": "2026-09-24",
+"mode": "rail_mrt_kajang",
+"trips": 301429
 },
 {
-"date": "2025-09-25",
-"mode": "rail_mrt_pjy",
-"trips": 186091
+"date": "2026-09-25",
+"mode": "rail_mrt_kajang",
+"trips": 302625
 },
 {
-"date": "2025-09-26",
-"mode": "rail_mrt_pjy",
-"trips": 179254
+"date": "2026-09-26",
+"mode": "rail_mrt_kajang",
+"trips": 216664
 },
 {
-"date": "2025-09-27",
-"mode": "rail_mrt_pjy",
-"trips": 111401
+"date": "2026-09-27",
+"mode": "rail_mrt_kajang",
+"trips": 184593
 },
 {
-"date": "2025-09-28",
-"mode": "rail_mrt_pjy",
-"trips": 91322
+"date": "2026-09-28",
+"mode": "rail_mrt_kajang",
+"trips": 293742
 },
 {
-"date": "2025-09-29",
-"mode": "rail_mrt_pjy",
-"trips": 177141
+"date": "2026-09-29",
+"mode": "rail_mrt_kajang",
+"trips": 301602
 },
 {
-"date": "2025-09-30",
-"mode": "rail_mrt_pjy",
-"trips": 184585
+"date": "2026-09-30",
+"mode": "rail_mrt_kajang",
+"trips": 308577
 },
 {
-"date": "2025-10-01",
-"mode": "rail_mrt_pjy",
-"trips": 187433
+"date": "2026-10-01",
+"mode": "rail_mrt_kajang",
+"trips": 308542
 },
 {
-"date": "2025-10-02",
-"mode": "rail_mrt_pjy",
-"trips": 189316
+"date": "2026-10-02",
+"mode": "rail_mrt_kajang",
+"trips": 323091
 },
 {
-"date": "2025-10-03",
-"mode": "rail_mrt_pjy",
-"trips": 187440
+"date": "2026-10-03",
+"mode": "rail_mrt_kajang",
+"trips": 247414
 },
 {
-"date": "2025-10-04",
-"mode": "rail_mrt_pjy",
-"trips": 119768
+"date": "2026-10-04",
+"mode": "rail_mrt_kajang",
+"trips": 195590
 },
 {
-"date": "2025-10-05",
-"mode": "rail_mrt_pjy",
-"trips": 98672
+"date": "2026-10-05",
+"mode": "rail_mrt_kajang",
+"trips": 301007
 },
 {
-"date": "2025-10-06",
-"mode": "rail_mrt_pjy",
-"trips": 180701
+"date": "2026-10-06",
+"mode": "rail_mrt_kajang",
+"trips": 308819
 },
 {
-"date": "2025-10-07",
-"mode": "rail_mrt_pjy",
-"trips": 191153
+"date": "2026-10-07",
+"mode": "rail_mrt_kajang",
+"trips": 310708
 },
 {
-"date": "2025-10-08",
-"mode": "rail_mrt_pjy",
-"trips": 194737
+"date": "2026-10-08",
+"mode": "rail_mrt_kajang",
+"trips": 309797
 },
 {
-"date": "2025-10-09",
-"mode": "rail_mrt_pjy",
-"trips": 190702
+"date": "2026-10-09",
+"mode": "rail_mrt_kajang",
+"trips": 298580
 },
 {
-"date": "2025-10-10",
-"mode": "rail_mrt_pjy",
-"trips": 189428
+"date": "2026-10-10",
+"mode": "rail_mrt_kajang",
+"trips": 211053
 },
 {
-"date": "2025-10-11",
-"mode": "rail_mrt_pjy",
-"trips": 117019
+"date": "2026-10-11",
+"mode": "rail_mrt_kajang",
+"trips": 184151
 },
 {
-"date": "2025-10-12",
-"mode": "rail_mrt_pjy",
-"trips": 96076
+"date": "2026-10-12",
+"mode": "rail_mrt_kajang",
+"trips": 284439
 },
 {
-"date": "2025-10-13",
-"mode": "rail_mrt_pjy",
-"trips": 183790
+"date": "2026-10-13",
+"mode": "rail_mrt_kajang",
+"trips": 298819
 },
 {
-"date": "2025-10-14",
-"mode": "rail_mrt_pjy",
-"trips": 189718
+"date": "2026-10-14",
+"mode": "rail_mrt_kajang",
+"trips": 302812
 },
 {
-"date": "2025-10-15",
-"mode": "rail_mrt_pjy",
-"trips": 191564
+"date": "2026-10-15",
+"mode": "rail_mrt_kajang",
+"trips": 299146
 },
 {
-"date": "2025-10-16",
-"mode": "rail_mrt_pjy",
-"trips": 188655
+"date": "2026-10-16",
+"mode": "rail_mrt_kajang",
+"trips": 296181
 },
 {
-"date": "2025-10-17",
-"mode": "rail_mrt_pjy",
-"trips": 184781
+"date": "2026-10-17",
+"mode": "rail_mrt_kajang",
+"trips": 210756
 },
 {
-"date": "2025-10-18",
-"mode": "rail_mrt_pjy",
-"trips": 116753
+"date": "2026-10-18",
+"mode": "rail_mrt_kajang",
+"trips": 182835
 },
 {
-"date": "2025-10-19",
-"mode": "rail_mrt_pjy",
-"trips": 110847
+"date": "2026-10-19",
+"mode": "rail_mrt_kajang",
+"trips": 283004
 },
 {
-"date": "2025-10-20",
-"mode": "rail_mrt_pjy",
-"trips": 103411
+"date": "2026-10-20",
+"mode": "rail_mrt_kajang",
+"trips": 296077
 },
 {
-"date": "2025-10-21",
-"mode": "rail_mrt_pjy",
-"trips": 171558
+"date": "2026-10-21",
+"mode": "rail_mrt_kajang",
+"trips": 299081
 },
 {
-"date": "2025-10-22",
-"mode": "rail_mrt_pjy",
-"trips": 175005
+"date": "2026-10-22",
+"mode": "rail_mrt_kajang",
+"trips": 295493
 },
 {
-"date": "2025-10-23",
-"mode": "rail_mrt_pjy",
-"trips": 171193
+"date": "2026-10-23",
+"mode": "rail_mrt_kajang",
+"trips": 297261
 },
 {
-"date": "2025-10-24",
-"mode": "rail_mrt_pjy",
-"trips": 173486
+"date": "2026-10-24",
+"mode": "rail_mrt_kajang",
+"trips": 211099
 },
 {
-"date": "2025-10-25",
-"mode": "rail_mrt_pjy",
-"trips": 32971
+"date": "2026-10-25",
+"mode": "rail_mrt_kajang",
+"trips": 180875
 },
 {
-"date": "2025-10-26",
-"mode": "rail_mrt_pjy",
-"trips": 30772
+"date": "2026-10-26",
+"mode": "rail_mrt_kajang",
+"trips": 263921
 },
 {
-"date": "2025-10-27",
-"mode": "rail_mrt_pjy",
-"trips": 102686
+"date": "2026-10-27",
+"mode": "rail_mrt_kajang",
+"trips": 294791
 },
 {
-"date": "2025-10-28",
-"mode": "rail_mrt_pjy",
-"trips": 145679
+"date": "2026-10-28",
+"mode": "rail_mrt_kajang",
+"trips": 303475
 },
 {
-"date": "2025-10-29",
-"mode": "rail_mrt_pjy",
-"trips": 177986
+"date": "2026-10-29",
+"mode": "rail_mrt_kajang",
+"trips": 302739
 },
 {
-"date": "2025-10-30",
-"mode": "rail_mrt_pjy",
-"trips": 180757
+"date": "2026-10-30",
+"mode": "rail_mrt_kajang",
+"trips": 308090
 },
 {
-"date": "2025-10-31",
-"mode": "rail_mrt_pjy",
-"trips": 179453
+"date": "2026-10-31",
+"mode": "rail_mrt_kajang",
+"trips": 231488
 },
 {
 "date": "2025-11-01",
@@ -22370,309 +22510,309 @@
 "trips": 149695
 },
 {
-"date": "2025-09-01",
-"mode": "rail_tebrau",
-"trips": 8537
+"date": "2026-09-01",
+"mode": "rail_mrt_pjy",
+"trips": 176919
 },
 {
-"date": "2025-09-02",
-"mode": "rail_tebrau",
-"trips": 8047
+"date": "2026-09-02",
+"mode": "rail_mrt_pjy",
+"trips": 183028
 },
 {
-"date": "2025-09-03",
-"mode": "rail_tebrau",
-"trips": 8322
+"date": "2026-09-03",
+"mode": "rail_mrt_pjy",
+"trips": 193049
 },
 {
-"date": "2025-09-04",
-"mode": "rail_tebrau",
-"trips": 8896
+"date": "2026-09-04",
+"mode": "rail_mrt_pjy",
+"trips": 185092
 },
 {
-"date": "2025-09-05",
-"mode": "rail_tebrau",
-"trips": 9707
+"date": "2026-09-05",
+"mode": "rail_mrt_pjy",
+"trips": 120206
 },
 {
-"date": "2025-09-06",
-"mode": "rail_tebrau",
-"trips": 8698
+"date": "2026-09-06",
+"mode": "rail_mrt_pjy",
+"trips": 101817
 },
 {
-"date": "2025-09-07",
-"mode": "rail_tebrau",
-"trips": 7638
+"date": "2026-09-07",
+"mode": "rail_mrt_pjy",
+"trips": 190682
 },
 {
-"date": "2025-09-08",
-"mode": "rail_tebrau",
-"trips": 8711
+"date": "2026-09-08",
+"mode": "rail_mrt_pjy",
+"trips": 196548
 },
 {
-"date": "2025-09-09",
-"mode": "rail_tebrau",
-"trips": 9235
+"date": "2026-09-09",
+"mode": "rail_mrt_pjy",
+"trips": 197992
 },
 {
-"date": "2025-09-10",
-"mode": "rail_tebrau",
-"trips": 9334
+"date": "2026-09-10",
+"mode": "rail_mrt_pjy",
+"trips": 193770
 },
 {
-"date": "2025-09-11",
-"mode": "rail_tebrau",
-"trips": 9018
+"date": "2026-09-11",
+"mode": "rail_mrt_pjy",
+"trips": 193473
 },
 {
-"date": "2025-09-12",
-"mode": "rail_tebrau",
-"trips": 9817
+"date": "2026-09-12",
+"mode": "rail_mrt_pjy",
+"trips": 142673
 },
 {
-"date": "2025-09-13",
-"mode": "rail_tebrau",
-"trips": 8561
+"date": "2026-09-13",
+"mode": "rail_mrt_pjy",
+"trips": 118262
 },
 {
-"date": "2025-09-14",
-"mode": "rail_tebrau",
-"trips": 7704
+"date": "2026-09-14",
+"mode": "rail_mrt_pjy",
+"trips": 191386
 },
 {
-"date": "2025-09-15",
-"mode": "rail_tebrau",
-"trips": 8996
+"date": "2026-09-15",
+"mode": "rail_mrt_pjy",
+"trips": 200181
 },
 {
-"date": "2025-09-16",
-"mode": "rail_tebrau",
-"trips": 9108
+"date": "2026-09-16",
+"mode": "rail_mrt_pjy",
+"trips": 133124
 },
 {
-"date": "2025-09-17",
-"mode": "rail_tebrau",
-"trips": 8620
+"date": "2026-09-17",
+"mode": "rail_mrt_pjy",
+"trips": 193078
 },
 {
-"date": "2025-09-18",
-"mode": "rail_tebrau",
-"trips": 8411
+"date": "2026-09-18",
+"mode": "rail_mrt_pjy",
+"trips": 191255
 },
 {
-"date": "2025-09-19",
-"mode": "rail_tebrau",
-"trips": 9381
+"date": "2026-09-19",
+"mode": "rail_mrt_pjy",
+"trips": 125377
 },
 {
-"date": "2025-09-20",
-"mode": "rail_tebrau",
-"trips": 8007
+"date": "2026-09-20",
+"mode": "rail_mrt_pjy",
+"trips": 95639
 },
 {
-"date": "2025-09-21",
-"mode": "rail_tebrau",
-"trips": 6832
+"date": "2026-09-21",
+"mode": "rail_mrt_pjy",
+"trips": 191802
 },
 {
-"date": "2025-09-22",
-"mode": "rail_tebrau",
-"trips": 8225
+"date": "2026-09-22",
+"mode": "rail_mrt_pjy",
+"trips": 195629
 },
 {
-"date": "2025-09-23",
-"mode": "rail_tebrau",
-"trips": 8311
+"date": "2026-09-23",
+"mode": "rail_mrt_pjy",
+"trips": 198020
 },
 {
-"date": "2025-09-24",
-"mode": "rail_tebrau",
-"trips": 7907
+"date": "2026-09-24",
+"mode": "rail_mrt_pjy",
+"trips": 197200
 },
 {
-"date": "2025-09-25",
-"mode": "rail_tebrau",
-"trips": 8680
+"date": "2026-09-25",
+"mode": "rail_mrt_pjy",
+"trips": 191114
 },
 {
-"date": "2025-09-26",
-"mode": "rail_tebrau",
-"trips": 9443
+"date": "2026-09-26",
+"mode": "rail_mrt_pjy",
+"trips": 120987
 },
 {
-"date": "2025-09-27",
-"mode": "rail_tebrau",
-"trips": 8324
+"date": "2026-09-27",
+"mode": "rail_mrt_pjy",
+"trips": 105160
 },
 {
-"date": "2025-09-28",
-"mode": "rail_tebrau",
-"trips": 7080
+"date": "2026-09-28",
+"mode": "rail_mrt_pjy",
+"trips": 195489
 },
 {
-"date": "2025-09-29",
-"mode": "rail_tebrau",
-"trips": 8263
+"date": "2026-09-29",
+"mode": "rail_mrt_pjy",
+"trips": 199288
 },
 {
-"date": "2025-09-30",
-"mode": "rail_tebrau",
-"trips": 8471
+"date": "2026-09-30",
+"mode": "rail_mrt_pjy",
+"trips": 201045
 },
 {
-"date": "2025-10-01",
-"mode": "rail_tebrau",
-"trips": 8523
+"date": "2026-10-01",
+"mode": "rail_mrt_pjy",
+"trips": 200345
 },
 {
-"date": "2025-10-02",
-"mode": "rail_tebrau",
-"trips": 8934
+"date": "2026-10-02",
+"mode": "rail_mrt_pjy",
+"trips": 209544
 },
 {
-"date": "2025-10-03",
-"mode": "rail_tebrau",
-"trips": 9959
+"date": "2026-10-03",
+"mode": "rail_mrt_pjy",
+"trips": 145112
 },
 {
-"date": "2025-10-04",
-"mode": "rail_tebrau",
-"trips": 8815
+"date": "2026-10-04",
+"mode": "rail_mrt_pjy",
+"trips": 113870
 },
 {
-"date": "2025-10-05",
-"mode": "rail_tebrau",
-"trips": 7246
+"date": "2026-10-05",
+"mode": "rail_mrt_pjy",
+"trips": 199996
 },
 {
-"date": "2025-10-06",
-"mode": "rail_tebrau",
-"trips": 8280
+"date": "2026-10-06",
+"mode": "rail_mrt_pjy",
+"trips": 201847
 },
 {
-"date": "2025-10-07",
-"mode": "rail_tebrau",
-"trips": 8258
+"date": "2026-10-07",
+"mode": "rail_mrt_pjy",
+"trips": 203760
 },
 {
-"date": "2025-10-08",
-"mode": "rail_tebrau",
-"trips": 8278
+"date": "2026-10-08",
+"mode": "rail_mrt_pjy",
+"trips": 201325
 },
 {
-"date": "2025-10-09",
-"mode": "rail_tebrau",
-"trips": 8216
+"date": "2026-10-09",
+"mode": "rail_mrt_pjy",
+"trips": 188520
 },
 {
-"date": "2025-10-10",
-"mode": "rail_tebrau",
-"trips": 9323
+"date": "2026-10-10",
+"mode": "rail_mrt_pjy",
+"trips": 116971
 },
 {
-"date": "2025-10-11",
-"mode": "rail_tebrau",
-"trips": 8495
+"date": "2026-10-11",
+"mode": "rail_mrt_pjy",
+"trips": 104317
 },
 {
-"date": "2025-10-12",
-"mode": "rail_tebrau",
-"trips": 7269
+"date": "2026-10-12",
+"mode": "rail_mrt_pjy",
+"trips": 192042
 },
 {
-"date": "2025-10-13",
-"mode": "rail_tebrau",
-"trips": 8420
+"date": "2026-10-13",
+"mode": "rail_mrt_pjy",
+"trips": 198352
 },
 {
-"date": "2025-10-14",
-"mode": "rail_tebrau",
-"trips": 8521
+"date": "2026-10-14",
+"mode": "rail_mrt_pjy",
+"trips": 200886
 },
 {
-"date": "2025-10-15",
-"mode": "rail_tebrau",
-"trips": 8586
+"date": "2026-10-15",
+"mode": "rail_mrt_pjy",
+"trips": 195032
 },
 {
-"date": "2025-10-16",
-"mode": "rail_tebrau",
-"trips": 8689
+"date": "2026-10-16",
+"mode": "rail_mrt_pjy",
+"trips": 189567
 },
 {
-"date": "2025-10-17",
-"mode": "rail_tebrau",
-"trips": 9452
+"date": "2026-10-17",
+"mode": "rail_mrt_pjy",
+"trips": 122155
 },
 {
-"date": "2025-10-18",
-"mode": "rail_tebrau",
-"trips": 8975
+"date": "2026-10-18",
+"mode": "rail_mrt_pjy",
+"trips": 101279
 },
 {
-"date": "2025-10-19",
-"mode": "rail_tebrau",
-"trips": 8191
+"date": "2026-10-19",
+"mode": "rail_mrt_pjy",
+"trips": 189494
 },
 {
-"date": "2025-10-20",
-"mode": "rail_tebrau",
-"trips": 7146
+"date": "2026-10-20",
+"mode": "rail_mrt_pjy",
+"trips": 194106
 },
 {
-"date": "2025-10-21",
-"mode": "rail_tebrau",
-"trips": 8537
+"date": "2026-10-21",
+"mode": "rail_mrt_pjy",
+"trips": 194475
 },
 {
-"date": "2025-10-22",
-"mode": "rail_tebrau",
-"trips": 8189
+"date": "2026-10-22",
+"mode": "rail_mrt_pjy",
+"trips": 192668
 },
 {
-"date": "2025-10-23",
-"mode": "rail_tebrau",
-"trips": 8049
+"date": "2026-10-23",
+"mode": "rail_mrt_pjy",
+"trips": 191220
 },
 {
-"date": "2025-10-24",
-"mode": "rail_tebrau",
-"trips": 9356
+"date": "2026-10-24",
+"mode": "rail_mrt_pjy",
+"trips": 114062
 },
 {
-"date": "2025-10-25",
-"mode": "rail_tebrau",
-"trips": 8103
+"date": "2026-10-25",
+"mode": "rail_mrt_pjy",
+"trips": 102354
 },
 {
-"date": "2025-10-26",
-"mode": "rail_tebrau",
-"trips": 6693
+"date": "2026-10-26",
+"mode": "rail_mrt_pjy",
+"trips": 160469
 },
 {
-"date": "2025-10-27",
-"mode": "rail_tebrau",
-"trips": 8072
+"date": "2026-10-27",
+"mode": "rail_mrt_pjy",
+"trips": 194200
 },
 {
-"date": "2025-10-28",
-"mode": "rail_tebrau",
-"trips": 8102
+"date": "2026-10-28",
+"mode": "rail_mrt_pjy",
+"trips": 197183
 },
 {
-"date": "2025-10-29",
-"mode": "rail_tebrau",
-"trips": 8025
+"date": "2026-10-29",
+"mode": "rail_mrt_pjy",
+"trips": 198395
 },
 {
-"date": "2025-10-30",
-"mode": "rail_tebrau",
-"trips": 8051
+"date": "2026-10-30",
+"mode": "rail_mrt_pjy",
+"trips": 193948
 },
 {
-"date": "2025-10-31",
-"mode": "rail_tebrau",
-"trips": 9485
+"date": "2026-10-31",
+"mode": "rail_mrt_pjy",
+"trips": 122946
 },
 {
 "date": "2025-11-01",
@@ -24193,5 +24333,310 @@
 "date": "2026-08-31",
 "mode": "rail_tebrau",
 "trips": 9174
+},
+{
+"date": "2026-09-01",
+"mode": "rail_tebrau",
+"trips": 8579
+},
+{
+"date": "2026-09-02",
+"mode": "rail_tebrau",
+"trips": 9047
+},
+{
+"date": "2026-09-03",
+"mode": "rail_tebrau",
+"trips": 9075
+},
+{
+"date": "2026-09-04",
+"mode": "rail_tebrau",
+"trips": 9742
+},
+{
+"date": "2026-09-05",
+"mode": "rail_tebrau",
+"trips": 8952
+},
+{
+"date": "2026-09-06",
+"mode": "rail_tebrau",
+"trips": 7817
+},
+{
+"date": "2026-09-07",
+"mode": "rail_tebrau",
+"trips": 8727
+},
+{
+"date": "2026-09-08",
+"mode": "rail_tebrau",
+"trips": 9230
+},
+{
+"date": "2026-09-09",
+"mode": "rail_tebrau",
+"trips": 9565
+},
+{
+"date": "2026-09-10",
+"mode": "rail_tebrau",
+"trips": 9102
+},
+{
+"date": "2026-09-11",
+"mode": "rail_tebrau",
+"trips": 9836
+},
+{
+"date": "2026-09-12",
+"mode": "rail_tebrau",
+"trips": 8403
+},
+{
+"date": "2026-09-13",
+"mode": "rail_tebrau",
+"trips": 7061
+},
+{
+"date": "2026-09-14",
+"mode": "rail_tebrau",
+"trips": 8507
+},
+{
+"date": "2026-09-15",
+"mode": "rail_tebrau",
+"trips": 8634
+},
+{
+"date": "2026-09-16",
+"mode": "rail_tebrau",
+"trips": 8982
+},
+{
+"date": "2026-09-17",
+"mode": "rail_tebrau",
+"trips": 8515
+},
+{
+"date": "2026-09-18",
+"mode": "rail_tebrau",
+"trips": 9708
+},
+{
+"date": "2026-09-19",
+"mode": "rail_tebrau",
+"trips": 8453
+},
+{
+"date": "2026-09-20",
+"mode": "rail_tebrau",
+"trips": 7057
+},
+{
+"date": "2026-09-21",
+"mode": "rail_tebrau",
+"trips": 8365
+},
+{
+"date": "2026-09-22",
+"mode": "rail_tebrau",
+"trips": 8349
+},
+{
+"date": "2026-09-23",
+"mode": "rail_tebrau",
+"trips": 8354
+},
+{
+"date": "2026-09-24",
+"mode": "rail_tebrau",
+"trips": 8353
+},
+{
+"date": "2026-09-25",
+"mode": "rail_tebrau",
+"trips": 9499
+},
+{
+"date": "2026-09-26",
+"mode": "rail_tebrau",
+"trips": 8492
+},
+{
+"date": "2026-09-27",
+"mode": "rail_tebrau",
+"trips": 6990
+},
+{
+"date": "2026-09-28",
+"mode": "rail_tebrau",
+"trips": 8306
+},
+{
+"date": "2026-09-29",
+"mode": "rail_tebrau",
+"trips": 8391
+},
+{
+"date": "2026-09-30",
+"mode": "rail_tebrau",
+"trips": 8449
+},
+{
+"date": "2026-10-01",
+"mode": "rail_tebrau",
+"trips": 8851
+},
+{
+"date": "2026-10-02",
+"mode": "rail_tebrau",
+"trips": 9724
+},
+{
+"date": "2026-10-03",
+"mode": "rail_tebrau",
+"trips": 8479
+},
+{
+"date": "2026-10-04",
+"mode": "rail_tebrau",
+"trips": 7060
+},
+{
+"date": "2026-10-05",
+"mode": "rail_tebrau",
+"trips": 8221
+},
+{
+"date": "2026-10-06",
+"mode": "rail_tebrau",
+"trips": 8214
+},
+{
+"date": "2026-10-07",
+"mode": "rail_tebrau",
+"trips": 8383
+},
+{
+"date": "2026-10-08",
+"mode": "rail_tebrau",
+"trips": 8727
+},
+{
+"date": "2026-10-09",
+"mode": "rail_tebrau",
+"trips": 9732
+},
+{
+"date": "2026-10-10",
+"mode": "rail_tebrau",
+"trips": 8909
+},
+{
+"date": "2026-10-11",
+"mode": "rail_tebrau",
+"trips": 7396
+},
+{
+"date": "2026-10-12",
+"mode": "rail_tebrau",
+"trips": 8516
+},
+{
+"date": "2026-10-13",
+"mode": "rail_tebrau",
+"trips": 8824
+},
+{
+"date": "2026-10-14",
+"mode": "rail_tebrau",
+"trips": 8712
+},
+{
+"date": "2026-10-15",
+"mode": "rail_tebrau",
+"trips": 8314
+},
+{
+"date": "2026-10-16",
+"mode": "rail_tebrau",
+"trips": 9621
+},
+{
+"date": "2026-10-17",
+"mode": "rail_tebrau",
+"trips": 8566
+},
+{
+"date": "2026-10-18",
+"mode": "rail_tebrau",
+"trips": 7076
+},
+{
+"date": "2026-10-19",
+"mode": "rail_tebrau",
+"trips": 8376
+},
+{
+"date": "2026-10-20",
+"mode": "rail_tebrau",
+"trips": 7731
+},
+{
+"date": "2026-10-21",
+"mode": "rail_tebrau",
+"trips": 8163
+},
+{
+"date": "2026-10-22",
+"mode": "rail_tebrau",
+"trips": 8018
+},
+{
+"date": "2026-10-23",
+"mode": "rail_tebrau",
+"trips": 9625
+},
+{
+"date": "2026-10-24",
+"mode": "rail_tebrau",
+"trips": 8272
+},
+{
+"date": "2026-10-25",
+"mode": "rail_tebrau",
+"trips": 7001
+},
+{
+"date": "2026-10-26",
+"mode": "rail_tebrau",
+"trips": 8325
+},
+{
+"date": "2026-10-27",
+"mode": "rail_tebrau",
+"trips": 8062
+},
+{
+"date": "2026-10-28",
+"mode": "rail_tebrau",
+"trips": 8258
+},
+{
+"date": "2026-10-29",
+"mode": "rail_tebrau",
+"trips": 8314
+},
+{
+"date": "2026-10-30",
+"mode": "rail_tebrau",
+"trips": 9488
+},
+{
+"date": "2026-10-31",
+"mode": "rail_tebrau",
+"trips": 8443
 }
 ]

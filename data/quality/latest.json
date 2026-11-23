@@ -1,13 +1,13 @@
 {
-  "run_at": "2026-11-22T09:21:17+00:00",
-  "today": "2026-11-22",
-  "snapshot": "7705135fff0a",
+  "run_at": "2026-11-23T10:17:37+00:00",
+  "today": "2026-11-23",
+  "snapshot": "5f16f08fa85e",
   "status": "warn",
   "counts": {
     "error": 0,
-    "warn": 2,
+    "warn": 1,
     "info": 2,
-    "ok": 7
+    "ok": 8
   },
   "findings": [
     {
@@ -25,7 +25,7 @@
     {
       "check": "date_contiguous",
       "severity": "ok",
-      "message": "every day present from 2019-01-01 to 2026-08-31",
+      "message": "every day present from 2019-01-01 to 2026-10-31",
       "details": {}
     },
     {
@@ -43,22 +43,26 @@
     {
       "check": "no_regression",
       "severity": "ok",
-      "message": "first snapshot; nothing to compare",
+      "message": "61 new rows; latest day 2026-08-31 \u2192 2026-10-31",
       "details": {}
     },
     {
       "check": "revisions",
       "severity": "ok",
-      "message": "first snapshot; nothing to compare",
-      "details": {}
+      "message": "0 of 27,007 previously published cells changed (0.00%)",
+      "details": {
+        "changed": 0,
+        "compared": 27007,
+        "fraction": 0.0
+      }
     },
     {
       "check": "freshness",
-      "severity": "warn",
-      "message": "latest day is 2026-08-31, 83 days behind 2026-11-22 (warn above 45)",
+      "severity": "ok",
+      "message": "latest day is 2026-10-31, 23 days behind 2026-11-23 (warn above 45)",
       "details": {
-        "latest": "2026-08-31",
-        "lag_days": 83
+        "latest": "2026-10-31",
+        "lag_days": 23
       }
     },
     {
@@ -68,26 +72,26 @@
       "details": {
         "mode": "bus_rkn",
         "since": "2025-12-15",
-        "days": 260,
+        "days": 321,
         "retired": "2025-12-14"
       }
     },
     {
       "check": "leading_zeros",
       "severity": "info",
-      "message": "LRT Shah Alam: 30 zero days before first revenue day 2026-06-29 (opening)",
+      "message": "LRT Shah Alam: 58 zero days before first revenue day 2026-06-29 (opening)",
       "details": {
         "mode": "rail_lrt_shah_alam",
-        "days": 30,
+        "days": 58,
         "first_positive": "2026-06-29"
       }
     },
     {
       "check": "outliers",
       "severity": "warn",
-      "message": "1 day/mode values outside 35%\u2013250% of their same-weekday baseline in the last 90 days (745 in all history)",
+      "message": "2 day/mode values outside 35%\u2013250% of their same-weekday baseline in the last 90 days (746 in all history)",
       "details": {
-        "total": 745,
+        "total": 746,
         "recent": [
           {
             "date": "2026-08-31",
@@ -96,6 +100,14 @@
             "value": 5420,
             "baseline": 2032,
             "ratio": 2.667
+          },
+          {
+            "date": "2026-09-01",
+            "mode": "rail_intercity",
+            "label": "KTM Intercity",
+            "value": 5151,
+            "baseline": 1834,
+            "ratio": 2.809
           }
         ]
       }

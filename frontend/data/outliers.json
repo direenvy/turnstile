@@ -5958,5 +5958,13 @@
 "value": 5420,
 "baseline": 2032,
 "ratio": 2.667
+},
+{
+"date": "2026-09-01",
+"mode": "rail_intercity",
+"label": "KTM Intercity",
+"value": 5151,
+"baseline": 1834,
+"ratio": 2.809
 }
 ]

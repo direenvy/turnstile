@@ -50,5 +50,31 @@
     "min_date": "2019-01-01",
     "max_date": "2026-08-31",
     "path": "ridership_headline.7705135fff0a.parquet"
+  },
+  {
+    "sha256": "5f16f08fa85edaea2fd8b90ab61dfd6f51e2f4d2634d36514c50ff27822882af",
+    "fetched_at": "2026-11-23T10:17:37+00:00",
+    "bytes": 72351,
+    "rows": 2861,
+    "columns": [
+      "date",
+      "bus_rkl",
+      "bus_rkn",
+      "bus_rpn",
+      "rail_lrt_ampang",
+      "rail_mrt_kajang",
+      "rail_lrt_kj",
+      "rail_monorail",
+      "rail_mrt_pjy",
+      "rail_lrt_shah_alam",
+      "rail_ets",
+      "rail_intercity",
+      "rail_komuter_utara",
+      "rail_tebrau",
+      "rail_komuter"
+    ],
+    "min_date": "2019-01-01",
+    "max_date": "2026-10-31",
+    "path": "ridership_headline.5f16f08fa85e.parquet"
   }
 ]

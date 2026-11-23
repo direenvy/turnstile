@@ -68,3 +68,4 @@
 {"run_at": "2026-11-20T09:39:53+00:00", "today": "2026-11-20", "snapshot": "7705135fff0a", "status": "warn", "counts": {"error": 0, "warn": 2, "info": 2, "ok": 7}, "flags": ["freshness", "outliers"]}
 {"run_at": "2026-11-21T09:12:04+00:00", "today": "2026-11-21", "snapshot": "7705135fff0a", "status": "warn", "counts": {"error": 0, "warn": 2, "info": 2, "ok": 7}, "flags": ["freshness", "outliers"]}
 {"run_at": "2026-11-22T09:21:17+00:00", "today": "2026-11-22", "snapshot": "7705135fff0a", "status": "warn", "counts": {"error": 0, "warn": 2, "info": 2, "ok": 7}, "flags": ["freshness", "outliers"]}
+{"run_at": "2026-11-23T10:17:37+00:00", "today": "2026-11-23", "snapshot": "5f16f08fa85e", "status": "warn", "counts": {"error": 0, "warn": 1, "info": 2, "ok": 8}, "flags": ["outliers"]}

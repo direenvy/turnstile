@@ -1,6 +1,6 @@
 {
-"run_at": "2026-11-23T10:17:37+00:00",
-"today": "2026-11-23",
+"run_at": "2026-11-24T11:59:28+00:00",
+"today": "2026-11-24",
 "snapshot": "5f16f08fa85e",
 "status": "warn",
 "counts": {
@@ -43,26 +43,22 @@
 {
 "check": "no_regression",
 "severity": "ok",
-"message": "61 new rows; latest day 2026-08-31 \u2192 2026-10-31",
+"message": "first snapshot; nothing to compare",
 "details": {}
 },
 {
 "check": "revisions",
 "severity": "ok",
-"message": "0 of 27,007 previously published cells changed (0.00%)",
-"details": {
-"changed": 0,
-"compared": 27007,
-"fraction": 0.0
-}
+"message": "first snapshot; nothing to compare",
+"details": {}
 },
 {
 "check": "freshness",
 "severity": "ok",
-"message": "latest day is 2026-10-31, 23 days behind 2026-11-23 (warn above 45)",
+"message": "latest day is 2026-10-31, 24 days behind 2026-11-24 (warn above 45)",
 "details": {
 "latest": "2026-10-31",
-"lag_days": 23
+"lag_days": 24
 }
 },
 {
